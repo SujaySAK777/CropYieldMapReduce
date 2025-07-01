@@ -1,0 +1,995 @@
+Andhra Pradesh,Arecanut	Avg Area: 489.94, Avg Agri Land: 576.41, Avg Barren Land: 86.46, Avg Yield: 2.21, Avg Rainfall: 922.81, Fertilizer per ha: 140.16, Pesticide per ha: 0.28
+Andhra Pradesh,Arhar/Tur	Avg Area: 210217.63, Avg Agri Land: 247314.86, Avg Barren Land: 37097.23, Avg Yield: 0.49, Avg Rainfall: 919.42, Fertilizer per ha: 134.46, Pesticide per ha: 0.27
+Andhra Pradesh,Bajra	Avg Area: 36373.47, Avg Agri Land: 42792.31, Avg Barren Land: 6418.85, Avg Yield: 1.25, Avg Rainfall: 913.73, Fertilizer per ha: 134.09, Pesticide per ha: 0.27
+Andhra Pradesh,Banana	Avg Area: 55394.17, Avg Agri Land: 65169.61, Avg Barren Land: 9775.44, Avg Yield: 39.96, Avg Rainfall: 912.42, Fertilizer per ha: 137.80, Pesticide per ha: 0.27
+Andhra Pradesh,Black pepper	Avg Area: 8824.50, Avg Agri Land: 10381.76, Avg Barren Land: 1557.26, Avg Yield: 0.88, Avg Rainfall: 980.75, Fertilizer per ha: 158.12, Pesticide per ha: 0.32
+Andhra Pradesh,Cashewnut	Avg Area: 132830.05, Avg Agri Land: 156270.65, Avg Barren Land: 23440.60, Avg Yield: 0.45, Avg Rainfall: 915.38, Fertilizer per ha: 138.49, Pesticide per ha: 0.27
+Andhra Pradesh,Castor seed	Avg Area: 136716.47, Avg Agri Land: 160842.90, Avg Barren Land: 24126.44, Avg Yield: 0.54, Avg Rainfall: 919.71, Fertilizer per ha: 138.76, Pesticide per ha: 0.29
+Andhra Pradesh,Coconut	Avg Area: 103451.26, Avg Agri Land: 121707.37, Avg Barren Land: 18256.11, Avg Yield: 11734.83, Avg Rainfall: 915.38, Fertilizer per ha: 138.49, Pesticide per ha: 0.27
+Andhra Pradesh,Coriander	Avg Area: 20156.71, Avg Agri Land: 23713.77, Avg Barren Land: 3557.07, Avg Yield: 0.52, Avg Rainfall: 914.23, Fertilizer per ha: 141.19, Pesticide per ha: 0.28
+Andhra Pradesh,Cotton(lint)	Avg Area: 833122.77, Avg Agri Land: 980144.43, Avg Barren Land: 147021.66, Avg Yield: 2.14, Avg Rainfall: 919.71, Fertilizer per ha: 138.76, Pesticide per ha: 0.29
+Andhra Pradesh,Cowpea(Lobia)	Avg Area: 8371.89, Avg Agri Land: 9849.28, Avg Barren Land: 1477.39, Avg Yield: 0.58, Avg Rainfall: 933.23, Fertilizer per ha: 157.37, Pesticide per ha: 0.34
+Andhra Pradesh,Dry chillies	Avg Area: 101433.56, Avg Agri Land: 119333.59, Avg Barren Land: 17900.04, Avg Yield: 3.10, Avg Rainfall: 919.89, Fertilizer per ha: 133.85, Pesticide per ha: 0.27
+Andhra Pradesh,Garlic	Avg Area: 555.00, Avg Agri Land: 652.94, Avg Barren Land: 97.94, Avg Yield: 1.33, Avg Rainfall: 945.44, Fertilizer per ha: 143.54, Pesticide per ha: 0.23
+Andhra Pradesh,Ginger	Avg Area: 1204.83, Avg Agri Land: 1417.44, Avg Barren Land: 212.62, Avg Yield: 4.14, Avg Rainfall: 907.80, Fertilizer per ha: 141.05, Pesticide per ha: 0.28
+Andhra Pradesh,Gram	Avg Area: 301307.06, Avg Agri Land: 354478.89, Avg Barren Land: 53171.83, Avg Yield: 1.16, Avg Rainfall: 912.43, Fertilizer per ha: 130.20, Pesticide per ha: 0.28
+Andhra Pradesh,Groundnut	Avg Area: 702565.61, Avg Agri Land: 826547.77, Avg Barren Land: 123982.17, Avg Yield: 1.65, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Guar seed	Avg Area: 16.33, Avg Agri Land: 19.22, Avg Barren Land: 2.88, Avg Yield: 0.63, Avg Rainfall: 896.13, Fertilizer per ha: 165.59, Pesticide per ha: 0.36
+Andhra Pradesh,Horse-gram	Avg Area: 32251.15, Avg Agri Land: 37942.53, Avg Barren Land: 5691.38, Avg Yield: 0.42, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Jowar	Avg Area: 196233.52, Avg Agri Land: 230862.97, Avg Barren Land: 34629.45, Avg Yield: 1.44, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Linseed	Avg Area: 2120.25, Avg Agri Land: 2494.41, Avg Barren Land: 374.16, Avg Yield: 0.29, Avg Rainfall: 902.13, Fertilizer per ha: 136.87, Pesticide per ha: 0.27
+Andhra Pradesh,Maize	Avg Area: 274586.50, Avg Agri Land: 323042.94, Avg Barren Land: 48456.44, Avg Yield: 4.64, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Masoor	Avg Area: 216079.50, Avg Agri Land: 254211.18, Avg Barren Land: 38131.68, Avg Yield: 0.36, Avg Rainfall: 650.40, Fertilizer per ha: 106.13, Pesticide per ha: 0.27
+Andhra Pradesh,Mesta	Avg Area: 33539.84, Avg Agri Land: 39458.64, Avg Barren Land: 5918.80, Avg Yield: 8.25, Avg Rainfall: 922.52, Fertilizer per ha: 136.48, Pesticide per ha: 0.27
+Andhra Pradesh,Moong(Green Gram)	Avg Area: 169294.37, Avg Agri Land: 199169.85, Avg Barren Land: 29875.48, Avg Yield: 0.51, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Niger seed	Avg Area: 10178.77, Avg Agri Land: 11975.03, Avg Barren Land: 1796.25, Avg Yield: 0.41, Avg Rainfall: 923.89, Fertilizer per ha: 138.37, Pesticide per ha: 0.28
+Andhra Pradesh,Oilseeds total	Avg Area: 556267.33, Avg Agri Land: 654432.16, Avg Barren Land: 98164.82, Avg Yield: 4.04, Avg Rainfall: 966.28, Fertilizer per ha: 160.80, Pesticide per ha: 0.36
+Andhra Pradesh,Onion	Avg Area: 17934.17, Avg Agri Land: 21099.02, Avg Barren Land: 3164.85, Avg Yield: 34.69, Avg Rainfall: 913.25, Fertilizer per ha: 137.45, Pesticide per ha: 0.27
+Andhra Pradesh,Other  Rabi pulses	Avg Area: 8247.95, Avg Agri Land: 9703.47, Avg Barren Land: 1455.52, Avg Yield: 0.72, Avg Rainfall: 918.46, Fertilizer per ha: 132.81, Pesticide per ha: 0.27
+Andhra Pradesh,Other Kharif pulses	Avg Area: 7047.90, Avg Agri Land: 8291.65, Avg Barren Land: 1243.75, Avg Yield: 0.44, Avg Rainfall: 925.31, Fertilizer per ha: 133.37, Pesticide per ha: 0.27
+Andhra Pradesh,Potato	Avg Area: 2058.59, Avg Agri Land: 2421.87, Avg Barren Land: 363.28, Avg Yield: 10.74, Avg Rainfall: 923.31, Fertilizer per ha: 143.70, Pesticide per ha: 0.29
+Andhra Pradesh,Ragi	Avg Area: 29046.17, Avg Agri Land: 34171.97, Avg Barren Land: 5125.80, Avg Yield: 1.41, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Rapeseed &Mustard	Avg Area: 3715.45, Avg Agri Land: 4371.12, Avg Barren Land: 655.67, Avg Yield: 0.55, Avg Rainfall: 903.34, Fertilizer per ha: 138.57, Pesticide per ha: 0.28
+Andhra Pradesh,Rice	Avg Area: 1675083.89, Avg Agri Land: 1970686.93, Avg Barren Land: 295603.04, Avg Yield: 3.01, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Safflower	Avg Area: 8410.78, Avg Agri Land: 9895.04, Avg Barren Land: 1484.26, Avg Yield: 0.50, Avg Rainfall: 906.12, Fertilizer per ha: 139.29, Pesticide per ha: 0.28
+Andhra Pradesh,Sannhamp	Avg Area: 3077.33, Avg Agri Land: 3620.39, Avg Barren Land: 543.06, Avg Yield: 0.00, Avg Rainfall: 953.57, Fertilizer per ha: 162.67, Pesticide per ha: 0.34
+Andhra Pradesh,Sesamum	Avg Area: 52967.83, Avg Agri Land: 62315.09, Avg Barren Land: 9347.26, Avg Yield: 0.25, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Small millets	Avg Area: 17631.19, Avg Agri Land: 20742.58, Avg Barren Land: 3111.39, Avg Yield: 0.67, Avg Rainfall: 921.24, Fertilizer per ha: 135.36, Pesticide per ha: 0.27
+Andhra Pradesh,Soyabean	Avg Area: 38204.96, Avg Agri Land: 44947.01, Avg Barren Land: 6742.05, Avg Yield: 1.44, Avg Rainfall: 922.62, Fertilizer per ha: 147.19, Pesticide per ha: 0.29
+Andhra Pradesh,Sugarcane	Avg Area: 184126.00, Avg Agri Land: 216618.82, Avg Barren Land: 32492.82, Avg Yield: 81.75, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Sunflower	Avg Area: 165363.86, Avg Agri Land: 194545.71, Avg Barren Land: 29181.86, Avg Yield: 0.86, Avg Rainfall: 923.48, Fertilizer per ha: 135.69, Pesticide per ha: 0.28
+Andhra Pradesh,Sweet potato	Avg Area: 685.89, Avg Agri Land: 806.93, Avg Barren Land: 121.04, Avg Yield: 11.89, Avg Rainfall: 923.31, Fertilizer per ha: 143.70, Pesticide per ha: 0.29
+Andhra Pradesh,Tapioca	Avg Area: 9667.73, Avg Agri Land: 11373.80, Avg Barren Land: 1706.07, Avg Yield: 10.87, Avg Rainfall: 921.57, Fertilizer per ha: 143.43, Pesticide per ha: 0.29
+Andhra Pradesh,Tobacco	Avg Area: 120496.75, Avg Agri Land: 141760.88, Avg Barren Land: 21264.13, Avg Yield: 5.74, Avg Rainfall: 922.77, Fertilizer per ha: 139.51, Pesticide per ha: 0.29
+Andhra Pradesh,Urad	Avg Area: 224612.09, Avg Agri Land: 264249.51, Avg Barren Land: 39637.43, Avg Yield: 0.61, Avg Rainfall: 914.03, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Andhra Pradesh,Wheat	Avg Area: 7345.50, Avg Agri Land: 8641.76, Avg Barren Land: 1296.26, Avg Yield: 0.81, Avg Rainfall: 912.12, Fertilizer per ha: 134.26, Pesticide per ha: 0.27
+Andhra Pradesh,other oilseeds	Avg Area: 53139.40, Avg Agri Land: 62516.94, Avg Barren Land: 9377.54, Avg Yield: 10.28, Avg Rainfall: 882.57, Fertilizer per ha: 146.88, Pesticide per ha: 0.32
+Arunachal Pradesh,Arhar/Tur	Avg Area: 807.75, Avg Agri Land: 950.29, Avg Barren Land: 142.54, Avg Yield: 0.82, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Dry chillies	Avg Area: 2337.73, Avg Agri Land: 2750.27, Avg Barren Land: 412.54, Avg Yield: 2.15, Avg Rainfall: 2561.20, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Arunachal Pradesh,Ginger	Avg Area: 6168.73, Avg Agri Land: 7257.33, Avg Barren Land: 1088.60, Avg Yield: 6.18, Avg Rainfall: 2561.20, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Arunachal Pradesh,Groundnut	Avg Area: 842.67, Avg Agri Land: 991.37, Avg Barren Land: 148.71, Avg Yield: 1.10, Avg Rainfall: 2832.83, Fertilizer per ha: 139.77, Pesticide per ha: 0.34
+Arunachal Pradesh,Maize	Avg Area: 43643.61, Avg Agri Land: 51345.42, Avg Barren Land: 7701.81, Avg Yield: 1.54, Avg Rainfall: 2548.75, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Arunachal Pradesh,Masoor	Avg Area: 439.50, Avg Agri Land: 517.06, Avg Barren Land: 77.56, Avg Yield: 0.72, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Moong(Green Gram)	Avg Area: 1296.50, Avg Agri Land: 1525.29, Avg Barren Land: 228.79, Avg Yield: 1.09, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Oilseeds total	Avg Area: 34833.05, Avg Agri Land: 40980.06, Avg Barren Land: 6147.01, Avg Yield: 1.06, Avg Rainfall: 2500.84, Fertilizer per ha: 127.37, Pesticide per ha: 0.25
+Arunachal Pradesh,Other  Rabi pulses	Avg Area: 1263.00, Avg Agri Land: 1485.88, Avg Barren Land: 222.88, Avg Yield: 0.73, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Other Kharif pulses	Avg Area: 2484.00, Avg Agri Land: 2922.35, Avg Barren Land: 438.35, Avg Yield: 0.92, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Peas & beans (Pulses)	Avg Area: 2170.38, Avg Agri Land: 2553.38, Avg Barren Land: 383.01, Avg Yield: 1.31, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Potato	Avg Area: 4859.77, Avg Agri Land: 5717.38, Avg Barren Land: 857.61, Avg Yield: 7.06, Avg Rainfall: 2561.20, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Arunachal Pradesh,Rapeseed &Mustard	Avg Area: 25628.33, Avg Agri Land: 30150.98, Avg Barren Land: 4522.65, Avg Yield: 1.14, Avg Rainfall: 2832.83, Fertilizer per ha: 139.77, Pesticide per ha: 0.34
+Arunachal Pradesh,Rice	Avg Area: 124703.17, Avg Agri Land: 146709.62, Avg Barren Land: 22006.44, Avg Yield: 1.31, Avg Rainfall: 2548.75, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Arunachal Pradesh,Sesamum	Avg Area: 1814.17, Avg Agri Land: 2134.31, Avg Barren Land: 320.15, Avg Yield: 0.77, Avg Rainfall: 2832.83, Fertilizer per ha: 139.77, Pesticide per ha: 0.34
+Arunachal Pradesh,Small millets	Avg Area: 22642.78, Avg Agri Land: 26638.57, Avg Barren Land: 3995.79, Avg Yield: 0.97, Avg Rainfall: 2548.75, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Arunachal Pradesh,Soyabean	Avg Area: 2926.83, Avg Agri Land: 3443.33, Avg Barren Land: 516.50, Avg Yield: 1.59, Avg Rainfall: 2832.83, Fertilizer per ha: 139.77, Pesticide per ha: 0.34
+Arunachal Pradesh,Sugarcane	Avg Area: 1334.30, Avg Agri Land: 1569.77, Avg Barren Land: 235.47, Avg Yield: 18.96, Avg Rainfall: 2548.75, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Arunachal Pradesh,Sunflower	Avg Area: 523.50, Avg Agri Land: 615.88, Avg Barren Land: 92.38, Avg Yield: 0.71, Avg Rainfall: 2832.83, Fertilizer per ha: 139.77, Pesticide per ha: 0.34
+Arunachal Pradesh,Turmeric	Avg Area: 608.55, Avg Agri Land: 715.94, Avg Barren Land: 107.39, Avg Yield: 4.40, Avg Rainfall: 2561.20, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Arunachal Pradesh,Urad	Avg Area: 1285.88, Avg Agri Land: 1512.79, Avg Barren Land: 226.92, Avg Yield: 0.97, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Arunachal Pradesh,Wheat	Avg Area: 3771.83, Avg Agri Land: 4437.44, Avg Barren Land: 665.62, Avg Yield: 1.72, Avg Rainfall: 2548.75, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Arunachal Pradesh,other oilseeds	Avg Area: 707.75, Avg Agri Land: 832.65, Avg Barren Land: 124.90, Avg Yield: 1.12, Avg Rainfall: 2776.35, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Assam,Arecanut	Avg Area: 69570.05, Avg Agri Land: 81847.11, Avg Barren Land: 12277.07, Avg Yield: 0.90, Avg Rainfall: 2078.64, Fertilizer per ha: 134.38, Pesticide per ha: 0.27
+Assam,Arhar/Tur	Avg Area: 6412.17, Avg Agri Land: 7543.73, Avg Barren Land: 1131.56, Avg Yield: 0.77, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Banana	Avg Area: 46365.62, Avg Agri Land: 54547.79, Avg Barren Land: 8182.17, Avg Yield: 15.00, Avg Rainfall: 2079.94, Fertilizer per ha: 136.25, Pesticide per ha: 0.27
+Assam,Black pepper	Avg Area: 3337.23, Avg Agri Land: 3926.15, Avg Barren Land: 588.92, Avg Yield: 1.80, Avg Rainfall: 2091.19, Fertilizer per ha: 154.98, Pesticide per ha: 0.28
+Assam,Castor seed	Avg Area: 1164.61, Avg Agri Land: 1370.13, Avg Barren Land: 205.52, Avg Yield: 0.49, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Coconut	Avg Area: 20190.77, Avg Agri Land: 23753.85, Avg Barren Land: 3563.08, Avg Yield: 7185.24, Avg Rainfall: 2078.64, Fertilizer per ha: 134.38, Pesticide per ha: 0.27
+Assam,Cotton(lint)	Avg Area: 1335.87, Avg Agri Land: 1571.61, Avg Barren Land: 235.74, Avg Yield: 0.50, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Dry chillies	Avg Area: 17074.57, Avg Agri Land: 20087.72, Avg Barren Land: 3013.16, Avg Yield: 0.70, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Ginger	Avg Area: 16605.23, Avg Agri Land: 19535.57, Avg Barren Land: 2930.33, Avg Yield: 7.90, Avg Rainfall: 2091.19, Fertilizer per ha: 154.98, Pesticide per ha: 0.28
+Assam,Gram	Avg Area: 2193.39, Avg Agri Land: 2580.46, Avg Barren Land: 387.07, Avg Yield: 0.54, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Jute	Avg Area: 67582.52, Avg Agri Land: 79508.85, Avg Barren Land: 11926.33, Avg Yield: 10.01, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Linseed	Avg Area: 7600.70, Avg Agri Land: 8941.99, Avg Barren Land: 1341.30, Avg Yield: 0.54, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Maize	Avg Area: 23081.00, Avg Agri Land: 27154.12, Avg Barren Land: 4073.12, Avg Yield: 1.36, Avg Rainfall: 2078.64, Fertilizer per ha: 134.38, Pesticide per ha: 0.27
+Assam,Masoor	Avg Area: 23879.42, Avg Agri Land: 28093.44, Avg Barren Land: 4214.02, Avg Yield: 0.59, Avg Rainfall: 2089.15, Fertilizer per ha: 140.34, Pesticide per ha: 0.27
+Assam,Mesta	Avg Area: 4716.22, Avg Agri Land: 5548.49, Avg Barren Land: 832.27, Avg Yield: 5.11, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Moong(Green Gram)	Avg Area: 9207.89, Avg Agri Land: 10832.82, Avg Barren Land: 1624.92, Avg Yield: 0.53, Avg Rainfall: 2089.15, Fertilizer per ha: 140.34, Pesticide per ha: 0.27
+Assam,Niger seed	Avg Area: 7968.35, Avg Agri Land: 9374.53, Avg Barren Land: 1406.18, Avg Yield: 0.55, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Onion	Avg Area: 7551.26, Avg Agri Land: 8883.84, Avg Barren Land: 1332.58, Avg Yield: 3.60, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Other  Rabi pulses	Avg Area: 64638.79, Avg Agri Land: 76045.63, Avg Barren Land: 11406.84, Avg Yield: 0.57, Avg Rainfall: 2133.92, Fertilizer per ha: 123.51, Pesticide per ha: 0.28
+Assam,Peas & beans (Pulses)	Avg Area: 25197.16, Avg Agri Land: 29643.72, Avg Barren Land: 4446.56, Avg Yield: 0.73, Avg Rainfall: 2089.15, Fertilizer per ha: 140.34, Pesticide per ha: 0.27
+Assam,Potato	Avg Area: 87014.17, Avg Agri Land: 102369.62, Avg Barren Land: 15355.44, Avg Yield: 7.12, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Rapeseed &Mustard	Avg Area: 265517.61, Avg Agri Land: 312373.66, Avg Barren Land: 46856.05, Avg Yield: 0.54, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Rice	Avg Area: 825556.96, Avg Agri Land: 971243.48, Avg Barren Land: 145686.52, Avg Yield: 1.67, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Sesamum	Avg Area: 13090.39, Avg Agri Land: 15400.46, Avg Barren Land: 2310.07, Avg Yield: 0.55, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Small millets	Avg Area: 6981.96, Avg Agri Land: 8214.07, Avg Barren Land: 1232.11, Avg Yield: 0.55, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Sugarcane	Avg Area: 28232.78, Avg Agri Land: 33215.04, Avg Barren Land: 4982.26, Avg Yield: 37.49, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Sweet potato	Avg Area: 7043.17, Avg Agri Land: 8286.09, Avg Barren Land: 1242.91, Avg Yield: 4.10, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Tapioca	Avg Area: 3110.86, Avg Agri Land: 3659.84, Avg Barren Land: 548.98, Avg Yield: 6.11, Avg Rainfall: 2078.64, Fertilizer per ha: 134.38, Pesticide per ha: 0.27
+Assam,Tobacco	Avg Area: 593.96, Avg Agri Land: 698.77, Avg Barren Land: 104.82, Avg Yield: 0.59, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Turmeric	Avg Area: 13779.43, Avg Agri Land: 16211.10, Avg Barren Land: 2431.66, Avg Yield: 0.83, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Assam,Urad	Avg Area: 47273.16, Avg Agri Land: 55615.48, Avg Barren Land: 8342.32, Avg Yield: 0.58, Avg Rainfall: 2089.15, Fertilizer per ha: 140.34, Pesticide per ha: 0.27
+Assam,Wheat	Avg Area: 49135.70, Avg Agri Land: 57806.70, Avg Barren Land: 8671.01, Avg Yield: 1.18, Avg Rainfall: 2098.56, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Arhar/Tur	Avg Area: 31992.00, Avg Agri Land: 37637.65, Avg Barren Land: 5645.65, Avg Yield: 1.46, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Bajra	Avg Area: 3282.04, Avg Agri Land: 3861.23, Avg Barren Land: 579.18, Avg Yield: 0.99, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Banana	Avg Area: 16234.10, Avg Agri Land: 19098.94, Avg Barren Land: 2864.84, Avg Yield: 18.22, Avg Rainfall: 1260.84, Fertilizer per ha: 105.57, Pesticide per ha: 0.25
+Bihar,Barley	Avg Area: 16879.68, Avg Agri Land: 19858.45, Avg Barren Land: 2978.77, Avg Yield: 1.26, Avg Rainfall: 1137.93, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Bihar,Castor seed	Avg Area: 226.56, Avg Agri Land: 266.54, Avg Barren Land: 39.98, Avg Yield: 0.96, Avg Rainfall: 1146.58, Fertilizer per ha: 137.49, Pesticide per ha: 0.28
+Bihar,Coriander	Avg Area: 2462.86, Avg Agri Land: 2897.48, Avg Barren Land: 434.62, Avg Yield: 0.71, Avg Rainfall: 1260.15, Fertilizer per ha: 121.45, Pesticide per ha: 0.28
+Bihar,Cotton(lint)	Avg Area: 121.50, Avg Agri Land: 142.94, Avg Barren Land: 21.44, Avg Yield: 2.02, Avg Rainfall: 1318.10, Fertilizer per ha: 96.98, Pesticide per ha: 0.30
+Bihar,Dry chillies	Avg Area: 3901.09, Avg Agri Land: 4589.52, Avg Barren Land: 688.43, Avg Yield: 0.94, Avg Rainfall: 1255.10, Fertilizer per ha: 108.98, Pesticide per ha: 0.23
+Bihar,Garlic	Avg Area: 2380.40, Avg Agri Land: 2800.47, Avg Barren Land: 420.07, Avg Yield: 1.47, Avg Rainfall: 1255.99, Fertilizer per ha: 122.89, Pesticide per ha: 0.27
+Bihar,Ginger	Avg Area: 531.50, Avg Agri Land: 625.29, Avg Barren Land: 93.79, Avg Yield: 1.55, Avg Rainfall: 1249.23, Fertilizer per ha: 121.98, Pesticide per ha: 0.26
+Bihar,Gram	Avg Area: 68399.26, Avg Agri Land: 80469.72, Avg Barren Land: 12070.46, Avg Yield: 1.00, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Groundnut	Avg Area: 1102.24, Avg Agri Land: 1296.75, Avg Barren Land: 194.51, Avg Yield: 0.86, Avg Rainfall: 1166.43, Fertilizer per ha: 132.44, Pesticide per ha: 0.28
+Bihar,Horse-gram	Avg Area: 11103.06, Avg Agri Land: 13062.42, Avg Barren Land: 1959.36, Avg Yield: 0.88, Avg Rainfall: 1108.35, Fertilizer per ha: 137.03, Pesticide per ha: 0.29
+Bihar,Jowar	Avg Area: 3514.65, Avg Agri Land: 4134.88, Avg Barren Land: 620.23, Avg Yield: 1.04, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Jute	Avg Area: 120768.04, Avg Agri Land: 142080.05, Avg Barren Land: 21312.01, Avg Yield: 10.82, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Khesari	Avg Area: 92004.57, Avg Agri Land: 108240.67, Avg Barren Land: 16236.10, Avg Yield: 0.87, Avg Rainfall: 1133.38, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Bihar,Linseed	Avg Area: 27362.35, Avg Agri Land: 32191.00, Avg Barren Land: 4828.65, Avg Yield: 0.80, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Maize	Avg Area: 222668.54, Avg Agri Land: 261962.98, Avg Barren Land: 39294.45, Avg Yield: 3.00, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Masoor	Avg Area: 162120.24, Avg Agri Land: 190729.69, Avg Barren Land: 28609.45, Avg Yield: 0.84, Avg Rainfall: 1133.38, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Bihar,Mesta	Avg Area: 18654.39, Avg Agri Land: 21946.34, Avg Barren Land: 3291.95, Avg Yield: 7.51, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Moong(Green Gram)	Avg Area: 82443.60, Avg Agri Land: 96992.46, Avg Barren Land: 14548.87, Avg Yield: 0.64, Avg Rainfall: 1135.93, Fertilizer per ha: 136.63, Pesticide per ha: 0.27
+Bihar,Niger seed	Avg Area: 25396.50, Avg Agri Land: 29878.24, Avg Barren Land: 4481.74, Avg Yield: 0.61, Avg Rainfall: 1318.10, Fertilizer per ha: 96.98, Pesticide per ha: 0.30
+Bihar,Onion	Avg Area: 15169.13, Avg Agri Land: 17846.04, Avg Barren Land: 2676.91, Avg Yield: 9.97, Avg Rainfall: 1255.99, Fertilizer per ha: 122.89, Pesticide per ha: 0.27
+Bihar,Other  Rabi pulses	Avg Area: 28236.27, Avg Agri Land: 33219.14, Avg Barren Land: 4982.87, Avg Yield: 0.87, Avg Rainfall: 1153.84, Fertilizer per ha: 133.50, Pesticide per ha: 0.27
+Bihar,Other Kharif pulses	Avg Area: 10217.90, Avg Agri Land: 12021.06, Avg Barren Land: 1803.16, Avg Yield: 0.71, Avg Rainfall: 1141.99, Fertilizer per ha: 134.80, Pesticide per ha: 0.27
+Bihar,Peas & beans (Pulses)	Avg Area: 20801.86, Avg Agri Land: 24472.77, Avg Barren Land: 3670.92, Avg Yield: 0.98, Avg Rainfall: 1133.38, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Bihar,Potato	Avg Area: 114291.15, Avg Agri Land: 134460.18, Avg Barren Land: 20169.03, Avg Yield: 10.96, Avg Rainfall: 1253.56, Fertilizer per ha: 131.55, Pesticide per ha: 0.28
+Bihar,Ragi	Avg Area: 18645.87, Avg Agri Land: 21936.32, Avg Barren Land: 3290.45, Avg Yield: 0.96, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Rapeseed &Mustard	Avg Area: 87894.13, Avg Agri Land: 103404.86, Avg Barren Land: 15510.73, Avg Yield: 1.00, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Rice	Avg Area: 1129714.65, Avg Agri Land: 1329076.06, Avg Barren Land: 199361.41, Avg Yield: 1.59, Avg Rainfall: 1146.03, Fertilizer per ha: 133.65, Pesticide per ha: 0.27
+Bihar,Safflower	Avg Area: 289.62, Avg Agri Land: 340.73, Avg Barren Land: 51.11, Avg Yield: 0.81, Avg Rainfall: 1166.43, Fertilizer per ha: 132.44, Pesticide per ha: 0.28
+Bihar,Sannhamp	Avg Area: 2452.06, Avg Agri Land: 2884.77, Avg Barren Land: 432.72, Avg Yield: 1.30, Avg Rainfall: 1158.57, Fertilizer per ha: 134.70, Pesticide per ha: 0.27
+Bihar,Sesamum	Avg Area: 4141.14, Avg Agri Land: 4871.93, Avg Barren Land: 730.79, Avg Yield: 0.78, Avg Rainfall: 1161.27, Fertilizer per ha: 132.22, Pesticide per ha: 0.27
+Bihar,Small millets	Avg Area: 8173.57, Avg Agri Land: 9615.97, Avg Barren Land: 1442.39, Avg Yield: 0.77, Avg Rainfall: 1141.99, Fertilizer per ha: 134.80, Pesticide per ha: 0.27
+Bihar,Soyabean	Avg Area: 19600.00, Avg Agri Land: 23058.82, Avg Barren Land: 3458.82, Avg Yield: 0.75, Avg Rainfall: 1194.70, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Bihar,Sugarcane	Avg Area: 162558.90, Avg Agri Land: 191245.77, Avg Barren Land: 28686.87, Avg Yield: 48.32, Avg Rainfall: 1156.54, Fertilizer per ha: 131.88, Pesticide per ha: 0.27
+Bihar,Sunflower	Avg Area: 15511.57, Avg Agri Land: 18248.90, Avg Barren Land: 2737.34, Avg Yield: 1.32, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Bihar,Sweet potato	Avg Area: 6130.17, Avg Agri Land: 7211.96, Avg Barren Land: 1081.79, Avg Yield: 13.05, Avg Rainfall: 1250.32, Fertilizer per ha: 111.82, Pesticide per ha: 0.22
+Bihar,Tobacco	Avg Area: 12917.43, Avg Agri Land: 15196.97, Avg Barren Land: 2279.55, Avg Yield: 1.49, Avg Rainfall: 1151.75, Fertilizer per ha: 133.05, Pesticide per ha: 0.28
+Bihar,Turmeric	Avg Area: 2992.07, Avg Agri Land: 3520.08, Avg Barren Land: 528.01, Avg Yield: 1.05, Avg Rainfall: 1255.99, Fertilizer per ha: 122.89, Pesticide per ha: 0.27
+Bihar,Urad	Avg Area: 19614.41, Avg Agri Land: 23075.78, Avg Barren Land: 3461.37, Avg Yield: 0.82, Avg Rainfall: 1142.43, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Bihar,Wheat	Avg Area: 2113738.17, Avg Agri Land: 2486750.79, Avg Barren Land: 373012.62, Avg Yield: 2.20, Avg Rainfall: 1149.44, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Chhattisgarh,Arhar/Tur	Avg Area: 53734.55, Avg Agri Land: 63217.12, Avg Barren Land: 9482.57, Avg Yield: 0.49, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Bajra	Avg Area: 434.10, Avg Agri Land: 510.71, Avg Barren Land: 76.61, Avg Yield: 17.10, Avg Rainfall: 1260.35, Fertilizer per ha: 138.07, Pesticide per ha: 0.27
+Chhattisgarh,Barley	Avg Area: 2976.50, Avg Agri Land: 3501.76, Avg Barren Land: 525.26, Avg Yield: 0.84, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Castor seed	Avg Area: 82.80, Avg Agri Land: 97.41, Avg Barren Land: 14.61, Avg Yield: 0.32, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Coconut	Avg Area: 63.86, Avg Agri Land: 75.13, Avg Barren Land: 11.27, Avg Yield: 0.00, Avg Rainfall: 1290.96, Fertilizer per ha: 155.21, Pesticide per ha: 0.29
+Chhattisgarh,Coriander	Avg Area: 2859.05, Avg Agri Land: 3363.59, Avg Barren Land: 504.54, Avg Yield: 0.30, Avg Rainfall: 1271.63, Fertilizer per ha: 138.53, Pesticide per ha: 0.27
+Chhattisgarh,Cotton(lint)	Avg Area: 316.35, Avg Agri Land: 372.18, Avg Barren Land: 55.83, Avg Yield: 1.38, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Dry chillies	Avg Area: 6358.95, Avg Agri Land: 7481.12, Avg Barren Land: 1122.17, Avg Yield: 0.59, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Garlic	Avg Area: 976.48, Avg Agri Land: 1148.80, Avg Barren Land: 172.32, Avg Yield: 3.05, Avg Rainfall: 1271.63, Fertilizer per ha: 138.53, Pesticide per ha: 0.27
+Chhattisgarh,Ginger	Avg Area: 1747.00, Avg Agri Land: 2055.29, Avg Barren Land: 308.29, Avg Yield: 1.16, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Gram	Avg Area: 258057.90, Avg Agri Land: 303597.53, Avg Barren Land: 45539.63, Avg Yield: 0.83, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Groundnut	Avg Area: 30204.60, Avg Agri Land: 35534.82, Avg Barren Land: 5330.22, Avg Yield: 1.31, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Guar seed	Avg Area: 26.00, Avg Agri Land: 30.59, Avg Barren Land: 4.59, Avg Yield: 0.81, Avg Rainfall: 1418.30, Fertilizer per ha: 144.49, Pesticide per ha: 0.27
+Chhattisgarh,Horse-gram	Avg Area: 26573.97, Avg Agri Land: 31263.50, Avg Barren Land: 4689.52, Avg Yield: 0.32, Avg Rainfall: 1270.35, Fertilizer per ha: 141.10, Pesticide per ha: 0.27
+Chhattisgarh,Jowar	Avg Area: 6085.00, Avg Agri Land: 7158.82, Avg Barren Land: 1073.82, Avg Yield: 0.97, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Jute	Avg Area: 212.75, Avg Agri Land: 250.29, Avg Barren Land: 37.54, Avg Yield: 0.00, Avg Rainfall: 1284.58, Fertilizer per ha: 155.50, Pesticide per ha: 0.30
+Chhattisgarh,Khesari	Avg Area: 335147.30, Avg Agri Land: 394290.94, Avg Barren Land: 59143.64, Avg Yield: 0.60, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Linseed	Avg Area: 46807.37, Avg Agri Land: 55067.49, Avg Barren Land: 8260.12, Avg Yield: 0.31, Avg Rainfall: 1262.48, Fertilizer per ha: 137.44, Pesticide per ha: 0.26
+Chhattisgarh,Maize	Avg Area: 98808.32, Avg Agri Land: 116245.08, Avg Barren Land: 17436.76, Avg Yield: 1.72, Avg Rainfall: 1278.30, Fertilizer per ha: 138.80, Pesticide per ha: 0.27
+Chhattisgarh,Masoor	Avg Area: 15903.50, Avg Agri Land: 18710.00, Avg Barren Land: 2806.50, Avg Yield: 0.32, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Mesta	Avg Area: 1201.95, Avg Agri Land: 1414.06, Avg Barren Land: 212.11, Avg Yield: 2.03, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Moong(Green Gram)	Avg Area: 7155.74, Avg Agri Land: 8418.52, Avg Barren Land: 1262.78, Avg Yield: 0.27, Avg Rainfall: 1268.93, Fertilizer per ha: 139.73, Pesticide per ha: 0.27
+Chhattisgarh,Niger seed	Avg Area: 66319.90, Avg Agri Land: 78023.41, Avg Barren Land: 11703.51, Avg Yield: 0.43, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Onion	Avg Area: 4223.36, Avg Agri Land: 4968.66, Avg Barren Land: 745.30, Avg Yield: 6.95, Avg Rainfall: 1278.30, Fertilizer per ha: 138.80, Pesticide per ha: 0.27
+Chhattisgarh,Other  Rabi pulses	Avg Area: 2217.45, Avg Agri Land: 2608.76, Avg Barren Land: 391.31, Avg Yield: 0.34, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Other Kharif pulses	Avg Area: 6886.30, Avg Agri Land: 8101.53, Avg Barren Land: 1215.23, Avg Yield: 0.28, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Peas & beans (Pulses)	Avg Area: 13877.35, Avg Agri Land: 16326.29, Avg Barren Land: 2448.94, Avg Yield: 0.34, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Potato	Avg Area: 7007.12, Avg Agri Land: 8243.68, Avg Barren Land: 1236.55, Avg Yield: 5.91, Avg Rainfall: 1275.78, Fertilizer per ha: 143.28, Pesticide per ha: 0.28
+Chhattisgarh,Ragi	Avg Area: 8609.11, Avg Agri Land: 10128.36, Avg Barren Land: 1519.25, Avg Yield: 0.25, Avg Rainfall: 1262.81, Fertilizer per ha: 139.19, Pesticide per ha: 0.27
+Chhattisgarh,Rapeseed &Mustard	Avg Area: 48415.55, Avg Agri Land: 56959.47, Avg Barren Land: 8543.92, Avg Yield: 0.41, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Rice	Avg Area: 3936944.35, Avg Agri Land: 4631699.24, Avg Barren Land: 694754.89, Avg Yield: 1.43, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Safflower	Avg Area: 662.25, Avg Agri Land: 779.12, Avg Barren Land: 116.87, Avg Yield: 0.29, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Sannhamp	Avg Area: 1409.95, Avg Agri Land: 1658.76, Avg Barren Land: 248.81, Avg Yield: 0.42, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Sesamum	Avg Area: 20447.05, Avg Agri Land: 24055.35, Avg Barren Land: 3608.30, Avg Yield: 0.33, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Small millets	Avg Area: 171866.50, Avg Agri Land: 202195.88, Avg Barren Land: 30329.38, Avg Yield: 0.30, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Soyabean	Avg Area: 70561.20, Avg Agri Land: 83013.18, Avg Barren Land: 12451.98, Avg Yield: 0.94, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Sugarcane	Avg Area: 15022.52, Avg Agri Land: 17673.56, Avg Barren Land: 2651.03, Avg Yield: 5.99, Avg Rainfall: 1271.63, Fertilizer per ha: 138.53, Pesticide per ha: 0.27
+Chhattisgarh,Sunflower	Avg Area: 3435.95, Avg Agri Land: 4042.30, Avg Barren Land: 606.34, Avg Yield: 0.64, Avg Rainfall: 1271.63, Fertilizer per ha: 138.53, Pesticide per ha: 0.27
+Chhattisgarh,Sweet potato	Avg Area: 2658.30, Avg Agri Land: 3127.41, Avg Barren Land: 469.11, Avg Yield: 5.55, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Tobacco	Avg Area: 24.63, Avg Agri Land: 28.98, Avg Barren Land: 4.35, Avg Yield: 0.61, Avg Rainfall: 1271.05, Fertilizer per ha: 137.20, Pesticide per ha: 0.26
+Chhattisgarh,Turmeric	Avg Area: 1083.35, Avg Agri Land: 1274.53, Avg Barren Land: 191.18, Avg Yield: 1.05, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Urad	Avg Area: 52679.40, Avg Agri Land: 61975.76, Avg Barren Land: 9296.36, Avg Yield: 0.29, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Chhattisgarh,Wheat	Avg Area: 100474.30, Avg Agri Land: 118205.06, Avg Barren Land: 17730.76, Avg Yield: 1.36, Avg Rainfall: 1264.30, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Delhi,Arhar/Tur	Avg Area: 197.25, Avg Agri Land: 232.06, Avg Barren Land: 34.81, Avg Yield: 1.46, Avg Rainfall: 682.50, Fertilizer per ha: 113.74, Pesticide per ha: 0.22
+Delhi,Bajra	Avg Area: 1800.64, Avg Agri Land: 2118.40, Avg Barren Land: 317.76, Avg Yield: 1.98, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Barley	Avg Area: 99.18, Avg Agri Land: 116.68, Avg Barren Land: 17.50, Avg Yield: 2.25, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Cotton(lint)	Avg Area: 1.00, Avg Agri Land: 1.18, Avg Barren Land: 0.18, Avg Yield: 1.00, Avg Rainfall: 580.04, Fertilizer per ha: 99.98, Pesticide per ha: 0.27
+Delhi,Gram	Avg Area: 44.50, Avg Agri Land: 52.35, Avg Barren Land: 7.85, Avg Yield: 1.74, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Jowar	Avg Area: 6014.27, Avg Agri Land: 7075.61, Avg Barren Land: 1061.34, Avg Yield: 0.88, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Maize	Avg Area: 56.73, Avg Agri Land: 66.74, Avg Barren Land: 10.01, Avg Yield: 8.03, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Other Kharif pulses	Avg Area: 278.29, Avg Agri Land: 327.39, Avg Barren Land: 49.11, Avg Yield: 1.40, Avg Rainfall: 659.00, Fertilizer per ha: 112.16, Pesticide per ha: 0.22
+Delhi,Potato	Avg Area: 326.00, Avg Agri Land: 383.53, Avg Barren Land: 57.53, Avg Yield: 65.81, Avg Rainfall: 625.30, Fertilizer per ha: 128.67, Pesticide per ha: 0.24
+Delhi,Rapeseed &Mustard	Avg Area: 3250.00, Avg Agri Land: 3823.53, Avg Barren Land: 573.53, Avg Yield: 2.50, Avg Rainfall: 546.90, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Delhi,Rice	Avg Area: 6671.91, Avg Agri Land: 7849.30, Avg Barren Land: 1177.40, Avg Yield: 2.68, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Delhi,Sugarcane	Avg Area: 3.69, Avg Agri Land: 4.34, Avg Barren Land: 0.65, Avg Yield: 69.29, Avg Rainfall: 640.02, Fertilizer per ha: 126.00, Pesticide per ha: 0.24
+Delhi,Wheat	Avg Area: 21068.95, Avg Agri Land: 24787.01, Avg Barren Land: 3718.05, Avg Yield: 4.19, Avg Rainfall: 632.75, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Goa,Arecanut	Avg Area: 1705.85, Avg Agri Land: 2006.88, Avg Barren Land: 301.03, Avg Yield: 1.63, Avg Rainfall: 3341.95, Fertilizer per ha: 130.53, Pesticide per ha: 0.30
+Goa,Banana	Avg Area: 2238.23, Avg Agri Land: 2633.21, Avg Barren Land: 394.98, Avg Yield: 9.64, Avg Rainfall: 3341.95, Fertilizer per ha: 130.53, Pesticide per ha: 0.30
+Goa,Black pepper	Avg Area: 636.82, Avg Agri Land: 749.20, Avg Barren Land: 112.38, Avg Yield: 0.29, Avg Rainfall: 3291.75, Fertilizer per ha: 128.60, Pesticide per ha: 0.28
+Goa,Cashewnut	Avg Area: 55195.76, Avg Agri Land: 64936.19, Avg Barren Land: 9740.43, Avg Yield: 0.42, Avg Rainfall: 3291.75, Fertilizer per ha: 128.60, Pesticide per ha: 0.28
+Goa,Coconut	Avg Area: 25523.82, Avg Agri Land: 30028.03, Avg Barren Land: 4504.20, Avg Yield: 5042.72, Avg Rainfall: 3291.75, Fertilizer per ha: 128.60, Pesticide per ha: 0.28
+Goa,Groundnut	Avg Area: 1253.79, Avg Agri Land: 1475.04, Avg Barren Land: 221.26, Avg Yield: 2.00, Avg Rainfall: 3360.57, Fertilizer per ha: 134.29, Pesticide per ha: 0.28
+Goa,Other  Rabi pulses	Avg Area: 8052.16, Avg Agri Land: 9473.13, Avg Barren Land: 1420.97, Avg Yield: 0.95, Avg Rainfall: 3384.99, Fertilizer per ha: 135.54, Pesticide per ha: 0.28
+Goa,Other Kharif pulses	Avg Area: 393.42, Avg Agri Land: 462.85, Avg Barren Land: 69.43, Avg Yield: 0.61, Avg Rainfall: 3384.99, Fertilizer per ha: 135.54, Pesticide per ha: 0.28
+Goa,Ragi	Avg Area: 548.75, Avg Agri Land: 645.59, Avg Barren Land: 96.84, Avg Yield: 0.97, Avg Rainfall: 3294.84, Fertilizer per ha: 125.68, Pesticide per ha: 0.25
+Goa,Rice	Avg Area: 25399.07, Avg Agri Land: 29881.26, Avg Barren Land: 4482.19, Avg Yield: 2.70, Avg Rainfall: 3360.57, Fertilizer per ha: 134.29, Pesticide per ha: 0.28
+Goa,Sugarcane	Avg Area: 1041.41, Avg Agri Land: 1225.19, Avg Barren Land: 183.78, Avg Yield: 51.34, Avg Rainfall: 3324.95, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Goa,Sweet potato	Avg Area: 57.00, Avg Agri Land: 67.06, Avg Barren Land: 10.06, Avg Yield: 2.61, Avg Rainfall: 3733.72, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Goa,other oilseeds	Avg Area: 788.67, Avg Agri Land: 927.84, Avg Barren Land: 139.18, Avg Yield: 2.28, Avg Rainfall: 3889.33, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Gujarat,Arhar/Tur	Avg Area: 280048.09, Avg Agri Land: 329468.34, Avg Barren Land: 49420.25, Avg Yield: 0.96, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Bajra	Avg Area: 382800.61, Avg Agri Land: 450353.66, Avg Barren Land: 67553.05, Avg Yield: 1.81, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Banana	Avg Area: 26541.36, Avg Agri Land: 31225.13, Avg Barren Land: 4683.77, Avg Yield: 66.07, Avg Rainfall: 793.62, Fertilizer per ha: 135.00, Pesticide per ha: 0.27
+Gujarat,Castor seed	Avg Area: 462305.83, Avg Agri Land: 543889.22, Avg Barren Land: 81583.38, Avg Yield: 1.96, Avg Rainfall: 779.88, Fertilizer per ha: 131.66, Pesticide per ha: 0.27
+Gujarat,Cotton(lint)	Avg Area: 2239844.52, Avg Agri Land: 2635111.20, Avg Barren Land: 395266.68, Avg Yield: 2.80, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Dry chillies	Avg Area: 9128.30, Avg Agri Land: 10739.18, Avg Barren Land: 1610.88, Avg Yield: 1.04, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Garlic	Avg Area: 20607.74, Avg Agri Land: 24244.40, Avg Barren Land: 3636.66, Avg Yield: 5.75, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Gram	Avg Area: 160690.91, Avg Agri Land: 189048.13, Avg Barren Land: 28357.22, Avg Yield: 0.95, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Groundnut	Avg Area: 890753.61, Avg Agri Land: 1047945.42, Avg Barren Land: 157191.81, Avg Yield: 1.65, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Guar seed	Avg Area: 213318.45, Avg Agri Land: 250962.88, Avg Barren Land: 37644.43, Avg Yield: 0.73, Avg Rainfall: 794.24, Fertilizer per ha: 138.23, Pesticide per ha: 0.27
+Gujarat,Jowar	Avg Area: 71307.54, Avg Agri Land: 83891.23, Avg Barren Land: 12583.68, Avg Yield: 1.07, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Maize	Avg Area: 233684.05, Avg Agri Land: 274922.41, Avg Barren Land: 41238.36, Avg Yield: 1.75, Avg Rainfall: 806.17, Fertilizer per ha: 144.87, Pesticide per ha: 0.30
+Gujarat,Moong(Green Gram)	Avg Area: 114383.27, Avg Agri Land: 134568.56, Avg Barren Land: 20185.28, Avg Yield: 0.55, Avg Rainfall: 796.72, Fertilizer per ha: 140.82, Pesticide per ha: 0.29
+Gujarat,Moth	Avg Area: 33268.96, Avg Agri Land: 39139.95, Avg Barren Land: 5870.99, Avg Yield: 0.44, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Oilseeds total	Avg Area: 2902856.00, Avg Agri Land: 3415124.71, Avg Barren Land: 512268.71, Avg Yield: 1.34, Avg Rainfall: 775.60, Fertilizer per ha: 98.80, Pesticide per ha: 0.29
+Gujarat,Onion	Avg Area: 32735.00, Avg Agri Land: 38511.76, Avg Barren Land: 5776.76, Avg Yield: 27.02, Avg Rainfall: 787.00, Fertilizer per ha: 140.03, Pesticide per ha: 0.29
+Gujarat,Other  Rabi pulses	Avg Area: 14151.39, Avg Agri Land: 16648.70, Avg Barren Land: 2497.30, Avg Yield: 0.68, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Other Cereals	Avg Area: 17389.77, Avg Agri Land: 20458.55, Avg Barren Land: 3068.78, Avg Yield: 0.79, Avg Rainfall: 812.38, Fertilizer per ha: 141.47, Pesticide per ha: 0.26
+Gujarat,Other Kharif pulses	Avg Area: 18930.00, Avg Agri Land: 22270.59, Avg Barren Land: 3340.59, Avg Yield: 0.52, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Potato	Avg Area: 66667.83, Avg Agri Land: 78432.74, Avg Barren Land: 11764.91, Avg Yield: 23.47, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Ragi	Avg Area: 18609.74, Avg Agri Land: 21893.81, Avg Barren Land: 3284.07, Avg Yield: 0.91, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Rapeseed &Mustard	Avg Area: 250055.83, Avg Agri Land: 294183.32, Avg Barren Land: 44127.50, Avg Yield: 1.45, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Rice	Avg Area: 390170.30, Avg Agri Land: 459023.89, Avg Barren Land: 68853.58, Avg Yield: 2.38, Avg Rainfall: 786.11, Fertilizer per ha: 135.57, Pesticide per ha: 0.27
+Gujarat,Sesamum	Avg Area: 180296.79, Avg Agri Land: 212113.87, Avg Barren Land: 31817.08, Avg Yield: 2.60, Avg Rainfall: 796.72, Fertilizer per ha: 140.82, Pesticide per ha: 0.29
+Gujarat,Small millets	Avg Area: 8980.50, Avg Agri Land: 10565.29, Avg Barren Land: 1584.79, Avg Yield: 0.60, Avg Rainfall: 685.98, Fertilizer per ha: 115.49, Pesticide per ha: 0.28
+Gujarat,Soyabean	Avg Area: 87346.70, Avg Agri Land: 102760.82, Avg Barren Land: 15414.12, Avg Yield: 0.95, Avg Rainfall: 837.35, Fertilizer per ha: 158.24, Pesticide per ha: 0.33
+Gujarat,Sugarcane	Avg Area: 187513.61, Avg Agri Land: 220604.25, Avg Barren Land: 33090.64, Avg Yield: 65.68, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,Tobacco	Avg Area: 77295.12, Avg Agri Land: 90935.43, Avg Barren Land: 13640.31, Avg Yield: 1.83, Avg Rainfall: 791.46, Fertilizer per ha: 141.26, Pesticide per ha: 0.28
+Gujarat,Urad	Avg Area: 74051.55, Avg Agri Land: 87119.47, Avg Barren Land: 13067.92, Avg Yield: 0.71, Avg Rainfall: 796.72, Fertilizer per ha: 140.82, Pesticide per ha: 0.29
+Gujarat,Wheat	Avg Area: 931196.70, Avg Agri Land: 1095525.52, Avg Barren Land: 164328.83, Avg Yield: 2.69, Avg Rainfall: 779.05, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Gujarat,other oilseeds	Avg Area: 85800.00, Avg Agri Land: 100941.18, Avg Barren Land: 15141.18, Avg Yield: 0.39, Avg Rainfall: 999.00, Fertilizer per ha: 166.81, Pesticide per ha: 0.29
+Haryana,Arhar/Tur	Avg Area: 16995.73, Avg Agri Land: 19994.97, Avg Barren Land: 2999.25, Avg Yield: 0.90, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Bajra	Avg Area: 539154.48, Avg Agri Land: 634299.39, Avg Barren Land: 95144.91, Avg Yield: 1.63, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Banana	Avg Area: 103.00, Avg Agri Land: 121.18, Avg Barren Land: 18.18, Avg Yield: 0.00, Avg Rainfall: 473.10, Fertilizer per ha: 96.83, Pesticide per ha: 0.24
+Haryana,Barley	Avg Area: 33237.61, Avg Agri Land: 39103.07, Avg Barren Land: 5865.46, Avg Yield: 2.45, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Castor seed	Avg Area: 2117.21, Avg Agri Land: 2490.84, Avg Barren Land: 373.63, Avg Yield: 0.73, Avg Rainfall: 452.67, Fertilizer per ha: 153.03, Pesticide per ha: 0.28
+Haryana,Coriander	Avg Area: 1493.47, Avg Agri Land: 1757.02, Avg Barren Land: 263.55, Avg Yield: 1.73, Avg Rainfall: 463.70, Fertilizer per ha: 156.78, Pesticide per ha: 0.29
+Haryana,Cotton(lint)	Avg Area: 580503.22, Avg Agri Land: 682944.96, Avg Barren Land: 102441.74, Avg Yield: 1.94, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Dry chillies	Avg Area: 1541.00, Avg Agri Land: 1812.94, Avg Barren Land: 271.94, Avg Yield: 3.52, Avg Rainfall: 486.28, Fertilizer per ha: 123.80, Pesticide per ha: 0.23
+Haryana,Garlic	Avg Area: 1893.94, Avg Agri Land: 2228.17, Avg Barren Land: 334.22, Avg Yield: 7.27, Avg Rainfall: 452.33, Fertilizer per ha: 144.18, Pesticide per ha: 0.27
+Haryana,Ginger	Avg Area: 211.09, Avg Agri Land: 248.34, Avg Barren Land: 37.25, Avg Yield: 7.76, Avg Rainfall: 439.95, Fertilizer per ha: 152.78, Pesticide per ha: 0.32
+Haryana,Gram	Avg Area: 104182.83, Avg Agri Land: 122568.04, Avg Barren Land: 18385.21, Avg Yield: 0.72, Avg Rainfall: 479.44, Fertilizer per ha: 131.66, Pesticide per ha: 0.27
+Haryana,Groundnut	Avg Area: 2433.68, Avg Agri Land: 2863.16, Avg Barren Land: 429.47, Avg Yield: 0.73, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Guar seed	Avg Area: 252519.50, Avg Agri Land: 297081.76, Avg Barren Land: 44562.26, Avg Yield: 0.79, Avg Rainfall: 402.50, Fertilizer per ha: 160.55, Pesticide per ha: 0.35
+Haryana,Horse-gram	Avg Area: 960.47, Avg Agri Land: 1129.97, Avg Barren Land: 169.50, Avg Yield: 0.29, Avg Rainfall: 461.52, Fertilizer per ha: 140.34, Pesticide per ha: 0.27
+Haryana,Jowar	Avg Area: 80883.65, Avg Agri Land: 95157.24, Avg Barren Land: 14273.59, Avg Yield: 0.34, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Jute	Avg Area: 652.00, Avg Agri Land: 767.06, Avg Barren Land: 115.06, Avg Yield: 0.00, Avg Rainfall: 471.54, Fertilizer per ha: 167.52, Pesticide per ha: 0.33
+Haryana,Maize	Avg Area: 12811.00, Avg Agri Land: 15071.76, Avg Barren Land: 2260.76, Avg Yield: 1.53, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Masoor	Avg Area: 4455.59, Avg Agri Land: 5241.87, Avg Barren Land: 786.28, Avg Yield: 0.76, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Moong(Green Gram)	Avg Area: 16314.05, Avg Agri Land: 19192.99, Avg Barren Land: 2878.95, Avg Yield: 0.29, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Moth	Avg Area: 3235.68, Avg Agri Land: 3806.68, Avg Barren Land: 571.00, Avg Yield: 0.20, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Onion	Avg Area: 11163.50, Avg Agri Land: 13133.53, Avg Barren Land: 1970.03, Avg Yield: 27.21, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Other  Rabi pulses	Avg Area: 52051.00, Avg Agri Land: 61236.47, Avg Barren Land: 9185.47, Avg Yield: 0.44, Avg Rainfall: 650.20, Fertilizer per ha: 130.64, Pesticide per ha: 0.28
+Haryana,Other Kharif pulses	Avg Area: 14656.60, Avg Agri Land: 17243.06, Avg Barren Land: 2586.46, Avg Yield: 0.24, Avg Rainfall: 519.89, Fertilizer per ha: 132.07, Pesticide per ha: 0.26
+Haryana,Peas & beans (Pulses)	Avg Area: 4792.03, Avg Agri Land: 5637.69, Avg Barren Land: 845.65, Avg Yield: 2.90, Avg Rainfall: 455.91, Fertilizer per ha: 140.26, Pesticide per ha: 0.29
+Haryana,Potato	Avg Area: 18562.59, Avg Agri Land: 21838.34, Avg Barren Land: 3275.75, Avg Yield: 22.04, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Rapeseed &Mustard	Avg Area: 550370.86, Avg Agri Land: 647495.13, Avg Barren Land: 97124.27, Avg Yield: 1.49, Avg Rainfall: 466.25, Fertilizer per ha: 133.99, Pesticide per ha: 0.27
+Haryana,Rice	Avg Area: 1176464.96, Avg Agri Land: 1384076.42, Avg Barren Land: 207611.46, Avg Yield: 2.78, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Sannhamp	Avg Area: 459.71, Avg Agri Land: 540.84, Avg Barren Land: 81.13, Avg Yield: 0.09, Avg Rainfall: 490.17, Fertilizer per ha: 125.29, Pesticide per ha: 0.24
+Haryana,Sesamum	Avg Area: 3108.68, Avg Agri Land: 3657.27, Avg Barren Land: 548.59, Avg Yield: 0.32, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Soyabean	Avg Area: 2.50, Avg Agri Land: 2.94, Avg Barren Land: 0.44, Avg Yield: 0.00, Avg Rainfall: 555.37, Fertilizer per ha: 166.81, Pesticide per ha: 0.29
+Haryana,Sugarcane	Avg Area: 120154.39, Avg Agri Land: 141358.11, Avg Barren Land: 21203.72, Avg Yield: 54.58, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,Sunflower	Avg Area: 6979.86, Avg Agri Land: 8211.60, Avg Barren Land: 1231.74, Avg Yield: 1.67, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Sweet potato	Avg Area: 80.64, Avg Agri Land: 94.87, Avg Barren Land: 14.23, Avg Yield: 11.89, Avg Rainfall: 485.94, Fertilizer per ha: 126.10, Pesticide per ha: 0.23
+Haryana,Tobacco	Avg Area: 11.00, Avg Agri Land: 12.94, Avg Barren Land: 1.94, Avg Yield: 0.00, Avg Rainfall: 389.72, Fertilizer per ha: 159.16, Pesticide per ha: 0.32
+Haryana,Turmeric	Avg Area: 1183.75, Avg Agri Land: 1392.65, Avg Barren Land: 208.90, Avg Yield: 7.44, Avg Rainfall: 462.92, Fertilizer per ha: 151.97, Pesticide per ha: 0.30
+Haryana,Urad	Avg Area: 1997.95, Avg Agri Land: 2350.53, Avg Barren Land: 352.58, Avg Yield: 0.37, Avg Rainfall: 462.92, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Haryana,Wheat	Avg Area: 2417279.70, Avg Agri Land: 2843858.47, Avg Barren Land: 426578.77, Avg Yield: 4.21, Avg Rainfall: 471.54, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Haryana,other oilseeds	Avg Area: 1408.78, Avg Agri Land: 1657.39, Avg Barren Land: 248.61, Avg Yield: 0.93, Avg Rainfall: 437.48, Fertilizer per ha: 149.75, Pesticide per ha: 0.33
+Himachal Pradesh,Arhar/Tur	Avg Area: 149.90, Avg Agri Land: 176.35, Avg Barren Land: 26.45, Avg Yield: 0.36, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Bajra	Avg Area: 361.35, Avg Agri Land: 425.12, Avg Barren Land: 63.77, Avg Yield: 0.64, Avg Rainfall: 1142.10, Fertilizer per ha: 136.50, Pesticide per ha: 0.27
+Himachal Pradesh,Barley	Avg Area: 22511.64, Avg Agri Land: 26484.28, Avg Barren Land: 3972.64, Avg Yield: 1.32, Avg Rainfall: 1140.10, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Himachal Pradesh,Coriander	Avg Area: 169.94, Avg Agri Land: 199.93, Avg Barren Land: 29.99, Avg Yield: 0.40, Avg Rainfall: 1156.51, Fertilizer per ha: 142.11, Pesticide per ha: 0.27
+Himachal Pradesh,Cotton(lint)	Avg Area: 27.25, Avg Agri Land: 32.06, Avg Barren Land: 4.81, Avg Yield: 0.63, Avg Rainfall: 1150.73, Fertilizer per ha: 140.16, Pesticide per ha: 0.26
+Himachal Pradesh,Dry chillies	Avg Area: 658.94, Avg Agri Land: 775.22, Avg Barren Land: 116.28, Avg Yield: 0.32, Avg Rainfall: 1144.71, Fertilizer per ha: 137.68, Pesticide per ha: 0.27
+Himachal Pradesh,Garlic	Avg Area: 3483.37, Avg Agri Land: 4098.08, Avg Barren Land: 614.71, Avg Yield: 1.00, Avg Rainfall: 1165.10, Fertilizer per ha: 143.37, Pesticide per ha: 0.27
+Himachal Pradesh,Ginger	Avg Area: 2248.33, Avg Agri Land: 2645.10, Avg Barren Land: 396.76, Avg Yield: 5.76, Avg Rainfall: 1094.60, Fertilizer per ha: 133.39, Pesticide per ha: 0.27
+Himachal Pradesh,Gram	Avg Area: 873.05, Avg Agri Land: 1027.12, Avg Barren Land: 154.07, Avg Yield: 0.73, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Groundnut	Avg Area: 97.90, Avg Agri Land: 115.18, Avg Barren Land: 17.28, Avg Yield: 0.76, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Horse-gram	Avg Area: 2145.30, Avg Agri Land: 2523.88, Avg Barren Land: 378.58, Avg Yield: 0.44, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Jowar	Avg Area: 287.00, Avg Agri Land: 337.65, Avg Barren Land: 50.65, Avg Yield: 0.15, Avg Rainfall: 1068.40, Fertilizer per ha: 98.17, Pesticide per ha: 0.26
+Himachal Pradesh,Linseed	Avg Area: 1307.80, Avg Agri Land: 1538.59, Avg Barren Land: 230.79, Avg Yield: 0.25, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Maize	Avg Area: 291195.86, Avg Agri Land: 342583.37, Avg Barren Land: 51387.51, Avg Yield: 2.34, Avg Rainfall: 1140.10, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Himachal Pradesh,Masoor	Avg Area: 669.30, Avg Agri Land: 787.41, Avg Barren Land: 118.11, Avg Yield: 0.61, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Moong(Green Gram)	Avg Area: 254.05, Avg Agri Land: 298.88, Avg Barren Land: 44.83, Avg Yield: 0.45, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Moth	Avg Area: 16.43, Avg Agri Land: 19.33, Avg Barren Land: 2.90, Avg Yield: 0.30, Avg Rainfall: 1189.76, Fertilizer per ha: 150.47, Pesticide per ha: 0.28
+Himachal Pradesh,Onion	Avg Area: 816.00, Avg Agri Land: 960.00, Avg Barren Land: 144.00, Avg Yield: 7.61, Avg Rainfall: 1116.12, Fertilizer per ha: 142.65, Pesticide per ha: 0.27
+Himachal Pradesh,Other  Rabi pulses	Avg Area: 4890.12, Avg Agri Land: 5753.09, Avg Barren Land: 862.96, Avg Yield: 2.23, Avg Rainfall: 1098.33, Fertilizer per ha: 138.40, Pesticide per ha: 0.29
+Himachal Pradesh,Other Kharif pulses	Avg Area: 4886.28, Avg Agri Land: 5748.56, Avg Barren Land: 862.28, Avg Yield: 0.65, Avg Rainfall: 1139.11, Fertilizer per ha: 142.07, Pesticide per ha: 0.27
+Himachal Pradesh,Peas & beans (Pulses)	Avg Area: 3841.00, Avg Agri Land: 4518.82, Avg Barren Land: 677.82, Avg Yield: 1.41, Avg Rainfall: 1160.50, Fertilizer per ha: 143.18, Pesticide per ha: 0.27
+Himachal Pradesh,Potato	Avg Area: 6694.12, Avg Agri Land: 7875.43, Avg Barren Land: 1181.31, Avg Yield: 8.34, Avg Rainfall: 1160.93, Fertilizer per ha: 142.69, Pesticide per ha: 0.28
+Himachal Pradesh,Ragi	Avg Area: 2138.00, Avg Agri Land: 2515.29, Avg Barren Land: 377.29, Avg Yield: 0.89, Avg Rainfall: 1175.11, Fertilizer per ha: 150.82, Pesticide per ha: 0.27
+Himachal Pradesh,Rapeseed &Mustard	Avg Area: 9044.80, Avg Agri Land: 10640.94, Avg Barren Land: 1596.14, Avg Yield: 0.51, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Rice	Avg Area: 76795.00, Avg Agri Land: 90347.06, Avg Barren Land: 13552.06, Avg Yield: 1.56, Avg Rainfall: 1140.10, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Himachal Pradesh,Sannhamp	Avg Area: 28.86, Avg Agri Land: 33.95, Avg Barren Land: 5.09, Avg Yield: 0.35, Avg Rainfall: 1178.83, Fertilizer per ha: 134.52, Pesticide per ha: 0.23
+Himachal Pradesh,Sesamum	Avg Area: 2766.05, Avg Agri Land: 3254.18, Avg Barren Land: 488.13, Avg Yield: 0.35, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Small millets	Avg Area: 7717.00, Avg Agri Land: 9078.82, Avg Barren Land: 1361.82, Avg Yield: 0.62, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Soyabean	Avg Area: 593.65, Avg Agri Land: 698.41, Avg Barren Land: 104.76, Avg Yield: 1.47, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Sugarcane	Avg Area: 2185.21, Avg Agri Land: 2570.84, Avg Barren Land: 385.63, Avg Yield: 12.51, Avg Rainfall: 1139.41, Fertilizer per ha: 140.18, Pesticide per ha: 0.27
+Himachal Pradesh,Sweet potato	Avg Area: 102.00, Avg Agri Land: 120.00, Avg Barren Land: 18.00, Avg Yield: 0.00, Avg Rainfall: 918.10, Fertilizer per ha: 102.13, Pesticide per ha: 0.26
+Himachal Pradesh,Tobacco	Avg Area: 23.16, Avg Agri Land: 27.25, Avg Barren Land: 4.09, Avg Yield: 1.16, Avg Rainfall: 1049.08, Fertilizer per ha: 119.47, Pesticide per ha: 0.29
+Himachal Pradesh,Turmeric	Avg Area: 191.35, Avg Agri Land: 225.12, Avg Barren Land: 33.77, Avg Yield: 0.57, Avg Rainfall: 1146.90, Fertilizer per ha: 140.70, Pesticide per ha: 0.27
+Himachal Pradesh,Urad	Avg Area: 10315.40, Avg Agri Land: 12135.76, Avg Barren Land: 1820.36, Avg Yield: 0.53, Avg Rainfall: 1151.52, Fertilizer per ha: 138.11, Pesticide per ha: 0.27
+Himachal Pradesh,Wheat	Avg Area: 355570.64, Avg Agri Land: 418318.40, Avg Barren Land: 62747.76, Avg Yield: 1.43, Avg Rainfall: 1140.10, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Jammu and Kashmir,Arhar/Tur	Avg Area: 12.00, Avg Agri Land: 14.12, Avg Barren Land: 2.12, Avg Yield: 0.55, Avg Rainfall: 1371.05, Fertilizer per ha: 154.57, Pesticide per ha: 0.16
+Jammu and Kashmir,Bajra	Avg Area: 12288.33, Avg Agri Land: 14456.86, Avg Barren Land: 2168.53, Avg Yield: 0.55, Avg Rainfall: 1172.20, Fertilizer per ha: 141.07, Pesticide per ha: 0.29
+Jammu and Kashmir,Barley	Avg Area: 4984.23, Avg Agri Land: 5863.80, Avg Barren Land: 879.57, Avg Yield: 0.52, Avg Rainfall: 1150.39, Fertilizer per ha: 139.46, Pesticide per ha: 0.27
+Jammu and Kashmir,Coriander	Avg Area: 9.00, Avg Agri Land: 10.59, Avg Barren Land: 1.59, Avg Yield: 0.12, Avg Rainfall: 1042.20, Fertilizer per ha: 133.40, Pesticide per ha: 0.16
+Jammu and Kashmir,Cotton(lint)	Avg Area: 27.67, Avg Agri Land: 32.55, Avg Barren Land: 4.88, Avg Yield: 0.50, Avg Rainfall: 1217.80, Fertilizer per ha: 136.24, Pesticide per ha: 0.26
+Jammu and Kashmir,Cowpea(Lobia)	Avg Area: 363.67, Avg Agri Land: 427.84, Avg Barren Land: 64.18, Avg Yield: 0.65, Avg Rainfall: 1346.16, Fertilizer per ha: 153.05, Pesticide per ha: 0.29
+Jammu and Kashmir,Dry chillies	Avg Area: 595.50, Avg Agri Land: 700.59, Avg Barren Land: 105.09, Avg Yield: 0.89, Avg Rainfall: 1226.53, Fertilizer per ha: 150.14, Pesticide per ha: 0.30
+Jammu and Kashmir,Garlic	Avg Area: 441.55, Avg Agri Land: 519.47, Avg Barren Land: 77.92, Avg Yield: 0.83, Avg Rainfall: 1177.09, Fertilizer per ha: 149.55, Pesticide per ha: 0.26
+Jammu and Kashmir,Ginger	Avg Area: 22.89, Avg Agri Land: 26.93, Avg Barren Land: 4.04, Avg Yield: 1.45, Avg Rainfall: 1198.41, Fertilizer per ha: 150.11, Pesticide per ha: 0.29
+Jammu and Kashmir,Gram	Avg Area: 230.93, Avg Agri Land: 271.68, Avg Barren Land: 40.75, Avg Yield: 0.50, Avg Rainfall: 1162.23, Fertilizer per ha: 130.68, Pesticide per ha: 0.26
+Jammu and Kashmir,Groundnut	Avg Area: 15.55, Avg Agri Land: 18.29, Avg Barren Land: 2.74, Avg Yield: 0.56, Avg Rainfall: 1109.28, Fertilizer per ha: 129.31, Pesticide per ha: 0.24
+Jammu and Kashmir,Horse-gram	Avg Area: 795.81, Avg Agri Land: 936.25, Avg Barren Land: 140.44, Avg Yield: 0.43, Avg Rainfall: 1189.88, Fertilizer per ha: 154.70, Pesticide per ha: 0.32
+Jammu and Kashmir,Jowar	Avg Area: 1094.00, Avg Agri Land: 1287.06, Avg Barren Land: 193.06, Avg Yield: 0.47, Avg Rainfall: 1134.16, Fertilizer per ha: 122.11, Pesticide per ha: 0.26
+Jammu and Kashmir,Linseed	Avg Area: 211.68, Avg Agri Land: 249.04, Avg Barren Land: 37.36, Avg Yield: 0.65, Avg Rainfall: 1130.37, Fertilizer per ha: 139.95, Pesticide per ha: 0.27
+Jammu and Kashmir,Maize	Avg Area: 308472.65, Avg Agri Land: 362909.00, Avg Barren Land: 54436.35, Avg Yield: 1.48, Avg Rainfall: 1169.70, Fertilizer per ha: 133.92, Pesticide per ha: 0.28
+Jammu and Kashmir,Masoor	Avg Area: 215.48, Avg Agri Land: 253.50, Avg Barren Land: 38.03, Avg Yield: 0.67, Avg Rainfall: 1162.82, Fertilizer per ha: 148.93, Pesticide per ha: 0.28
+Jammu and Kashmir,Moong(Green Gram)	Avg Area: 1052.90, Avg Agri Land: 1238.71, Avg Barren Land: 185.81, Avg Yield: 0.61, Avg Rainfall: 1219.82, Fertilizer per ha: 142.77, Pesticide per ha: 0.28
+Jammu and Kashmir,Moth	Avg Area: 2030.58, Avg Agri Land: 2388.92, Avg Barren Land: 358.34, Avg Yield: 0.68, Avg Rainfall: 1225.76, Fertilizer per ha: 149.41, Pesticide per ha: 0.29
+Jammu and Kashmir,Onion	Avg Area: 317.28, Avg Agri Land: 373.27, Avg Barren Land: 55.99, Avg Yield: 1.64, Avg Rainfall: 1178.19, Fertilizer per ha: 145.95, Pesticide per ha: 0.28
+Jammu and Kashmir,Other  Rabi pulses	Avg Area: 251.81, Avg Agri Land: 296.25, Avg Barren Land: 44.44, Avg Yield: 0.70, Avg Rainfall: 1188.19, Fertilizer per ha: 143.34, Pesticide per ha: 0.27
+Jammu and Kashmir,Other Cereals	Avg Area: 1970.38, Avg Agri Land: 2318.09, Avg Barren Land: 347.71, Avg Yield: 0.81, Avg Rainfall: 1210.97, Fertilizer per ha: 153.28, Pesticide per ha: 0.29
+Jammu and Kashmir,Other Kharif pulses	Avg Area: 3575.06, Avg Agri Land: 4205.96, Avg Barren Land: 630.89, Avg Yield: 0.82, Avg Rainfall: 1214.21, Fertilizer per ha: 142.30, Pesticide per ha: 0.28
+Jammu and Kashmir,Peas & beans (Pulses)	Avg Area: 703.71, Avg Agri Land: 827.89, Avg Barren Land: 124.18, Avg Yield: 1.46, Avg Rainfall: 1207.32, Fertilizer per ha: 144.17, Pesticide per ha: 0.27
+Jammu and Kashmir,Potato	Avg Area: 1331.93, Avg Agri Land: 1566.98, Avg Barren Land: 235.05, Avg Yield: 10.32, Avg Rainfall: 1205.68, Fertilizer per ha: 146.97, Pesticide per ha: 0.28
+Jammu and Kashmir,Ragi	Avg Area: 2628.80, Avg Agri Land: 3092.71, Avg Barren Land: 463.91, Avg Yield: 0.56, Avg Rainfall: 1182.98, Fertilizer per ha: 162.21, Pesticide per ha: 0.37
+Jammu and Kashmir,Rapeseed &Mustard	Avg Area: 49339.00, Avg Agri Land: 58045.88, Avg Barren Land: 8706.88, Avg Yield: 0.72, Avg Rainfall: 1186.37, Fertilizer per ha: 139.72, Pesticide per ha: 0.27
+Jammu and Kashmir,Rice	Avg Area: 263303.55, Avg Agri Land: 309768.88, Avg Barren Land: 46465.33, Avg Yield: 1.79, Avg Rainfall: 1169.70, Fertilizer per ha: 133.92, Pesticide per ha: 0.28
+Jammu and Kashmir,Sannhamp	Avg Area: 154.36, Avg Agri Land: 181.60, Avg Barren Land: 27.24, Avg Yield: 0.64, Avg Rainfall: 1218.93, Fertilizer per ha: 138.58, Pesticide per ha: 0.27
+Jammu and Kashmir,Sesamum	Avg Area: 4994.39, Avg Agri Land: 5875.75, Avg Barren Land: 881.36, Avg Yield: 0.44, Avg Rainfall: 1166.98, Fertilizer per ha: 137.49, Pesticide per ha: 0.28
+Jammu and Kashmir,Small millets	Avg Area: 1956.13, Avg Agri Land: 2301.33, Avg Barren Land: 345.20, Avg Yield: 0.59, Avg Rainfall: 1183.15, Fertilizer per ha: 151.77, Pesticide per ha: 0.32
+Jammu and Kashmir,Sugarcane	Avg Area: 170.69, Avg Agri Land: 200.81, Avg Barren Land: 30.12, Avg Yield: 2.14, Avg Rainfall: 1169.39, Fertilizer per ha: 134.70, Pesticide per ha: 0.27
+Jammu and Kashmir,Tobacco	Avg Area: 16.23, Avg Agri Land: 19.10, Avg Barren Land: 2.86, Avg Yield: 0.32, Avg Rainfall: 1194.06, Fertilizer per ha: 132.59, Pesticide per ha: 0.26
+Jammu and Kashmir,Turmeric	Avg Area: 8.95, Avg Agri Land: 10.53, Avg Barren Land: 1.58, Avg Yield: 0.99, Avg Rainfall: 1202.66, Fertilizer per ha: 150.49, Pesticide per ha: 0.29
+Jammu and Kashmir,Urad	Avg Area: 10432.29, Avg Agri Land: 12273.28, Avg Barren Land: 1840.99, Avg Yield: 0.45, Avg Rainfall: 1235.58, Fertilizer per ha: 143.29, Pesticide per ha: 0.28
+Jammu and Kashmir,Wheat	Avg Area: 234654.05, Avg Agri Land: 276063.58, Avg Barren Land: 41409.54, Avg Yield: 1.28, Avg Rainfall: 1218.02, Fertilizer per ha: 134.64, Pesticide per ha: 0.26
+Jammu and Kashmir,other oilseeds	Avg Area: 146.82, Avg Agri Land: 172.73, Avg Barren Land: 25.91, Avg Yield: 0.54, Avg Rainfall: 1229.11, Fertilizer per ha: 138.03, Pesticide per ha: 0.27
+Jharkhand,Arhar/Tur	Avg Area: 52288.36, Avg Agri Land: 61515.72, Avg Barren Land: 9227.36, Avg Yield: 4.77, Avg Rainfall: 1169.80, Fertilizer per ha: 143.16, Pesticide per ha: 0.25
+Jharkhand,Bajra	Avg Area: 344.00, Avg Agri Land: 404.71, Avg Barren Land: 60.71, Avg Yield: 0.62, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Barley	Avg Area: 3741.19, Avg Agri Land: 4401.41, Avg Barren Land: 660.21, Avg Yield: 0.78, Avg Rainfall: 1203.75, Fertilizer per ha: 103.66, Pesticide per ha: 0.23
+Jharkhand,Castor seed	Avg Area: 84.00, Avg Agri Land: 98.82, Avg Barren Land: 14.82, Avg Yield: 0.50, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Gram	Avg Area: 54745.25, Avg Agri Land: 64406.18, Avg Barren Land: 9660.93, Avg Yield: 0.93, Avg Rainfall: 1172.48, Fertilizer per ha: 142.46, Pesticide per ha: 0.27
+Jharkhand,Groundnut	Avg Area: 29477.67, Avg Agri Land: 34679.61, Avg Barren Land: 5201.94, Avg Yield: 0.94, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Horse-gram	Avg Area: 17135.00, Avg Agri Land: 20158.82, Avg Barren Land: 3023.82, Avg Yield: 0.63, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Jowar	Avg Area: 2390.33, Avg Agri Land: 2812.16, Avg Barren Land: 421.82, Avg Yield: 0.71, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Linseed	Avg Area: 43793.67, Avg Agri Land: 51521.96, Avg Barren Land: 7728.29, Avg Yield: 0.56, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Maize	Avg Area: 100621.76, Avg Agri Land: 118378.54, Avg Barren Land: 17756.78, Avg Yield: 1.53, Avg Rainfall: 1196.81, Fertilizer per ha: 144.48, Pesticide per ha: 0.28
+Jharkhand,Masoor	Avg Area: 16362.49, Avg Agri Land: 19249.99, Avg Barren Land: 2887.50, Avg Yield: 0.79, Avg Rainfall: 1157.07, Fertilizer per ha: 141.75, Pesticide per ha: 0.27
+Jharkhand,Moong(Green Gram)	Avg Area: 27435.00, Avg Agri Land: 32276.47, Avg Barren Land: 4841.47, Avg Yield: 0.78, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Niger seed	Avg Area: 4267.67, Avg Agri Land: 5020.78, Avg Barren Land: 753.12, Avg Yield: 0.50, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Onion	Avg Area: 2822.80, Avg Agri Land: 3320.95, Avg Barren Land: 498.14, Avg Yield: 8.14, Avg Rainfall: 1181.23, Fertilizer per ha: 141.30, Pesticide per ha: 0.25
+Jharkhand,Other  Rabi pulses	Avg Area: 18616.67, Avg Agri Land: 21901.96, Avg Barren Land: 3285.29, Avg Yield: 0.70, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Other Kharif pulses	Avg Area: 22941.67, Avg Agri Land: 26990.20, Avg Barren Land: 4048.53, Avg Yield: 0.62, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Peas & beans (Pulses)	Avg Area: 35961.40, Avg Agri Land: 42307.53, Avg Barren Land: 6346.13, Avg Yield: 1.09, Avg Rainfall: 1153.68, Fertilizer per ha: 160.05, Pesticide per ha: 0.35
+Jharkhand,Potato	Avg Area: 17204.60, Avg Agri Land: 20240.70, Avg Barren Land: 3036.11, Avg Yield: 7.46, Avg Rainfall: 1188.35, Fertilizer per ha: 137.23, Pesticide per ha: 0.25
+Jharkhand,Ragi	Avg Area: 26599.95, Avg Agri Land: 31294.06, Avg Barren Land: 4694.11, Avg Yield: 0.86, Avg Rainfall: 1200.59, Fertilizer per ha: 141.07, Pesticide per ha: 0.27
+Jharkhand,Rapeseed &Mustard	Avg Area: 61206.88, Avg Agri Land: 72008.09, Avg Barren Land: 10801.21, Avg Yield: 0.83, Avg Rainfall: 1172.48, Fertilizer per ha: 142.46, Pesticide per ha: 0.27
+Jharkhand,Rice	Avg Area: 683257.15, Avg Agri Land: 803831.94, Avg Barren Land: 120574.79, Avg Yield: 1.13, Avg Rainfall: 1203.03, Fertilizer per ha: 138.87, Pesticide per ha: 0.26
+Jharkhand,Safflower	Avg Area: 1033.00, Avg Agri Land: 1215.29, Avg Barren Land: 182.29, Avg Yield: 0.54, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Sesamum	Avg Area: 12215.33, Avg Agri Land: 14370.98, Avg Barren Land: 2155.65, Avg Yield: 0.40, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Soyabean	Avg Area: 3071.67, Avg Agri Land: 3613.73, Avg Barren Land: 542.06, Avg Yield: 0.82, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Sugarcane	Avg Area: 696.10, Avg Agri Land: 818.94, Avg Barren Land: 122.84, Avg Yield: 32.20, Avg Rainfall: 1223.70, Fertilizer per ha: 136.45, Pesticide per ha: 0.23
+Jharkhand,Sunflower	Avg Area: 630.17, Avg Agri Land: 741.37, Avg Barren Land: 111.21, Avg Yield: 0.66, Avg Rainfall: 1175.40, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Jharkhand,Urad	Avg Area: 96632.60, Avg Agri Land: 113685.41, Avg Barren Land: 17052.81, Avg Yield: 1.01, Avg Rainfall: 1181.62, Fertilizer per ha: 160.51, Pesticide per ha: 0.36
+Jharkhand,Wheat	Avg Area: 85602.91, Avg Agri Land: 100709.31, Avg Barren Land: 15106.40, Avg Yield: 1.52, Avg Rainfall: 1171.64, Fertilizer per ha: 142.91, Pesticide per ha: 0.27
+Karnataka,Arecanut	Avg Area: 213988.24, Avg Agri Land: 251750.87, Avg Barren Land: 37762.63, Avg Yield: 6.56, Avg Rainfall: 1192.96, Fertilizer per ha: 136.38, Pesticide per ha: 0.27
+Karnataka,Arhar/Tur	Avg Area: 737807.91, Avg Agri Land: 868009.31, Avg Barren Land: 130201.40, Avg Yield: 0.53, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Bajra	Avg Area: 131991.78, Avg Agri Land: 155284.45, Avg Barren Land: 23292.67, Avg Yield: 0.87, Avg Rainfall: 1176.18, Fertilizer per ha: 130.76, Pesticide per ha: 0.26
+Karnataka,Banana	Avg Area: 48149.33, Avg Agri Land: 56646.27, Avg Barren Land: 8496.94, Avg Yield: 19.63, Avg Rainfall: 1169.23, Fertilizer per ha: 126.65, Pesticide per ha: 0.22
+Karnataka,Black pepper	Avg Area: 30466.78, Avg Agri Land: 35843.27, Avg Barren Land: 5376.49, Avg Yield: 1.81, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Cardamom	Avg Area: 17769.73, Avg Agri Land: 20905.56, Avg Barren Land: 3135.83, Avg Yield: 0.08, Avg Rainfall: 1186.99, Fertilizer per ha: 134.66, Pesticide per ha: 0.27
+Karnataka,Cashewnut	Avg Area: 60878.00, Avg Agri Land: 71621.18, Avg Barren Land: 10743.18, Avg Yield: 0.89, Avg Rainfall: 1211.44, Fertilizer per ha: 156.78, Pesticide per ha: 0.29
+Karnataka,Castor seed	Avg Area: 16778.05, Avg Agri Land: 19738.88, Avg Barren Land: 2960.83, Avg Yield: 0.80, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Coconut	Avg Area: 421249.45, Avg Agri Land: 495587.59, Avg Barren Land: 74338.14, Avg Yield: 6627.82, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Coriander	Avg Area: 6895.04, Avg Agri Land: 8111.82, Avg Barren Land: 1216.77, Avg Yield: 0.30, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Cotton(lint)	Avg Area: 333837.94, Avg Agri Land: 392750.52, Avg Barren Land: 58912.58, Avg Yield: 1.76, Avg Rainfall: 1176.59, Fertilizer per ha: 143.23, Pesticide per ha: 0.29
+Karnataka,Cowpea(Lobia)	Avg Area: 27770.82, Avg Agri Land: 32671.55, Avg Barren Land: 4900.73, Avg Yield: 0.36, Avg Rainfall: 1202.14, Fertilizer per ha: 157.63, Pesticide per ha: 0.33
+Karnataka,Dry chillies	Avg Area: 60292.79, Avg Agri Land: 70932.69, Avg Barren Land: 10639.90, Avg Yield: 1.90, Avg Rainfall: 1185.81, Fertilizer per ha: 140.54, Pesticide per ha: 0.27
+Karnataka,Garlic	Avg Area: 4912.45, Avg Agri Land: 5779.36, Avg Barren Land: 866.90, Avg Yield: 1.81, Avg Rainfall: 1186.99, Fertilizer per ha: 134.66, Pesticide per ha: 0.27
+Karnataka,Ginger	Avg Area: 19322.87, Avg Agri Land: 22732.79, Avg Barren Land: 3409.92, Avg Yield: 17.75, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Gram	Avg Area: 670188.88, Avg Agri Land: 788457.50, Avg Barren Land: 118268.62, Avg Yield: 0.53, Avg Rainfall: 1179.89, Fertilizer per ha: 135.54, Pesticide per ha: 0.26
+Karnataka,Groundnut	Avg Area: 351100.66, Avg Agri Land: 413059.60, Avg Barren Land: 61958.94, Avg Yield: 1.05, Avg Rainfall: 1184.64, Fertilizer per ha: 137.29, Pesticide per ha: 0.28
+Karnataka,Horse-gram	Avg Area: 121184.87, Avg Agri Land: 142570.43, Avg Barren Land: 21385.57, Avg Yield: 0.48, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Jowar	Avg Area: 470124.71, Avg Agri Land: 553087.89, Avg Barren Land: 82963.18, Avg Yield: 1.31, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Linseed	Avg Area: 10790.64, Avg Agri Land: 12694.87, Avg Barren Land: 1904.23, Avg Yield: 0.29, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Maize	Avg Area: 345564.54, Avg Agri Land: 406546.51, Avg Barren Land: 60981.98, Avg Yield: 2.89, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Mesta	Avg Area: 1647.48, Avg Agri Land: 1938.21, Avg Barren Land: 290.73, Avg Yield: 1.37, Avg Rainfall: 1170.91, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Karnataka,Moong(Green Gram)	Avg Area: 166014.53, Avg Agri Land: 195311.21, Avg Barren Land: 29296.68, Avg Yield: 0.25, Avg Rainfall: 1180.11, Fertilizer per ha: 137.58, Pesticide per ha: 0.28
+Karnataka,Niger seed	Avg Area: 22591.45, Avg Agri Land: 26578.18, Avg Barren Land: 3986.73, Avg Yield: 0.24, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Onion	Avg Area: 63642.40, Avg Agri Land: 74873.42, Avg Barren Land: 11231.01, Avg Yield: 8.15, Avg Rainfall: 1206.25, Fertilizer per ha: 143.01, Pesticide per ha: 0.27
+Karnataka,Other  Rabi pulses	Avg Area: 22699.90, Avg Agri Land: 26705.77, Avg Barren Land: 4005.87, Avg Yield: 0.38, Avg Rainfall: 1170.91, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Karnataka,Other Kharif pulses	Avg Area: 98624.05, Avg Agri Land: 116028.29, Avg Barren Land: 17404.24, Avg Yield: 0.61, Avg Rainfall: 1170.91, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Karnataka,Peas & beans (Pulses)	Avg Area: 2311.54, Avg Agri Land: 2719.46, Avg Barren Land: 407.92, Avg Yield: 7.57, Avg Rainfall: 1248.00, Fertilizer per ha: 135.32, Pesticide per ha: 0.27
+Karnataka,Potato	Avg Area: 17801.81, Avg Agri Land: 20943.31, Avg Barren Land: 3141.50, Avg Yield: 12.62, Avg Rainfall: 1207.28, Fertilizer per ha: 142.17, Pesticide per ha: 0.27
+Karnataka,Ragi	Avg Area: 265501.39, Avg Agri Land: 312354.58, Avg Barren Land: 46853.19, Avg Yield: 1.56, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Rapeseed &Mustard	Avg Area: 4315.14, Avg Agri Land: 5076.63, Avg Barren Land: 761.49, Avg Yield: 0.24, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Rice	Avg Area: 441327.23, Avg Agri Land: 519208.51, Avg Barren Land: 77881.28, Avg Yield: 2.61, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Safflower	Avg Area: 65106.14, Avg Agri Land: 76595.45, Avg Barren Land: 11489.32, Avg Yield: 0.65, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Sannhamp	Avg Area: 512.86, Avg Agri Land: 603.36, Avg Barren Land: 90.50, Avg Yield: 0.24, Avg Rainfall: 1170.91, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Karnataka,Sesamum	Avg Area: 67684.00, Avg Agri Land: 79628.24, Avg Barren Land: 11944.24, Avg Yield: 0.54, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Small millets	Avg Area: 40699.55, Avg Agri Land: 47881.82, Avg Barren Land: 7182.27, Avg Yield: 0.54, Avg Rainfall: 1171.25, Fertilizer per ha: 136.39, Pesticide per ha: 0.28
+Karnataka,Soyabean	Avg Area: 168252.55, Avg Agri Land: 197944.17, Avg Barren Land: 29691.63, Avg Yield: 0.85, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Sugarcane	Avg Area: 376711.57, Avg Agri Land: 443190.08, Avg Barren Land: 66478.51, Avg Yield: 87.88, Avg Rainfall: 1178.01, Fertilizer per ha: 136.08, Pesticide per ha: 0.27
+Karnataka,Sunflower	Avg Area: 215580.17, Avg Agri Land: 253623.73, Avg Barren Land: 38043.56, Avg Yield: 0.68, Avg Rainfall: 1175.00, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Karnataka,Sweet potato	Avg Area: 3208.90, Avg Agri Land: 3775.18, Avg Barren Land: 566.28, Avg Yield: 10.29, Avg Rainfall: 1179.31, Fertilizer per ha: 138.43, Pesticide per ha: 0.27
+Karnataka,Tapioca	Avg Area: 884.30, Avg Agri Land: 1040.35, Avg Barren Land: 156.05, Avg Yield: 9.75, Avg Rainfall: 1179.31, Fertilizer per ha: 138.43, Pesticide per ha: 0.27
+Karnataka,Tobacco	Avg Area: 97680.05, Avg Agri Land: 114917.71, Avg Barren Land: 17237.66, Avg Yield: 0.74, Avg Rainfall: 1187.44, Fertilizer per ha: 137.41, Pesticide per ha: 0.26
+Karnataka,Turmeric	Avg Area: 12797.26, Avg Agri Land: 15055.60, Avg Barren Land: 2258.34, Avg Yield: 4.98, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Karnataka,Urad	Avg Area: 53106.32, Avg Agri Land: 62478.02, Avg Barren Land: 9371.70, Avg Yield: 0.38, Avg Rainfall: 1176.67, Fertilizer per ha: 139.24, Pesticide per ha: 0.28
+Karnataka,Wheat	Avg Area: 232250.30, Avg Agri Land: 273235.65, Avg Barren Land: 40985.35, Avg Yield: 0.91, Avg Rainfall: 1178.99, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Arecanut	Avg Area: 96256.04, Avg Agri Land: 113242.40, Avg Barren Land: 16986.36, Avg Yield: 0.89, Avg Rainfall: 2900.39, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Arhar/Tur	Avg Area: 742.88, Avg Agri Land: 873.97, Avg Barren Land: 131.10, Avg Yield: 1.44, Avg Rainfall: 2848.79, Fertilizer per ha: 156.10, Pesticide per ha: 0.34
+Kerala,Banana	Avg Area: 55339.13, Avg Agri Land: 65104.85, Avg Barren Land: 9765.73, Avg Yield: 8.43, Avg Rainfall: 2884.39, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Kerala,Black pepper	Avg Area: 152764.27, Avg Agri Land: 179722.67, Avg Barren Land: 26958.40, Avg Yield: 0.27, Avg Rainfall: 2900.39, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Cardamom	Avg Area: 39114.19, Avg Agri Land: 46016.69, Avg Barren Land: 6902.50, Avg Yield: 0.07, Avg Rainfall: 2872.60, Fertilizer per ha: 133.50, Pesticide per ha: 0.27
+Kerala,Cashewnut	Avg Area: 63993.02, Avg Agri Land: 75285.91, Avg Barren Land: 11292.89, Avg Yield: 0.46, Avg Rainfall: 2900.39, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Coconut	Avg Area: 835738.95, Avg Agri Land: 983222.30, Avg Barren Land: 147483.34, Avg Yield: 6270.15, Avg Rainfall: 2900.39, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Cotton(lint)	Avg Area: 2294.44, Avg Agri Land: 2699.34, Avg Barren Land: 404.90, Avg Yield: 1.47, Avg Rainfall: 2870.60, Fertilizer per ha: 128.80, Pesticide per ha: 0.26
+Kerala,Cowpea(Lobia)	Avg Area: 954.67, Avg Agri Land: 1123.14, Avg Barren Land: 168.47, Avg Yield: 0.00, Avg Rainfall: 2829.80, Fertilizer per ha: 148.75, Pesticide per ha: 0.30
+Kerala,Dry chillies	Avg Area: 304.50, Avg Agri Land: 358.24, Avg Barren Land: 53.74, Avg Yield: 0.96, Avg Rainfall: 3033.05, Fertilizer per ha: 102.47, Pesticide per ha: 0.28
+Kerala,Garlic	Avg Area: 301.88, Avg Agri Land: 355.15, Avg Barren Land: 53.27, Avg Yield: 12.86, Avg Rainfall: 2864.48, Fertilizer per ha: 131.80, Pesticide per ha: 0.27
+Kerala,Ginger	Avg Area: 7483.44, Avg Agri Land: 8804.04, Avg Barren Land: 1320.61, Avg Yield: 3.29, Avg Rainfall: 2884.39, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Kerala,Gram	Avg Area: 645.43, Avg Agri Land: 759.33, Avg Barren Land: 113.90, Avg Yield: 0.74, Avg Rainfall: 3054.45, Fertilizer per ha: 166.98, Pesticide per ha: 0.36
+Kerala,Groundnut	Avg Area: 2098.32, Avg Agri Land: 2468.61, Avg Barren Land: 370.29, Avg Yield: 0.94, Avg Rainfall: 2864.48, Fertilizer per ha: 131.80, Pesticide per ha: 0.27
+Kerala,Horse-gram	Avg Area: 95.00, Avg Agri Land: 111.76, Avg Barren Land: 16.76, Avg Yield: 0.00, Avg Rainfall: 2829.80, Fertilizer per ha: 148.75, Pesticide per ha: 0.30
+Kerala,Jowar	Avg Area: 1450.15, Avg Agri Land: 1706.06, Avg Barren Land: 255.91, Avg Yield: 0.63, Avg Rainfall: 2864.48, Fertilizer per ha: 131.80, Pesticide per ha: 0.27
+Kerala,Maize	Avg Area: 88.75, Avg Agri Land: 104.41, Avg Barren Land: 15.66, Avg Yield: 1.77, Avg Rainfall: 2848.79, Fertilizer per ha: 156.10, Pesticide per ha: 0.34
+Kerala,Moong(Green Gram)	Avg Area: 128.33, Avg Agri Land: 150.98, Avg Barren Land: 22.65, Avg Yield: 0.00, Avg Rainfall: 2829.80, Fertilizer per ha: 148.75, Pesticide per ha: 0.30
+Kerala,Onion	Avg Area: 39.46, Avg Agri Land: 46.42, Avg Barren Land: 6.96, Avg Yield: 0.00, Avg Rainfall: 2810.16, Fertilizer per ha: 153.86, Pesticide per ha: 0.33
+Kerala,Other  Rabi pulses	Avg Area: 1256.00, Avg Agri Land: 1477.65, Avg Barren Land: 221.65, Avg Yield: 1.10, Avg Rainfall: 3119.20, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Kerala,Other Cereals	Avg Area: 421.50, Avg Agri Land: 495.88, Avg Barren Land: 74.38, Avg Yield: 1.01, Avg Rainfall: 3029.45, Fertilizer per ha: 131.37, Pesticide per ha: 0.18
+Kerala,Other Kharif pulses	Avg Area: 1460.77, Avg Agri Land: 1718.55, Avg Barren Land: 257.78, Avg Yield: 1.33, Avg Rainfall: 2860.18, Fertilizer per ha: 160.51, Pesticide per ha: 0.36
+Kerala,Potato	Avg Area: 617.99, Avg Agri Land: 727.05, Avg Barren Land: 109.06, Avg Yield: 14.77, Avg Rainfall: 2869.49, Fertilizer per ha: 157.37, Pesticide per ha: 0.34
+Kerala,Ragi	Avg Area: 656.41, Avg Agri Land: 772.25, Avg Barren Land: 115.84, Avg Yield: 0.94, Avg Rainfall: 2864.48, Fertilizer per ha: 131.80, Pesticide per ha: 0.27
+Kerala,Rice	Avg Area: 82825.81, Avg Agri Land: 97442.13, Avg Barren Land: 14616.32, Avg Yield: 2.30, Avg Rainfall: 2884.39, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Kerala,Sesamum	Avg Area: 769.34, Avg Agri Land: 905.10, Avg Barren Land: 135.77, Avg Yield: 0.36, Avg Rainfall: 2854.09, Fertilizer per ha: 135.67, Pesticide per ha: 0.27
+Kerala,Small millets	Avg Area: 151.30, Avg Agri Land: 178.00, Avg Barren Land: 26.70, Avg Yield: 0.77, Avg Rainfall: 2829.55, Fertilizer per ha: 151.95, Pesticide per ha: 0.33
+Kerala,Soyabean	Avg Area: 3.75, Avg Agri Land: 4.41, Avg Barren Land: 0.66, Avg Yield: 1.33, Avg Rainfall: 2773.07, Fertilizer per ha: 151.04, Pesticide per ha: 0.31
+Kerala,Sugarcane	Avg Area: 2539.93, Avg Agri Land: 2988.15, Avg Barren Land: 448.22, Avg Yield: 64.86, Avg Rainfall: 2884.39, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Kerala,Sunflower	Avg Area: 1.00, Avg Agri Land: 1.18, Avg Barren Land: 0.18, Avg Yield: 1.00, Avg Rainfall: 3119.20, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Kerala,Sweet potato	Avg Area: 550.52, Avg Agri Land: 647.67, Avg Barren Land: 97.15, Avg Yield: 12.28, Avg Rainfall: 2864.48, Fertilizer per ha: 131.80, Pesticide per ha: 0.27
+Kerala,Tapioca	Avg Area: 86339.56, Avg Agri Land: 101575.95, Avg Barren Land: 15236.39, Avg Yield: 31.45, Avg Rainfall: 2900.39, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Kerala,Tobacco	Avg Area: 42.11, Avg Agri Land: 49.54, Avg Barren Land: 7.43, Avg Yield: 2.93, Avg Rainfall: 2872.60, Fertilizer per ha: 133.50, Pesticide per ha: 0.27
+Kerala,Turmeric	Avg Area: 2977.08, Avg Agri Land: 3502.45, Avg Barren Land: 525.37, Avg Yield: 2.32, Avg Rainfall: 2884.39, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Kerala,Urad	Avg Area: 347.33, Avg Agri Land: 408.63, Avg Barren Land: 61.29, Avg Yield: 0.00, Avg Rainfall: 2829.80, Fertilizer per ha: 148.75, Pesticide per ha: 0.30
+Kerala,Wheat	Avg Area: 1.20, Avg Agri Land: 1.41, Avg Barren Land: 0.21, Avg Yield: 1.42, Avg Rainfall: 2790.70, Fertilizer per ha: 157.76, Pesticide per ha: 0.35
+Kerala,other oilseeds	Avg Area: 2253.00, Avg Agri Land: 2650.59, Avg Barren Land: 397.59, Avg Yield: 0.00, Avg Rainfall: 2511.20, Fertilizer per ha: 94.67, Pesticide per ha: 0.25
+Madhya Pradesh,Arhar/Tur	Avg Area: 393695.91, Avg Agri Land: 463171.66, Avg Barren Land: 69475.75, Avg Yield: 0.75, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Bajra	Avg Area: 208267.09, Avg Agri Land: 245020.10, Avg Barren Land: 36753.02, Avg Yield: 1.15, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Banana	Avg Area: 17463.31, Avg Agri Land: 20545.07, Avg Barren Land: 3081.76, Avg Yield: 34.03, Avg Rainfall: 1008.65, Fertilizer per ha: 142.95, Pesticide per ha: 0.27
+Madhya Pradesh,Barley	Avg Area: 78909.00, Avg Agri Land: 92834.12, Avg Barren Land: 13925.12, Avg Yield: 1.79, Avg Rainfall: 999.26, Fertilizer per ha: 133.50, Pesticide per ha: 0.27
+Madhya Pradesh,Cashewnut	Avg Area: 1.00, Avg Agri Land: 1.18, Avg Barren Land: 0.18, Avg Yield: 0.00, Avg Rainfall: 800.80, Fertilizer per ha: 94.67, Pesticide per ha: 0.25
+Madhya Pradesh,Castor seed	Avg Area: 2682.22, Avg Agri Land: 3155.56, Avg Barren Land: 473.33, Avg Yield: 0.34, Avg Rainfall: 973.22, Fertilizer per ha: 133.04, Pesticide per ha: 0.25
+Madhya Pradesh,Coriander	Avg Area: 168604.69, Avg Agri Land: 198358.46, Avg Barren Land: 29753.77, Avg Yield: 0.74, Avg Rainfall: 998.96, Fertilizer per ha: 136.84, Pesticide per ha: 0.27
+Madhya Pradesh,Cotton(lint)	Avg Area: 572477.61, Avg Agri Land: 673503.07, Avg Barren Land: 101025.46, Avg Yield: 1.01, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Cowpea(Lobia)	Avg Area: 1790.00, Avg Agri Land: 2105.88, Avg Barren Land: 315.88, Avg Yield: 0.28, Avg Rainfall: 880.20, Fertilizer per ha: 160.96, Pesticide per ha: 0.20
+Madhya Pradesh,Dry chillies	Avg Area: 64197.90, Avg Agri Land: 75526.94, Avg Barren Land: 11329.04, Avg Yield: 1.65, Avg Rainfall: 1000.17, Fertilizer per ha: 136.22, Pesticide per ha: 0.28
+Madhya Pradesh,Garlic	Avg Area: 78656.24, Avg Agri Land: 92536.75, Avg Barren Land: 13880.51, Avg Yield: 5.02, Avg Rainfall: 998.96, Fertilizer per ha: 136.84, Pesticide per ha: 0.27
+Madhya Pradesh,Ginger	Avg Area: 11888.52, Avg Agri Land: 13986.49, Avg Barren Land: 2097.97, Avg Yield: 5.49, Avg Rainfall: 1020.29, Fertilizer per ha: 136.67, Pesticide per ha: 0.28
+Madhya Pradesh,Gram	Avg Area: 2728587.05, Avg Agri Land: 3210102.41, Avg Barren Land: 481515.36, Avg Yield: 1.01, Avg Rainfall: 993.95, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Madhya Pradesh,Groundnut	Avg Area: 200713.04, Avg Agri Land: 236132.99, Avg Barren Land: 35419.95, Avg Yield: 1.18, Avg Rainfall: 1012.11, Fertilizer per ha: 135.76, Pesticide per ha: 0.28
+Madhya Pradesh,Horse-gram	Avg Area: 11444.22, Avg Agri Land: 13463.79, Avg Barren Land: 2019.57, Avg Yield: 0.29, Avg Rainfall: 987.72, Fertilizer per ha: 141.26, Pesticide per ha: 0.25
+Madhya Pradesh,Jowar	Avg Area: 262036.88, Avg Agri Land: 308278.68, Avg Barren Land: 46241.80, Avg Yield: 1.38, Avg Rainfall: 995.57, Fertilizer per ha: 129.40, Pesticide per ha: 0.26
+Madhya Pradesh,Jute	Avg Area: 3435.14, Avg Agri Land: 4041.34, Avg Barren Land: 606.20, Avg Yield: 1.46, Avg Rainfall: 1131.67, Fertilizer per ha: 153.54, Pesticide per ha: 0.32
+Madhya Pradesh,Khesari	Avg Area: 50468.00, Avg Agri Land: 59374.12, Avg Barren Land: 8906.12, Avg Yield: 0.66, Avg Rainfall: 977.70, Fertilizer per ha: 148.61, Pesticide per ha: 0.22
+Madhya Pradesh,Linseed	Avg Area: 144013.48, Avg Agri Land: 169427.62, Avg Barren Land: 25414.14, Avg Yield: 0.61, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Maize	Avg Area: 879707.68, Avg Agri Land: 1034950.21, Avg Barren Land: 155242.53, Avg Yield: 1.77, Avg Rainfall: 1012.11, Fertilizer per ha: 135.76, Pesticide per ha: 0.28
+Madhya Pradesh,Masoor	Avg Area: 500176.59, Avg Agri Land: 588443.04, Avg Barren Land: 88266.46, Avg Yield: 0.61, Avg Rainfall: 1011.89, Fertilizer per ha: 145.27, Pesticide per ha: 0.27
+Madhya Pradesh,Mesta	Avg Area: 1105.36, Avg Agri Land: 1300.43, Avg Barren Land: 195.06, Avg Yield: 1.18, Avg Rainfall: 1067.86, Fertilizer per ha: 150.55, Pesticide per ha: 0.29
+Madhya Pradesh,Moong(Green Gram)	Avg Area: 93308.29, Avg Agri Land: 109774.46, Avg Barren Land: 16466.17, Avg Yield: 0.39, Avg Rainfall: 1057.05, Fertilizer per ha: 149.49, Pesticide per ha: 0.29
+Madhya Pradesh,Niger seed	Avg Area: 87193.14, Avg Agri Land: 102580.17, Avg Barren Land: 15387.03, Avg Yield: 0.27, Avg Rainfall: 995.44, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Madhya Pradesh,Onion	Avg Area: 70998.94, Avg Agri Land: 83528.16, Avg Barren Land: 12529.22, Avg Yield: 16.55, Avg Rainfall: 1000.65, Fertilizer per ha: 135.99, Pesticide per ha: 0.26
+Madhya Pradesh,Other  Rabi pulses	Avg Area: 311872.50, Avg Agri Land: 366908.82, Avg Barren Land: 55036.32, Avg Yield: 0.53, Avg Rainfall: 1049.20, Fertilizer per ha: 135.23, Pesticide per ha: 0.30
+Madhya Pradesh,Other Cereals	Avg Area: 28075.00, Avg Agri Land: 33029.41, Avg Barren Land: 4954.41, Avg Yield: 0.73, Avg Rainfall: 974.38, Fertilizer per ha: 155.46, Pesticide per ha: 0.35
+Madhya Pradesh,Other Kharif pulses	Avg Area: 275281.67, Avg Agri Land: 323860.78, Avg Barren Land: 48579.12, Avg Yield: 0.36, Avg Rainfall: 999.62, Fertilizer per ha: 130.62, Pesticide per ha: 0.28
+Madhya Pradesh,Peas & beans (Pulses)	Avg Area: 217996.31, Avg Agri Land: 256466.25, Avg Barren Land: 38469.94, Avg Yield: 0.65, Avg Rainfall: 1019.16, Fertilizer per ha: 147.58, Pesticide per ha: 0.27
+Madhya Pradesh,Potato	Avg Area: 81970.97, Avg Agri Land: 96436.44, Avg Barren Land: 14465.47, Avg Yield: 14.67, Avg Rainfall: 1015.25, Fertilizer per ha: 137.98, Pesticide per ha: 0.26
+Madhya Pradesh,Ragi	Avg Area: 1330.64, Avg Agri Land: 1565.46, Avg Barren Land: 234.82, Avg Yield: 0.24, Avg Rainfall: 967.34, Fertilizer per ha: 127.82, Pesticide per ha: 0.23
+Madhya Pradesh,Rapeseed &Mustard	Avg Area: 661368.00, Avg Agri Land: 778080.00, Avg Barren Land: 116712.00, Avg Yield: 0.79, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Rice	Avg Area: 2041810.96, Avg Agri Land: 2402130.54, Avg Barren Land: 360319.58, Avg Yield: 1.21, Avg Rainfall: 1004.73, Fertilizer per ha: 137.45, Pesticide per ha: 0.28
+Madhya Pradesh,Safflower	Avg Area: 3165.00, Avg Agri Land: 3723.53, Avg Barren Land: 558.53, Avg Yield: 0.38, Avg Rainfall: 993.58, Fertilizer per ha: 137.54, Pesticide per ha: 0.27
+Madhya Pradesh,Sannhamp	Avg Area: 4721.17, Avg Agri Land: 5554.31, Avg Barren Land: 833.15, Avg Yield: 1.54, Avg Rainfall: 967.86, Fertilizer per ha: 130.10, Pesticide per ha: 0.24
+Madhya Pradesh,Sesamum	Avg Area: 253183.13, Avg Agri Land: 297862.51, Avg Barren Land: 44679.38, Avg Yield: 0.43, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Small millets	Avg Area: 260017.38, Avg Agri Land: 305902.79, Avg Barren Land: 45885.42, Avg Yield: 0.40, Avg Rainfall: 992.06, Fertilizer per ha: 135.09, Pesticide per ha: 0.26
+Madhya Pradesh,Soyabean	Avg Area: 5123291.61, Avg Agri Land: 6027401.89, Avg Barren Land: 904110.28, Avg Yield: 0.92, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Madhya Pradesh,Sugarcane	Avg Area: 67288.23, Avg Agri Land: 79162.62, Avg Barren Land: 11874.39, Avg Yield: 32.08, Avg Rainfall: 993.95, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Madhya Pradesh,Sunflower	Avg Area: 2189.33, Avg Agri Land: 2575.69, Avg Barren Land: 386.35, Avg Yield: 0.46, Avg Rainfall: 972.19, Fertilizer per ha: 130.34, Pesticide per ha: 0.26
+Madhya Pradesh,Sweet potato	Avg Area: 4413.86, Avg Agri Land: 5192.77, Avg Barren Land: 778.92, Avg Yield: 8.70, Avg Rainfall: 1015.25, Fertilizer per ha: 137.98, Pesticide per ha: 0.26
+Madhya Pradesh,Tobacco	Avg Area: 189.40, Avg Agri Land: 222.82, Avg Barren Land: 33.42, Avg Yield: 0.46, Avg Rainfall: 957.74, Fertilizer per ha: 138.57, Pesticide per ha: 0.23
+Madhya Pradesh,Turmeric	Avg Area: 32957.06, Avg Agri Land: 38773.01, Avg Barren Land: 5815.95, Avg Yield: 5.69, Avg Rainfall: 998.96, Fertilizer per ha: 136.84, Pesticide per ha: 0.27
+Madhya Pradesh,Urad	Avg Area: 473021.76, Avg Agri Land: 556496.19, Avg Barren Land: 83474.43, Avg Yield: 0.40, Avg Rainfall: 1027.57, Fertilizer per ha: 142.10, Pesticide per ha: 0.26
+Madhya Pradesh,Wheat	Avg Area: 5071229.30, Avg Agri Land: 5966152.12, Avg Barren Land: 894922.82, Avg Yield: 2.20, Avg Rainfall: 1002.43, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Arhar/Tur	Avg Area: 1154706.91, Avg Agri Land: 1358478.72, Avg Barren Land: 203771.81, Avg Yield: 0.65, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Bajra	Avg Area: 1165890.63, Avg Agri Land: 1371636.03, Avg Barren Land: 205745.40, Avg Yield: 0.63, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Banana	Avg Area: 57700.00, Avg Agri Land: 67882.35, Avg Barren Land: 10182.35, Avg Yield: 57.57, Avg Rainfall: 1037.40, Fertilizer per ha: 98.98, Pesticide per ha: 0.24
+Maharashtra,Castor seed	Avg Area: 12728.05, Avg Agri Land: 14974.18, Avg Barren Land: 2246.13, Avg Yield: 0.31, Avg Rainfall: 1162.74, Fertilizer per ha: 134.94, Pesticide per ha: 0.26
+Maharashtra,Cotton(lint)	Avg Area: 3430785.17, Avg Agri Land: 4036217.85, Avg Barren Land: 605432.68, Avg Yield: 5.62, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Gram	Avg Area: 1236901.26, Avg Agri Land: 1455177.95, Avg Barren Land: 218276.69, Avg Yield: 0.71, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Groundnut	Avg Area: 188785.93, Avg Agri Land: 222101.10, Avg Barren Land: 33315.16, Avg Yield: 1.12, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Jowar	Avg Area: 2042096.48, Avg Agri Land: 2402466.45, Avg Barren Land: 360369.97, Avg Yield: 0.93, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Linseed	Avg Area: 44075.14, Avg Agri Land: 51853.10, Avg Barren Land: 7777.97, Avg Yield: 0.29, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Maize	Avg Area: 229599.93, Avg Agri Land: 270117.56, Avg Barren Land: 40517.63, Avg Yield: 16.23, Avg Rainfall: 1177.55, Fertilizer per ha: 133.71, Pesticide per ha: 0.27
+Maharashtra,Moong(Green Gram)	Avg Area: 513437.33, Avg Agri Land: 604043.92, Avg Barren Land: 90606.59, Avg Yield: 0.47, Avg Rainfall: 1161.66, Fertilizer per ha: 134.28, Pesticide per ha: 0.27
+Maharashtra,Niger seed	Avg Area: 39411.14, Avg Agri Land: 46366.04, Avg Barren Land: 6954.91, Avg Yield: 0.26, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Onion	Avg Area: 133622.00, Avg Agri Land: 157202.35, Avg Barren Land: 23580.35, Avg Yield: 12.45, Avg Rainfall: 1037.40, Fertilizer per ha: 98.98, Pesticide per ha: 0.24
+Maharashtra,Other  Rabi pulses	Avg Area: 113567.35, Avg Agri Land: 133608.64, Avg Barren Land: 20041.30, Avg Yield: 0.43, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Other Cereals	Avg Area: 35201.44, Avg Agri Land: 41413.46, Avg Barren Land: 6212.02, Avg Yield: 0.64, Avg Rainfall: 1275.31, Fertilizer per ha: 146.76, Pesticide per ha: 0.33
+Maharashtra,Other Kharif pulses	Avg Area: 153612.27, Avg Agri Land: 180720.32, Avg Barren Land: 27108.05, Avg Yield: 0.36, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Other Summer Pulses	Avg Area: 4762.25, Avg Agri Land: 5602.65, Avg Barren Land: 840.40, Avg Yield: 0.48, Avg Rainfall: 1305.95, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Maharashtra,Ragi	Avg Area: 126459.30, Avg Agri Land: 148775.65, Avg Barren Land: 22316.35, Avg Yield: 1.02, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Rapeseed &Mustard	Avg Area: 9434.89, Avg Agri Land: 11099.88, Avg Barren Land: 1664.98, Avg Yield: 0.35, Avg Rainfall: 1187.42, Fertilizer per ha: 132.43, Pesticide per ha: 0.26
+Maharashtra,Rice	Avg Area: 756543.85, Avg Agri Land: 890051.59, Avg Barren Land: 133507.74, Avg Yield: 1.97, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Safflower	Avg Area: 179755.09, Avg Agri Land: 211476.58, Avg Barren Land: 31721.49, Avg Yield: 0.54, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Sesamum	Avg Area: 34294.38, Avg Agri Land: 40346.32, Avg Barren Land: 6051.95, Avg Yield: 0.98, Avg Rainfall: 1185.83, Fertilizer per ha: 137.16, Pesticide per ha: 0.28
+Maharashtra,Small millets	Avg Area: 167742.57, Avg Agri Land: 197344.20, Avg Barren Land: 29601.63, Avg Yield: 0.53, Avg Rainfall: 1128.42, Fertilizer per ha: 131.72, Pesticide per ha: 0.25
+Maharashtra,Soyabean	Avg Area: 2655679.73, Avg Agri Land: 3124329.09, Avg Barren Land: 468649.36, Avg Yield: 1.24, Avg Rainfall: 1174.91, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Maharashtra,Sugarcane	Avg Area: 747158.57, Avg Agri Land: 879010.08, Avg Barren Land: 131851.51, Avg Yield: 67.99, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Sunflower	Avg Area: 70728.83, Avg Agri Land: 83210.39, Avg Barren Land: 12481.56, Avg Yield: 0.62, Avg Rainfall: 1171.64, Fertilizer per ha: 134.56, Pesticide per ha: 0.27
+Maharashtra,Tobacco	Avg Area: 953.00, Avg Agri Land: 1121.18, Avg Barren Land: 168.18, Avg Yield: 1.45, Avg Rainfall: 1215.84, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Maharashtra,Urad	Avg Area: 444798.43, Avg Agri Land: 523292.28, Avg Barren Land: 78493.84, Avg Yield: 0.52, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,Wheat	Avg Area: 970055.64, Avg Agri Land: 1141241.93, Avg Barren Land: 171186.29, Avg Yield: 1.38, Avg Rainfall: 1174.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Maharashtra,other oilseeds	Avg Area: 6497.00, Avg Agri Land: 7643.53, Avg Barren Land: 1146.53, Avg Yield: 0.55, Avg Rainfall: 1236.02, Fertilizer per ha: 155.89, Pesticide per ha: 0.34
+Manipur,Arhar/Tur	Avg Area: 449.25, Avg Agri Land: 528.53, Avg Barren Land: 79.28, Avg Yield: 0.97, Avg Rainfall: 1370.66, Fertilizer per ha: 150.71, Pesticide per ha: 0.28
+Manipur,Banana	Avg Area: 4442.19, Avg Agri Land: 5226.11, Avg Barren Land: 783.92, Avg Yield: 12.52, Avg Rainfall: 1593.92, Fertilizer per ha: 127.58, Pesticide per ha: 0.27
+Manipur,Cashewnut	Avg Area: 123.83, Avg Agri Land: 145.69, Avg Barren Land: 21.85, Avg Yield: 0.51, Avg Rainfall: 1427.97, Fertilizer per ha: 135.53, Pesticide per ha: 0.31
+Manipur,Cotton(lint)	Avg Area: 86.25, Avg Agri Land: 101.47, Avg Barren Land: 15.22, Avg Yield: 0.49, Avg Rainfall: 1826.22, Fertilizer per ha: 107.99, Pesticide per ha: 0.26
+Manipur,Cowpea(Lobia)	Avg Area: 864.91, Avg Agri Land: 1017.54, Avg Barren Land: 152.63, Avg Yield: 1.07, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Dry chillies	Avg Area: 5982.64, Avg Agri Land: 7038.40, Avg Barren Land: 1055.76, Avg Yield: 3.78, Avg Rainfall: 1596.33, Fertilizer per ha: 127.57, Pesticide per ha: 0.27
+Manipur,Ginger	Avg Area: 2363.17, Avg Agri Land: 2780.20, Avg Barren Land: 417.03, Avg Yield: 6.36, Avg Rainfall: 1563.90, Fertilizer per ha: 130.13, Pesticide per ha: 0.26
+Manipur,Gram	Avg Area: 812.64, Avg Agri Land: 956.04, Avg Barren Land: 143.41, Avg Yield: 0.88, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Groundnut	Avg Area: 3037.55, Avg Agri Land: 3573.58, Avg Barren Land: 536.04, Avg Yield: 0.81, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Jute	Avg Area: 13.33, Avg Agri Land: 15.69, Avg Barren Land: 2.35, Avg Yield: 2.00, Avg Rainfall: 1934.23, Fertilizer per ha: 101.24, Pesticide per ha: 0.28
+Manipur,Maize	Avg Area: 9481.70, Avg Agri Land: 11154.94, Avg Barren Land: 1673.24, Avg Yield: 2.30, Avg Rainfall: 1518.29, Fertilizer per ha: 139.47, Pesticide per ha: 0.27
+Manipur,Masoor	Avg Area: 683.64, Avg Agri Land: 804.28, Avg Barren Land: 120.64, Avg Yield: 0.87, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Moong(Green Gram)	Avg Area: 405.82, Avg Agri Land: 477.43, Avg Barren Land: 71.61, Avg Yield: 1.01, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Onion	Avg Area: 468.13, Avg Agri Land: 550.75, Avg Barren Land: 82.61, Avg Yield: 2.12, Avg Rainfall: 1712.11, Fertilizer per ha: 107.17, Pesticide per ha: 0.25
+Manipur,Other  Rabi pulses	Avg Area: 6104.45, Avg Agri Land: 7181.71, Avg Barren Land: 1077.26, Avg Yield: 0.88, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Other Kharif pulses	Avg Area: 1766.35, Avg Agri Land: 2078.06, Avg Barren Land: 311.71, Avg Yield: 0.84, Avg Rainfall: 1519.78, Fertilizer per ha: 134.40, Pesticide per ha: 0.26
+Manipur,Peas & beans (Pulses)	Avg Area: 10373.52, Avg Agri Land: 12204.14, Avg Barren Land: 1830.62, Avg Yield: 0.69, Avg Rainfall: 1596.33, Fertilizer per ha: 127.57, Pesticide per ha: 0.27
+Manipur,Potato	Avg Area: 8445.45, Avg Agri Land: 9935.83, Avg Barren Land: 1490.37, Avg Yield: 6.80, Avg Rainfall: 1583.31, Fertilizer per ha: 132.82, Pesticide per ha: 0.26
+Manipur,Rapeseed &Mustard	Avg Area: 16118.18, Avg Agri Land: 18962.57, Avg Barren Land: 2844.39, Avg Yield: 0.64, Avg Rainfall: 1552.05, Fertilizer per ha: 131.66, Pesticide per ha: 0.26
+Manipur,Rice	Avg Area: 170038.91, Avg Agri Land: 200045.78, Avg Barren Land: 30006.87, Avg Yield: 2.17, Avg Rainfall: 1573.84, Fertilizer per ha: 130.08, Pesticide per ha: 0.27
+Manipur,Sesamum	Avg Area: 944.55, Avg Agri Land: 1111.23, Avg Barren Land: 166.68, Avg Yield: 0.52, Avg Rainfall: 1671.35, Fertilizer per ha: 107.91, Pesticide per ha: 0.24
+Manipur,Soyabean	Avg Area: 2512.48, Avg Agri Land: 2955.85, Avg Barren Land: 443.38, Avg Yield: 0.97, Avg Rainfall: 1534.07, Fertilizer per ha: 132.93, Pesticide per ha: 0.27
+Manipur,Sugarcane	Avg Area: 2590.28, Avg Agri Land: 3047.39, Avg Barren Land: 457.11, Avg Yield: 41.73, Avg Rainfall: 1577.15, Fertilizer per ha: 128.60, Pesticide per ha: 0.27
+Manipur,Sweet potato	Avg Area: 104.89, Avg Agri Land: 123.40, Avg Barren Land: 18.51, Avg Yield: 4.03, Avg Rainfall: 1669.80, Fertilizer per ha: 103.57, Pesticide per ha: 0.25
+Manipur,Tapioca	Avg Area: 131.50, Avg Agri Land: 154.71, Avg Barren Land: 23.21, Avg Yield: 4.89, Avg Rainfall: 1594.77, Fertilizer per ha: 99.65, Pesticide per ha: 0.26
+Manipur,Turmeric	Avg Area: 1081.73, Avg Agri Land: 1272.62, Avg Barren Land: 190.89, Avg Yield: 6.30, Avg Rainfall: 1534.05, Fertilizer per ha: 132.69, Pesticide per ha: 0.26
+Manipur,Urad	Avg Area: 1352.91, Avg Agri Land: 1591.66, Avg Barren Land: 238.75, Avg Yield: 1.09, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Manipur,Wheat	Avg Area: 3096.36, Avg Agri Land: 3642.78, Avg Barren Land: 546.42, Avg Yield: 2.46, Avg Rainfall: 1432.74, Fertilizer per ha: 155.41, Pesticide per ha: 0.29
+Meghalaya,Arecanut	Avg Area: 13939.76, Avg Agri Land: 16399.72, Avg Barren Land: 2459.96, Avg Yield: 1.26, Avg Rainfall: 4040.67, Fertilizer per ha: 135.08, Pesticide per ha: 0.28
+Meghalaya,Arhar/Tur	Avg Area: 943.27, Avg Agri Land: 1109.73, Avg Barren Land: 166.46, Avg Yield: 0.91, Avg Rainfall: 4157.12, Fertilizer per ha: 133.50, Pesticide per ha: 0.27
+Meghalaya,Banana	Avg Area: 6454.24, Avg Agri Land: 7593.22, Avg Barren Land: 1138.98, Avg Yield: 10.64, Avg Rainfall: 4046.11, Fertilizer per ha: 134.72, Pesticide per ha: 0.28
+Meghalaya,Black pepper	Avg Area: 960.38, Avg Agri Land: 1129.86, Avg Barren Land: 169.48, Avg Yield: 0.67, Avg Rainfall: 3740.98, Fertilizer per ha: 153.05, Pesticide per ha: 0.29
+Meghalaya,Cashewnut	Avg Area: 9162.83, Avg Agri Land: 10779.80, Avg Barren Land: 1616.97, Avg Yield: 1.43, Avg Rainfall: 3785.93, Fertilizer per ha: 148.01, Pesticide per ha: 0.31
+Meghalaya,Castor seed	Avg Area: 42.82, Avg Agri Land: 50.37, Avg Barren Land: 7.56, Avg Yield: 0.73, Avg Rainfall: 3970.85, Fertilizer per ha: 134.81, Pesticide per ha: 0.27
+Meghalaya,Coriander	Avg Area: 377.50, Avg Agri Land: 444.12, Avg Barren Land: 66.62, Avg Yield: 4.18, Avg Rainfall: 4683.43, Fertilizer per ha: 149.94, Pesticide per ha: 0.33
+Meghalaya,Cotton(lint)	Avg Area: 7238.35, Avg Agri Land: 8515.70, Avg Barren Land: 1277.36, Avg Yield: 1.01, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Cowpea(Lobia)	Avg Area: 1650.57, Avg Agri Land: 1941.85, Avg Barren Land: 291.28, Avg Yield: 1.60, Avg Rainfall: 3943.79, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Meghalaya,Dry chillies	Avg Area: 1991.90, Avg Agri Land: 2343.42, Avg Barren Land: 351.51, Avg Yield: 0.92, Avg Rainfall: 4105.40, Fertilizer per ha: 132.17, Pesticide per ha: 0.28
+Meghalaya,Garlic	Avg Area: 365.00, Avg Agri Land: 429.41, Avg Barren Land: 64.41, Avg Yield: 1.79, Avg Rainfall: 4767.90, Fertilizer per ha: 108.34, Pesticide per ha: 0.21
+Meghalaya,Ginger	Avg Area: 9170.77, Avg Agri Land: 10789.14, Avg Barren Land: 1618.37, Avg Yield: 7.51, Avg Rainfall: 4054.97, Fertilizer per ha: 133.24, Pesticide per ha: 0.27
+Meghalaya,Gram	Avg Area: 970.70, Avg Agri Land: 1141.99, Avg Barren Land: 171.30, Avg Yield: 0.76, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Jute	Avg Area: 4938.09, Avg Agri Land: 5809.51, Avg Barren Land: 871.43, Avg Yield: 7.84, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Linseed	Avg Area: 80.95, Avg Agri Land: 95.23, Avg Barren Land: 14.28, Avg Yield: 0.51, Avg Rainfall: 3989.13, Fertilizer per ha: 140.15, Pesticide per ha: 0.27
+Meghalaya,Maize	Avg Area: 17397.39, Avg Agri Land: 20467.52, Avg Barren Land: 3070.13, Avg Yield: 1.76, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Masoor	Avg Area: 975.60, Avg Agri Land: 1147.76, Avg Barren Land: 172.16, Avg Yield: 1.18, Avg Rainfall: 3780.52, Fertilizer per ha: 158.75, Pesticide per ha: 0.31
+Meghalaya,Mesta	Avg Area: 4142.00, Avg Agri Land: 4872.94, Avg Barren Land: 730.94, Avg Yield: 4.80, Avg Rainfall: 4171.29, Fertilizer per ha: 130.35, Pesticide per ha: 0.27
+Meghalaya,Onion	Avg Area: 540.00, Avg Agri Land: 635.29, Avg Barren Land: 95.29, Avg Yield: 8.34, Avg Rainfall: 4193.02, Fertilizer per ha: 158.92, Pesticide per ha: 0.35
+Meghalaya,Other  Rabi pulses	Avg Area: 1811.54, Avg Agri Land: 2131.22, Avg Barren Land: 319.68, Avg Yield: 0.78, Avg Rainfall: 4070.64, Fertilizer per ha: 123.67, Pesticide per ha: 0.23
+Meghalaya,Peas & beans (Pulses)	Avg Area: 1937.55, Avg Agri Land: 2279.47, Avg Barren Land: 341.92, Avg Yield: 1.64, Avg Rainfall: 3704.59, Fertilizer per ha: 158.02, Pesticide per ha: 0.31
+Meghalaya,Potato	Avg Area: 14499.39, Avg Agri Land: 17058.11, Avg Barren Land: 2558.72, Avg Yield: 7.48, Avg Rainfall: 4084.55, Fertilizer per ha: 138.74, Pesticide per ha: 0.29
+Meghalaya,Rapeseed &Mustard	Avg Area: 8076.39, Avg Agri Land: 9501.64, Avg Barren Land: 1425.25, Avg Yield: 0.72, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Rice	Avg Area: 43292.53, Avg Agri Land: 50932.38, Avg Barren Land: 7639.86, Avg Yield: 2.06, Avg Rainfall: 3942.07, Fertilizer per ha: 140.53, Pesticide per ha: 0.27
+Meghalaya,Sesamum	Avg Area: 1787.70, Avg Agri Land: 2103.17, Avg Barren Land: 315.48, Avg Yield: 0.74, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Small millets	Avg Area: 2707.86, Avg Agri Land: 3185.72, Avg Barren Land: 477.86, Avg Yield: 0.99, Avg Rainfall: 3986.87, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Meghalaya,Soyabean	Avg Area: 1308.25, Avg Agri Land: 1539.12, Avg Barren Land: 230.87, Avg Yield: 1.43, Avg Rainfall: 4141.96, Fertilizer per ha: 132.78, Pesticide per ha: 0.28
+Meghalaya,Sugarcane	Avg Area: 93.61, Avg Agri Land: 110.13, Avg Barren Land: 16.52, Avg Yield: 2.47, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Sweet potato	Avg Area: 4773.61, Avg Agri Land: 5616.01, Avg Barren Land: 842.40, Avg Yield: 3.52, Avg Rainfall: 4085.97, Fertilizer per ha: 132.16, Pesticide per ha: 0.27
+Meghalaya,Tapioca	Avg Area: 4517.18, Avg Agri Land: 5314.33, Avg Barren Land: 797.15, Avg Yield: 6.65, Avg Rainfall: 4054.97, Fertilizer per ha: 133.24, Pesticide per ha: 0.27
+Meghalaya,Tobacco	Avg Area: 731.48, Avg Agri Land: 860.56, Avg Barren Land: 129.08, Avg Yield: 0.78, Avg Rainfall: 4083.10, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Meghalaya,Turmeric	Avg Area: 2017.48, Avg Agri Land: 2373.50, Avg Barren Land: 356.03, Avg Yield: 5.59, Avg Rainfall: 4105.40, Fertilizer per ha: 132.17, Pesticide per ha: 0.28
+Meghalaya,Wheat	Avg Area: 1231.73, Avg Agri Land: 1449.09, Avg Barren Land: 217.36, Avg Yield: 1.43, Avg Rainfall: 3986.87, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Mizoram,Arhar/Tur	Avg Area: 156.77, Avg Agri Land: 184.44, Avg Barren Land: 27.67, Avg Yield: 1.00, Avg Rainfall: 2451.26, Fertilizer per ha: 136.94, Pesticide per ha: 0.30
+Mizoram,Coconut	Avg Area: 15.00, Avg Agri Land: 17.65, Avg Barren Land: 2.65, Avg Yield: 2.60, Avg Rainfall: 2644.20, Fertilizer per ha: 95.17, Pesticide per ha: 0.31
+Mizoram,Cotton(lint)	Avg Area: 235.97, Avg Agri Land: 277.61, Avg Barren Land: 41.64, Avg Yield: 1.27, Avg Rainfall: 2430.03, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Mizoram,Cowpea(Lobia)	Avg Area: 658.24, Avg Agri Land: 774.39, Avg Barren Land: 116.16, Avg Yield: 1.24, Avg Rainfall: 2375.40, Fertilizer per ha: 158.24, Pesticide per ha: 0.33
+Mizoram,Gram	Avg Area: 23.00, Avg Agri Land: 27.06, Avg Barren Land: 4.06, Avg Yield: 1.05, Avg Rainfall: 2499.50, Fertilizer per ha: 98.98, Pesticide per ha: 0.24
+Mizoram,Groundnut	Avg Area: 57.00, Avg Agri Land: 67.06, Avg Barren Land: 10.06, Avg Yield: 1.14, Avg Rainfall: 2474.08, Fertilizer per ha: 107.39, Pesticide per ha: 0.25
+Mizoram,Maize	Avg Area: 3834.57, Avg Agri Land: 4511.26, Avg Barren Land: 676.69, Avg Yield: 1.76, Avg Rainfall: 2439.34, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Mizoram,Masoor	Avg Area: 21.81, Avg Agri Land: 25.66, Avg Barren Land: 3.85, Avg Yield: 0.89, Avg Rainfall: 2543.90, Fertilizer per ha: 103.15, Pesticide per ha: 0.24
+Mizoram,Moong(Green Gram)	Avg Area: 36.23, Avg Agri Land: 42.62, Avg Barren Land: 6.39, Avg Yield: 1.04, Avg Rainfall: 2449.82, Fertilizer per ha: 104.81, Pesticide per ha: 0.23
+Mizoram,Onion	Avg Area: 27.60, Avg Agri Land: 32.47, Avg Barren Land: 4.87, Avg Yield: 5.79, Avg Rainfall: 2546.45, Fertilizer per ha: 162.31, Pesticide per ha: 0.34
+Mizoram,Other  Rabi pulses	Avg Area: 1417.37, Avg Agri Land: 1667.50, Avg Barren Land: 250.12, Avg Yield: 1.52, Avg Rainfall: 2414.61, Fertilizer per ha: 139.63, Pesticide per ha: 0.27
+Mizoram,Other Kharif pulses	Avg Area: 1803.32, Avg Agri Land: 2121.55, Avg Barren Land: 318.23, Avg Yield: 1.13, Avg Rainfall: 2414.61, Fertilizer per ha: 139.63, Pesticide per ha: 0.27
+Mizoram,Peas & beans (Pulses)	Avg Area: 246.49, Avg Agri Land: 289.98, Avg Barren Land: 43.50, Avg Yield: 1.05, Avg Rainfall: 2372.40, Fertilizer per ha: 105.32, Pesticide per ha: 0.25
+Mizoram,Potato	Avg Area: 237.52, Avg Agri Land: 279.43, Avg Barren Land: 41.91, Avg Yield: 4.87, Avg Rainfall: 2431.15, Fertilizer per ha: 141.87, Pesticide per ha: 0.29
+Mizoram,Rapeseed &Mustard	Avg Area: 807.46, Avg Agri Land: 949.95, Avg Barren Land: 142.49, Avg Yield: 0.92, Avg Rainfall: 2459.47, Fertilizer per ha: 137.06, Pesticide per ha: 0.30
+Mizoram,Rice	Avg Area: 23040.84, Avg Agri Land: 27106.87, Avg Barren Land: 4066.03, Avg Yield: 1.75, Avg Rainfall: 2410.42, Fertilizer per ha: 143.51, Pesticide per ha: 0.28
+Mizoram,Sesamum	Avg Area: 2009.29, Avg Agri Land: 2363.88, Avg Barren Land: 354.58, Avg Yield: 0.69, Avg Rainfall: 2445.42, Fertilizer per ha: 133.66, Pesticide per ha: 0.29
+Mizoram,Soyabean	Avg Area: 1237.94, Avg Agri Land: 1456.41, Avg Barren Land: 218.46, Avg Yield: 1.33, Avg Rainfall: 2445.42, Fertilizer per ha: 133.66, Pesticide per ha: 0.29
+Mizoram,Sugarcane	Avg Area: 1338.58, Avg Agri Land: 1574.80, Avg Barren Land: 236.22, Avg Yield: 14.18, Avg Rainfall: 2430.18, Fertilizer per ha: 134.38, Pesticide per ha: 0.27
+Mizoram,Sunflower	Avg Area: 24.50, Avg Agri Land: 28.82, Avg Barren Land: 4.32, Avg Yield: 0.89, Avg Rainfall: 2642.50, Fertilizer per ha: 101.75, Pesticide per ha: 0.26
+Mizoram,Tapioca	Avg Area: 211.65, Avg Agri Land: 249.00, Avg Barren Land: 37.35, Avg Yield: 7.11, Avg Rainfall: 2419.08, Fertilizer per ha: 136.64, Pesticide per ha: 0.27
+Mizoram,Tobacco	Avg Area: 321.30, Avg Agri Land: 377.99, Avg Barren Land: 56.70, Avg Yield: 0.78, Avg Rainfall: 2434.95, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Mizoram,Urad	Avg Area: 23.25, Avg Agri Land: 27.35, Avg Barren Land: 4.10, Avg Yield: 1.12, Avg Rainfall: 2437.40, Fertilizer per ha: 106.27, Pesticide per ha: 0.23
+Mizoram,Wheat	Avg Area: 30.75, Avg Agri Land: 36.18, Avg Barren Land: 5.43, Avg Yield: 0.95, Avg Rainfall: 2615.40, Fertilizer per ha: 102.11, Pesticide per ha: 0.27
+Mizoram,other oilseeds	Avg Area: 4330.82, Avg Agri Land: 5095.08, Avg Barren Land: 764.26, Avg Yield: 0.69, Avg Rainfall: 2395.74, Fertilizer per ha: 135.39, Pesticide per ha: 0.20
+Nagaland,Arhar/Tur	Avg Area: 3971.95, Avg Agri Land: 4672.89, Avg Barren Land: 700.93, Avg Yield: 0.90, Avg Rainfall: 1553.51, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Nagaland,Bajra	Avg Area: 1267.37, Avg Agri Land: 1491.02, Avg Barren Land: 223.65, Avg Yield: 1.02, Avg Rainfall: 1544.72, Fertilizer per ha: 134.83, Pesticide per ha: 0.29
+Nagaland,Barley	Avg Area: 1632.50, Avg Agri Land: 1920.59, Avg Barren Land: 288.09, Avg Yield: 1.34, Avg Rainfall: 1537.53, Fertilizer per ha: 140.03, Pesticide per ha: 0.29
+Nagaland,Cardamom	Avg Area: 633.33, Avg Agri Land: 745.10, Avg Barren Land: 111.76, Avg Yield: 0.82, Avg Rainfall: 1557.47, Fertilizer per ha: 134.72, Pesticide per ha: 0.16
+Nagaland,Castor seed	Avg Area: 436.15, Avg Agri Land: 513.12, Avg Barren Land: 76.97, Avg Yield: 0.74, Avg Rainfall: 1530.21, Fertilizer per ha: 149.43, Pesticide per ha: 0.30
+Nagaland,Cotton(lint)	Avg Area: 364.56, Avg Agri Land: 428.90, Avg Barren Land: 64.33, Avg Yield: 0.84, Avg Rainfall: 1566.23, Fertilizer per ha: 136.84, Pesticide per ha: 0.27
+Nagaland,Cowpea(Lobia)	Avg Area: 524.29, Avg Agri Land: 616.81, Avg Barren Land: 92.52, Avg Yield: 1.47, Avg Rainfall: 1520.01, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Nagaland,Dry chillies	Avg Area: 1600.00, Avg Agri Land: 1882.35, Avg Barren Land: 282.35, Avg Yield: 1.26, Avg Rainfall: 1654.95, Fertilizer per ha: 138.22, Pesticide per ha: 0.12
+Nagaland,Ginger	Avg Area: 3676.67, Avg Agri Land: 4325.49, Avg Barren Land: 648.82, Avg Yield: 8.96, Avg Rainfall: 1512.79, Fertilizer per ha: 151.71, Pesticide per ha: 0.29
+Nagaland,Gram	Avg Area: 839.47, Avg Agri Land: 987.62, Avg Barren Land: 148.14, Avg Yield: 0.87, Avg Rainfall: 1553.76, Fertilizer per ha: 136.13, Pesticide per ha: 0.27
+Nagaland,Groundnut	Avg Area: 1407.73, Avg Agri Land: 1656.15, Avg Barren Land: 248.42, Avg Yield: 1.07, Avg Rainfall: 1552.53, Fertilizer per ha: 135.13, Pesticide per ha: 0.27
+Nagaland,Horse-gram	Avg Area: 457.78, Avg Agri Land: 538.56, Avg Barren Land: 80.78, Avg Yield: 1.04, Avg Rainfall: 1544.66, Fertilizer per ha: 159.77, Pesticide per ha: 0.33
+Nagaland,Jowar	Avg Area: 811.82, Avg Agri Land: 955.08, Avg Barren Land: 143.26, Avg Yield: 1.02, Avg Rainfall: 1546.46, Fertilizer per ha: 134.81, Pesticide per ha: 0.27
+Nagaland,Jute	Avg Area: 3730.45, Avg Agri Land: 4388.77, Avg Barren Land: 658.32, Avg Yield: 2.91, Avg Rainfall: 1550.98, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Nagaland,Linseed	Avg Area: 7260.50, Avg Agri Land: 8541.76, Avg Barren Land: 1281.26, Avg Yield: 0.75, Avg Rainfall: 1563.64, Fertilizer per ha: 136.31, Pesticide per ha: 0.27
+Nagaland,Maize	Avg Area: 32608.25, Avg Agri Land: 38362.65, Avg Barren Land: 5754.40, Avg Yield: 1.83, Avg Rainfall: 1541.53, Fertilizer per ha: 138.36, Pesticide per ha: 0.27
+Nagaland,Masoor	Avg Area: 2180.62, Avg Agri Land: 2565.44, Avg Barren Land: 384.82, Avg Yield: 0.86, Avg Rainfall: 1523.25, Fertilizer per ha: 146.02, Pesticide per ha: 0.28
+Nagaland,Mesta	Avg Area: 1830.00, Avg Agri Land: 2152.94, Avg Barren Land: 322.94, Avg Yield: 1.23, Avg Rainfall: 1498.07, Fertilizer per ha: 158.02, Pesticide per ha: 0.31
+Nagaland,Moong(Green Gram)	Avg Area: 1008.42, Avg Agri Land: 1186.38, Avg Barren Land: 177.96, Avg Yield: 0.97, Avg Rainfall: 1567.51, Fertilizer per ha: 134.34, Pesticide per ha: 0.26
+Nagaland,Niger seed	Avg Area: 29570.00, Avg Agri Land: 34788.24, Avg Barren Land: 5218.24, Avg Yield: 0.97, Avg Rainfall: 1546.59, Fertilizer per ha: 141.32, Pesticide per ha: 0.31
+Nagaland,Other  Rabi pulses	Avg Area: 7962.14, Avg Agri Land: 9367.23, Avg Barren Land: 1405.08, Avg Yield: 1.11, Avg Rainfall: 1579.99, Fertilizer per ha: 134.13, Pesticide per ha: 0.27
+Nagaland,Other Cereals	Avg Area: 858.33, Avg Agri Land: 1009.80, Avg Barren Land: 151.47, Avg Yield: 1.02, Avg Rainfall: 1562.60, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Nagaland,Other Kharif pulses	Avg Area: 7754.62, Avg Agri Land: 9123.08, Avg Barren Land: 1368.46, Avg Yield: 1.06, Avg Rainfall: 1596.72, Fertilizer per ha: 134.62, Pesticide per ha: 0.27
+Nagaland,Peas & beans (Pulses)	Avg Area: 4395.38, Avg Agri Land: 5171.04, Avg Barren Land: 775.66, Avg Yield: 1.15, Avg Rainfall: 1536.52, Fertilizer per ha: 136.82, Pesticide per ha: 0.27
+Nagaland,Potato	Avg Area: 5450.87, Avg Agri Land: 6412.79, Avg Barren Land: 961.92, Avg Yield: 10.63, Avg Rainfall: 1547.55, Fertilizer per ha: 139.82, Pesticide per ha: 0.26
+Nagaland,Ragi	Avg Area: 328.18, Avg Agri Land: 386.10, Avg Barren Land: 57.91, Avg Yield: 0.95, Avg Rainfall: 1498.07, Fertilizer per ha: 158.02, Pesticide per ha: 0.31
+Nagaland,Rapeseed &Mustard	Avg Area: 25252.57, Avg Agri Land: 29708.91, Avg Barren Land: 4456.34, Avg Yield: 0.92, Avg Rainfall: 1553.51, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Nagaland,Rice	Avg Area: 97439.51, Avg Agri Land: 114634.72, Avg Barren Land: 17195.21, Avg Yield: 2.04, Avg Rainfall: 1547.72, Fertilizer per ha: 134.90, Pesticide per ha: 0.28
+Nagaland,Sesamum	Avg Area: 4072.73, Avg Agri Land: 4791.44, Avg Barren Land: 718.72, Avg Yield: 0.66, Avg Rainfall: 1552.53, Fertilizer per ha: 135.13, Pesticide per ha: 0.27
+Nagaland,Small millets	Avg Area: 10157.14, Avg Agri Land: 11949.58, Avg Barren Land: 1792.44, Avg Yield: 1.00, Avg Rainfall: 1539.97, Fertilizer per ha: 136.35, Pesticide per ha: 0.27
+Nagaland,Soyabean	Avg Area: 23859.52, Avg Agri Land: 28070.03, Avg Barren Land: 4210.50, Avg Yield: 1.28, Avg Rainfall: 1553.51, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Nagaland,Sugarcane	Avg Area: 3130.87, Avg Agri Land: 3683.38, Avg Barren Land: 552.51, Avg Yield: 39.58, Avg Rainfall: 1561.54, Fertilizer per ha: 134.01, Pesticide per ha: 0.26
+Nagaland,Sunflower	Avg Area: 1175.37, Avg Agri Land: 1382.78, Avg Barren Land: 207.42, Avg Yield: 0.89, Avg Rainfall: 1553.81, Fertilizer per ha: 136.55, Pesticide per ha: 0.27
+Nagaland,Sweet potato	Avg Area: 1606.67, Avg Agri Land: 1890.20, Avg Barren Land: 283.53, Avg Yield: 8.50, Avg Rainfall: 1497.89, Fertilizer per ha: 157.37, Pesticide per ha: 0.34
+Nagaland,Tapioca	Avg Area: 2064.62, Avg Agri Land: 2428.96, Avg Barren Land: 364.34, Avg Yield: 20.47, Avg Rainfall: 1522.20, Fertilizer per ha: 154.98, Pesticide per ha: 0.28
+Nagaland,Turmeric	Avg Area: 450.00, Avg Agri Land: 529.41, Avg Barren Land: 79.41, Avg Yield: 4.44, Avg Rainfall: 1654.95, Fertilizer per ha: 138.22, Pesticide per ha: 0.12
+Nagaland,Urad	Avg Area: 623.12, Avg Agri Land: 733.09, Avg Barren Land: 109.96, Avg Yield: 0.81, Avg Rainfall: 1465.56, Fertilizer per ha: 155.20, Pesticide per ha: 0.28
+Nagaland,Wheat	Avg Area: 3694.76, Avg Agri Land: 4346.78, Avg Barren Land: 652.02, Avg Yield: 1.78, Avg Rainfall: 1539.97, Fertilizer per ha: 136.35, Pesticide per ha: 0.27
+Nagaland,other oilseeds	Avg Area: 2466.00, Avg Agri Land: 2901.18, Avg Barren Land: 435.18, Avg Yield: 0.60, Avg Rainfall: 1591.18, Fertilizer per ha: 160.51, Pesticide per ha: 0.36
+Odisha,Arhar/Tur	Avg Area: 84983.58, Avg Agri Land: 99980.69, Avg Barren Land: 14997.10, Avg Yield: 0.56, Avg Rainfall: 1408.23, Fertilizer per ha: 104.36, Pesticide per ha: 0.28
+Odisha,Bajra	Avg Area: 3456.43, Avg Agri Land: 4066.39, Avg Barren Land: 609.96, Avg Yield: 0.56, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Castor seed	Avg Area: 8210.93, Avg Agri Land: 9659.92, Avg Barren Land: 1448.99, Avg Yield: 0.55, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Coriander	Avg Area: 18340.00, Avg Agri Land: 21576.47, Avg Barren Land: 3236.47, Avg Yield: 0.49, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Cotton(lint)	Avg Area: 82280.00, Avg Agri Land: 96800.00, Avg Barren Land: 14520.00, Avg Yield: 2.09, Avg Rainfall: 1381.40, Fertilizer per ha: 125.35, Pesticide per ha: 0.30
+Odisha,Cowpea(Lobia)	Avg Area: 34155.00, Avg Agri Land: 40182.35, Avg Barren Land: 6027.35, Avg Yield: 0.74, Avg Rainfall: 1593.90, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Odisha,Dry chillies	Avg Area: 60257.00, Avg Agri Land: 70890.59, Avg Barren Land: 10633.59, Avg Yield: 0.91, Avg Rainfall: 1437.37, Fertilizer per ha: 117.56, Pesticide per ha: 0.28
+Odisha,Garlic	Avg Area: 11664.86, Avg Agri Land: 13723.36, Avg Barren Land: 2058.50, Avg Yield: 3.28, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Ginger	Avg Area: 14543.43, Avg Agri Land: 17109.92, Avg Barren Land: 2566.49, Avg Yield: 3.52, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Gram	Avg Area: 27571.57, Avg Agri Land: 32437.14, Avg Barren Land: 4865.57, Avg Yield: 0.56, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Groundnut	Avg Area: 28137.75, Avg Agri Land: 33103.24, Avg Barren Land: 4965.49, Avg Yield: 1.12, Avg Rainfall: 1458.46, Fertilizer per ha: 138.34, Pesticide per ha: 0.27
+Odisha,Horse-gram	Avg Area: 39980.02, Avg Agri Land: 47035.32, Avg Barren Land: 7055.30, Avg Yield: 0.31, Avg Rainfall: 1455.45, Fertilizer per ha: 137.30, Pesticide per ha: 0.27
+Odisha,Jowar	Avg Area: 10998.71, Avg Agri Land: 12939.66, Avg Barren Land: 1940.95, Avg Yield: 0.59, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Jute	Avg Area: 7578.48, Avg Agri Land: 8915.86, Avg Barren Land: 1337.38, Avg Yield: 5.51, Avg Rainfall: 1448.86, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Odisha,Linseed	Avg Area: 19782.29, Avg Agri Land: 23273.28, Avg Barren Land: 3490.99, Avg Yield: 0.40, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Maize	Avg Area: 27838.97, Avg Agri Land: 32751.73, Avg Barren Land: 4912.76, Avg Yield: 1.55, Avg Rainfall: 1461.57, Fertilizer per ha: 137.69, Pesticide per ha: 0.27
+Odisha,Masoor	Avg Area: 8968.33, Avg Agri Land: 10550.98, Avg Barren Land: 1582.65, Avg Yield: 0.41, Avg Rainfall: 1465.35, Fertilizer per ha: 113.67, Pesticide per ha: 0.27
+Odisha,Mesta	Avg Area: 19646.67, Avg Agri Land: 23113.73, Avg Barren Land: 3467.06, Avg Yield: 4.20, Avg Rainfall: 1381.40, Fertilizer per ha: 125.35, Pesticide per ha: 0.30
+Odisha,Moong(Green Gram)	Avg Area: 100390.09, Avg Agri Land: 118105.99, Avg Barren Land: 17715.90, Avg Yield: 0.30, Avg Rainfall: 1456.46, Fertilizer per ha: 140.61, Pesticide per ha: 0.27
+Odisha,Niger seed	Avg Area: 56905.12, Avg Agri Land: 66947.21, Avg Barren Land: 10042.08, Avg Yield: 0.31, Avg Rainfall: 1413.68, Fertilizer per ha: 120.04, Pesticide per ha: 0.28
+Odisha,Onion	Avg Area: 29710.57, Avg Agri Land: 34953.61, Avg Barren Land: 5243.04, Avg Yield: 8.86, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Other  Rabi pulses	Avg Area: 36613.33, Avg Agri Land: 43074.51, Avg Barren Land: 6461.18, Avg Yield: 0.56, Avg Rainfall: 1395.63, Fertilizer per ha: 112.34, Pesticide per ha: 0.26
+Odisha,Other Kharif pulses	Avg Area: 35386.00, Avg Agri Land: 41630.59, Avg Barren Land: 6244.59, Avg Yield: 0.48, Avg Rainfall: 1416.68, Fertilizer per ha: 113.14, Pesticide per ha: 0.28
+Odisha,Peas & beans (Pulses)	Avg Area: 33400.00, Avg Agri Land: 39294.12, Avg Barren Land: 5894.12, Avg Yield: 0.77, Avg Rainfall: 1593.90, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Odisha,Potato	Avg Area: 7048.91, Avg Agri Land: 8292.84, Avg Barren Land: 1243.93, Avg Yield: 10.34, Avg Rainfall: 1448.86, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Odisha,Ragi	Avg Area: 25974.88, Avg Agri Land: 30558.69, Avg Barren Land: 4583.80, Avg Yield: 0.61, Avg Rainfall: 1458.46, Fertilizer per ha: 138.34, Pesticide per ha: 0.27
+Odisha,Rapeseed &Mustard	Avg Area: 17856.36, Avg Agri Land: 21007.49, Avg Barren Land: 3151.12, Avg Yield: 0.20, Avg Rainfall: 1446.69, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Odisha,Rice	Avg Area: 1697939.05, Avg Agri Land: 1997575.35, Avg Barren Land: 299636.30, Avg Yield: 1.66, Avg Rainfall: 1443.90, Fertilizer per ha: 138.62, Pesticide per ha: 0.27
+Odisha,Safflower	Avg Area: 1816.29, Avg Agri Land: 2136.81, Avg Barren Land: 320.52, Avg Yield: 0.50, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Sannhamp	Avg Area: 9163.33, Avg Agri Land: 10780.39, Avg Barren Land: 1617.06, Avg Yield: 4.29, Avg Rainfall: 1381.40, Fertilizer per ha: 125.35, Pesticide per ha: 0.30
+Odisha,Sesamum	Avg Area: 18336.83, Avg Agri Land: 21572.75, Avg Barren Land: 3235.91, Avg Yield: 0.25, Avg Rainfall: 1458.46, Fertilizer per ha: 138.34, Pesticide per ha: 0.27
+Odisha,Small millets	Avg Area: 34227.86, Avg Agri Land: 40268.07, Avg Barren Land: 6040.21, Avg Yield: 0.43, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Soyabean	Avg Area: 60.00, Avg Agri Land: 70.59, Avg Barren Land: 10.59, Avg Yield: 0.17, Avg Rainfall: 1484.30, Fertilizer per ha: 106.13, Pesticide per ha: 0.27
+Odisha,Sugarcane	Avg Area: 13837.83, Avg Agri Land: 16279.80, Avg Barren Land: 2441.97, Avg Yield: 57.30, Avg Rainfall: 1448.86, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Odisha,Sunflower	Avg Area: 4456.00, Avg Agri Land: 5242.35, Avg Barren Land: 786.35, Avg Yield: 0.69, Avg Rainfall: 1417.37, Fertilizer per ha: 111.69, Pesticide per ha: 0.27
+Odisha,Sweet potato	Avg Area: 33771.33, Avg Agri Land: 39730.98, Avg Barren Land: 5959.65, Avg Yield: 8.42, Avg Rainfall: 1437.37, Fertilizer per ha: 117.56, Pesticide per ha: 0.28
+Odisha,Tobacco	Avg Area: 4397.14, Avg Agri Land: 5173.11, Avg Barren Land: 775.97, Avg Yield: 0.55, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Turmeric	Avg Area: 25875.71, Avg Agri Land: 30442.02, Avg Barren Land: 4566.30, Avg Yield: 2.19, Avg Rainfall: 1408.30, Fertilizer per ha: 111.45, Pesticide per ha: 0.27
+Odisha,Urad	Avg Area: 49637.80, Avg Agri Land: 58397.41, Avg Barren Land: 8759.61, Avg Yield: 0.30, Avg Rainfall: 1458.46, Fertilizer per ha: 138.34, Pesticide per ha: 0.27
+Odisha,Wheat	Avg Area: 3755.35, Avg Agri Land: 4418.06, Avg Barren Land: 662.71, Avg Yield: 1.37, Avg Rainfall: 1448.86, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Puducherry,Arecanut	Avg Area: 59.88, Avg Agri Land: 70.45, Avg Barren Land: 10.57, Avg Yield: 1.44, Avg Rainfall: 1481.19, Fertilizer per ha: 136.95, Pesticide per ha: 0.27
+Puducherry,Bajra	Avg Area: 44.50, Avg Agri Land: 52.35, Avg Barren Land: 7.85, Avg Yield: 2.35, Avg Rainfall: 1457.88, Fertilizer per ha: 146.59, Pesticide per ha: 0.29
+Puducherry,Banana	Avg Area: 269.71, Avg Agri Land: 317.31, Avg Barren Land: 47.60, Avg Yield: 22.83, Avg Rainfall: 1434.59, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+Puducherry,Black pepper	Avg Area: 11.56, Avg Agri Land: 13.59, Avg Barren Land: 2.04, Avg Yield: 0.83, Avg Rainfall: 1448.27, Fertilizer per ha: 131.41, Pesticide per ha: 0.26
+Puducherry,Cashewnut	Avg Area: 170.11, Avg Agri Land: 200.13, Avg Barren Land: 30.02, Avg Yield: 0.75, Avg Rainfall: 1434.59, Fertilizer per ha: 138.32, Pesticide per ha: 0.28
+Puducherry,Coconut	Avg Area: 2017.20, Avg Agri Land: 2373.18, Avg Barren Land: 355.98, Avg Yield: 11354.78, Avg Rainfall: 1434.59, Fertilizer per ha: 137.15, Pesticide per ha: 0.27
+Puducherry,Coriander	Avg Area: 2.64, Avg Agri Land: 3.10, Avg Barren Land: 0.47, Avg Yield: 0.68, Avg Rainfall: 1394.51, Fertilizer per ha: 121.17, Pesticide per ha: 0.24
+Puducherry,Cotton(lint)	Avg Area: 238.00, Avg Agri Land: 280.00, Avg Barren Land: 42.00, Avg Yield: 2.04, Avg Rainfall: 1434.59, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Puducherry,Dry chillies	Avg Area: 3.80, Avg Agri Land: 4.47, Avg Barren Land: 0.67, Avg Yield: 4.89, Avg Rainfall: 1411.74, Fertilizer per ha: 144.60, Pesticide per ha: 0.27
+Puducherry,Ginger	Avg Area: 179.50, Avg Agri Land: 211.18, Avg Barren Land: 31.68, Avg Yield: 0.54, Avg Rainfall: 1434.59, Fertilizer per ha: 101.35, Pesticide per ha: 0.26
+Puducherry,Groundnut	Avg Area: 281.48, Avg Agri Land: 331.15, Avg Barren Land: 49.67, Avg Yield: 2.21, Avg Rainfall: 1434.59, Fertilizer per ha: 147.94, Pesticide per ha: 0.28
+Puducherry,Jowar	Avg Area: 2.56, Avg Agri Land: 3.01, Avg Barren Land: 0.45, Avg Yield: 1.91, Avg Rainfall: 1392.80, Fertilizer per ha: 145.51, Pesticide per ha: 0.29
+Puducherry,Moong(Green Gram)	Avg Area: 792.69, Avg Agri Land: 932.57, Avg Barren Land: 139.89, Avg Yield: 0.60, Avg Rainfall: 1434.59, Fertilizer per ha: 144.46, Pesticide per ha: 0.28
+Puducherry,Onion	Avg Area: 4.56, Avg Agri Land: 5.36, Avg Barren Land: 0.80, Avg Yield: 9.33, Avg Rainfall: 1415.97, Fertilizer per ha: 138.37, Pesticide per ha: 0.29
+Puducherry,Other  Rabi pulses	Avg Area: 41.73, Avg Agri Land: 49.09, Avg Barren Land: 7.36, Avg Yield: 1.06, Avg Rainfall: 1443.43, Fertilizer per ha: 144.89, Pesticide per ha: 0.26
+Puducherry,Other Cereals	Avg Area: 103.33, Avg Agri Land: 121.57, Avg Barren Land: 18.24, Avg Yield: 2.03, Avg Rainfall: 1483.86, Fertilizer per ha: 128.57, Pesticide per ha: 0.27
+Puducherry,Other Kharif pulses	Avg Area: 9.57, Avg Agri Land: 11.26, Avg Barren Land: 1.69, Avg Yield: 1.15, Avg Rainfall: 1395.59, Fertilizer per ha: 151.37, Pesticide per ha: 0.28
+Puducherry,Other Summer Pulses	Avg Area: 14.00, Avg Agri Land: 16.47, Avg Barren Land: 2.47, Avg Yield: 1.35, Avg Rainfall: 1496.15, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Puducherry,Ragi	Avg Area: 33.98, Avg Agri Land: 39.97, Avg Barren Land: 6.00, Avg Yield: 2.22, Avg Rainfall: 1419.08, Fertilizer per ha: 144.91, Pesticide per ha: 0.27
+Puducherry,Rapeseed &Mustard	Avg Area: 66.00, Avg Agri Land: 77.65, Avg Barren Land: 11.65, Avg Yield: 6.21, Avg Rainfall: 1434.59, Fertilizer per ha: 102.14, Pesticide per ha: 0.26
+Puducherry,Rice	Avg Area: 8413.12, Avg Agri Land: 9897.79, Avg Barren Land: 1484.67, Avg Yield: 2.90, Avg Rainfall: 1434.59, Fertilizer per ha: 141.22, Pesticide per ha: 0.27
+Puducherry,Sesamum	Avg Area: 56.65, Avg Agri Land: 66.65, Avg Barren Land: 10.00, Avg Yield: 0.76, Avg Rainfall: 1434.59, Fertilizer per ha: 151.14, Pesticide per ha: 0.28
+Puducherry,Small millets	Avg Area: 4.91, Avg Agri Land: 5.78, Avg Barren Land: 0.87, Avg Yield: 1.10, Avg Rainfall: 1478.60, Fertilizer per ha: 141.19, Pesticide per ha: 0.26
+Puducherry,Sugarcane	Avg Area: 1986.45, Avg Agri Land: 2337.01, Avg Barren Land: 350.55, Avg Yield: 108.79, Avg Rainfall: 1434.59, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Puducherry,Sunflower	Avg Area: 2.50, Avg Agri Land: 2.94, Avg Barren Land: 0.44, Avg Yield: 0.85, Avg Rainfall: 1434.59, Fertilizer per ha: 149.59, Pesticide per ha: 0.17
+Puducherry,Sweet potato	Avg Area: 2.61, Avg Agri Land: 3.07, Avg Barren Land: 0.46, Avg Yield: 8.41, Avg Rainfall: 1422.59, Fertilizer per ha: 154.47, Pesticide per ha: 0.30
+Puducherry,Tapioca	Avg Area: 189.91, Avg Agri Land: 223.42, Avg Barren Land: 33.51, Avg Yield: 23.70, Avg Rainfall: 1417.52, Fertilizer per ha: 143.69, Pesticide per ha: 0.28
+Puducherry,Tobacco	Avg Area: 209.00, Avg Agri Land: 245.88, Avg Barren Land: 36.88, Avg Yield: 30.17, Avg Rainfall: 1980.60, Fertilizer per ha: 157.91, Pesticide per ha: 0.33
+Puducherry,Turmeric	Avg Area: 4.27, Avg Agri Land: 5.02, Avg Barren Land: 0.75, Avg Yield: 2.74, Avg Rainfall: 1434.59, Fertilizer per ha: 155.87, Pesticide per ha: 0.28
+Puducherry,Urad	Avg Area: 596.45, Avg Agri Land: 701.70, Avg Barren Land: 105.26, Avg Yield: 0.72, Avg Rainfall: 1434.59, Fertilizer per ha: 146.18, Pesticide per ha: 0.28
+Punjab,Arhar/Tur	Avg Area: 5847.83, Avg Agri Land: 6879.80, Avg Barren Land: 1031.97, Avg Yield: 0.96, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Bajra	Avg Area: 4080.00, Avg Agri Land: 4800.00, Avg Barren Land: 720.00, Avg Yield: 0.93, Avg Rainfall: 514.49, Fertilizer per ha: 132.69, Pesticide per ha: 0.26
+Punjab,Barley	Avg Area: 17652.17, Avg Agri Land: 20767.26, Avg Barren Land: 3115.09, Avg Yield: 3.46, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Cotton(lint)	Avg Area: 470908.70, Avg Agri Land: 554010.23, Avg Barren Land: 83101.53, Avg Yield: 3.15, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Gram	Avg Area: 4452.17, Avg Agri Land: 5237.85, Avg Barren Land: 785.68, Avg Yield: 1.06, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Groundnut	Avg Area: 2991.30, Avg Agri Land: 3519.18, Avg Barren Land: 527.88, Avg Yield: 1.32, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Guar seed	Avg Area: 26116.67, Avg Agri Land: 30725.49, Avg Barren Land: 4608.82, Avg Yield: 0.88, Avg Rainfall: 507.60, Fertilizer per ha: 142.46, Pesticide per ha: 0.27
+Punjab,Jowar	Avg Area: 100.00, Avg Agri Land: 117.65, Avg Barren Land: 17.65, Avg Yield: 1.00, Avg Rainfall: 539.85, Fertilizer per ha: 139.99, Pesticide per ha: 0.16
+Punjab,Linseed	Avg Area: 300.00, Avg Agri Land: 352.94, Avg Barren Land: 52.94, Avg Yield: 0.92, Avg Rainfall: 516.42, Fertilizer per ha: 112.66, Pesticide per ha: 0.23
+Punjab,Maize	Avg Area: 140469.57, Avg Agri Land: 165258.31, Avg Barren Land: 24788.75, Avg Yield: 3.28, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Masoor	Avg Area: 2152.17, Avg Agri Land: 2531.97, Avg Barren Land: 379.80, Avg Yield: 0.67, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Moong(Green Gram)	Avg Area: 14915.38, Avg Agri Land: 17547.51, Avg Barren Land: 2632.13, Avg Yield: 0.80, Avg Rainfall: 515.41, Fertilizer per ha: 136.77, Pesticide per ha: 0.28
+Punjab,Moth	Avg Area: 314.29, Avg Agri Land: 369.75, Avg Barren Land: 55.46, Avg Yield: 0.89, Avg Rainfall: 448.69, Fertilizer per ha: 107.13, Pesticide per ha: 0.24
+Punjab,Other  Rabi pulses	Avg Area: 5900.00, Avg Agri Land: 6941.18, Avg Barren Land: 1041.18, Avg Yield: 1.01, Avg Rainfall: 405.30, Fertilizer per ha: 98.17, Pesticide per ha: 0.26
+Punjab,Peas & beans (Pulses)	Avg Area: 2656.25, Avg Agri Land: 3125.00, Avg Barren Land: 468.75, Avg Yield: 1.14, Avg Rainfall: 527.67, Fertilizer per ha: 145.87, Pesticide per ha: 0.28
+Punjab,Rapeseed &Mustard	Avg Area: 39368.18, Avg Agri Land: 46315.51, Avg Barren Land: 6947.33, Avg Yield: 1.23, Avg Rainfall: 511.78, Fertilizer per ha: 134.84, Pesticide per ha: 0.27
+Punjab,Rice	Avg Area: 2757826.09, Avg Agri Land: 3244501.28, Avg Barren Land: 486675.19, Avg Yield: 3.76, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Sesamum	Avg Area: 8873.91, Avg Agri Land: 10439.90, Avg Barren Land: 1565.98, Avg Yield: 0.34, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,Sugarcane	Avg Area: 100631.58, Avg Agri Land: 118390.09, Avg Barren Land: 17758.51, Avg Yield: 66.69, Avg Rainfall: 499.14, Fertilizer per ha: 131.29, Pesticide per ha: 0.29
+Punjab,Sunflower	Avg Area: 8966.67, Avg Agri Land: 10549.02, Avg Barren Land: 1582.35, Avg Yield: 1.83, Avg Rainfall: 527.12, Fertilizer per ha: 149.07, Pesticide per ha: 0.33
+Punjab,Urad	Avg Area: 2971.43, Avg Agri Land: 3495.80, Avg Barren Land: 524.37, Avg Yield: 0.57, Avg Rainfall: 513.33, Fertilizer per ha: 136.40, Pesticide per ha: 0.27
+Punjab,Wheat	Avg Area: 3464956.52, Avg Agri Land: 4076419.44, Avg Barren Land: 611462.92, Avg Yield: 4.51, Avg Rainfall: 507.15, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Punjab,other oilseeds	Avg Area: 2600.00, Avg Agri Land: 3058.82, Avg Barren Land: 458.82, Avg Yield: 1.39, Avg Rainfall: 653.20, Fertilizer per ha: 171.76, Pesticide per ha: 0.37
+Sikkim,Barley	Avg Area: 850.52, Avg Agri Land: 1000.61, Avg Barren Land: 150.09, Avg Yield: 1.07, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,Maize	Avg Area: 34938.77, Avg Agri Land: 41104.43, Avg Barren Land: 6165.67, Avg Yield: 1.74, Avg Rainfall: 2582.27, Fertilizer per ha: 129.10, Pesticide per ha: 0.27
+Sikkim,Other  Rabi pulses	Avg Area: 2305.00, Avg Agri Land: 2711.76, Avg Barren Land: 406.76, Avg Yield: 1.09, Avg Rainfall: 2993.95, Fertilizer per ha: 96.98, Pesticide per ha: 0.30
+Sikkim,Other Cereals	Avg Area: 3159.42, Avg Agri Land: 3716.96, Avg Barren Land: 557.54, Avg Yield: 0.88, Avg Rainfall: 2446.41, Fertilizer per ha: 141.43, Pesticide per ha: 0.25
+Sikkim,Other Kharif pulses	Avg Area: 2871.84, Avg Agri Land: 3378.64, Avg Barren Land: 506.80, Avg Yield: 1.08, Avg Rainfall: 2524.30, Fertilizer per ha: 140.30, Pesticide per ha: 0.27
+Sikkim,Potato	Avg Area: 6615.00, Avg Agri Land: 7782.35, Avg Barren Land: 1167.35, Avg Yield: 4.78, Avg Rainfall: 2667.15, Fertilizer per ha: 96.82, Pesticide per ha: 0.24
+Sikkim,Rapeseed &Mustard	Avg Area: 4721.30, Avg Agri Land: 5554.48, Avg Barren Land: 833.17, Avg Yield: 0.88, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,Rice	Avg Area: 12140.48, Avg Agri Land: 14282.92, Avg Barren Land: 2142.44, Avg Yield: 2.05, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,Small millets	Avg Area: 3606.32, Avg Agri Land: 4242.73, Avg Barren Land: 636.41, Avg Yield: 1.03, Avg Rainfall: 2581.26, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Sikkim,Soyabean	Avg Area: 3628.04, Avg Agri Land: 4268.29, Avg Barren Land: 640.24, Avg Yield: 1.02, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,Urad	Avg Area: 3307.26, Avg Agri Land: 3890.90, Avg Barren Land: 583.63, Avg Yield: 1.00, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,Wheat	Avg Area: 4092.13, Avg Agri Land: 4814.27, Avg Barren Land: 722.14, Avg Yield: 1.16, Avg Rainfall: 2585.49, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Sikkim,other oilseeds	Avg Area: 64.00, Avg Agri Land: 75.29, Avg Barren Land: 11.29, Avg Yield: 0.57, Avg Rainfall: 2306.24, Fertilizer per ha: 104.02, Pesticide per ha: 0.23
+Tamil Nadu,Arecanut	Avg Area: 6037.81, Avg Agri Land: 7103.31, Avg Barren Land: 1065.50, Avg Yield: 1.51, Avg Rainfall: 921.58, Fertilizer per ha: 140.46, Pesticide per ha: 0.27
+Tamil Nadu,Arhar/Tur	Avg Area: 47426.90, Avg Agri Land: 55796.36, Avg Barren Land: 8369.45, Avg Yield: 0.79, Avg Rainfall: 895.07, Fertilizer per ha: 134.88, Pesticide per ha: 0.27
+Tamil Nadu,Bajra	Avg Area: 64729.82, Avg Agri Land: 76152.73, Avg Barren Land: 11422.91, Avg Yield: 2.08, Avg Rainfall: 919.92, Fertilizer per ha: 139.93, Pesticide per ha: 0.29
+Tamil Nadu,Banana	Avg Area: 91617.21, Avg Agri Land: 107784.95, Avg Barren Land: 16167.74, Avg Yield: 40.59, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Black pepper	Avg Area: 3727.06, Avg Agri Land: 4384.78, Avg Barren Land: 657.72, Avg Yield: 0.17, Avg Rainfall: 962.73, Fertilizer per ha: 138.09, Pesticide per ha: 0.27
+Tamil Nadu,Cardamom	Avg Area: 3940.61, Avg Agri Land: 4636.01, Avg Barren Land: 695.40, Avg Yield: 0.11, Avg Rainfall: 966.69, Fertilizer per ha: 136.44, Pesticide per ha: 0.27
+Tamil Nadu,Cashewnut	Avg Area: 92770.26, Avg Agri Land: 109141.49, Avg Barren Land: 16371.22, Avg Yield: 18.12, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Castor seed	Avg Area: 11526.90, Avg Agri Land: 13561.06, Avg Barren Land: 2034.16, Avg Yield: 0.36, Avg Rainfall: 929.44, Fertilizer per ha: 136.54, Pesticide per ha: 0.27
+Tamil Nadu,Coconut	Avg Area: 402184.38, Avg Agri Land: 473158.09, Avg Barren Land: 70973.71, Avg Yield: 11207.50, Avg Rainfall: 921.58, Fertilizer per ha: 140.46, Pesticide per ha: 0.27
+Tamil Nadu,Coriander	Avg Area: 17377.68, Avg Agri Land: 20444.33, Avg Barren Land: 3066.65, Avg Yield: 0.38, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Cotton(lint)	Avg Area: 103676.27, Avg Agri Land: 121972.08, Avg Barren Land: 18295.81, Avg Yield: 2.06, Avg Rainfall: 918.66, Fertilizer per ha: 141.17, Pesticide per ha: 0.29
+Tamil Nadu,Cowpea(Lobia)	Avg Area: 32054.83, Avg Agri Land: 37711.57, Avg Barren Land: 5656.74, Avg Yield: 0.74, Avg Rainfall: 955.73, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Tamil Nadu,Dry chillies	Avg Area: 56592.74, Avg Agri Land: 66579.69, Avg Barren Land: 9986.95, Avg Yield: 0.68, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Garlic	Avg Area: 700.26, Avg Agri Land: 823.84, Avg Barren Land: 123.58, Avg Yield: 5.06, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Ginger	Avg Area: 481.26, Avg Agri Land: 566.19, Avg Barren Land: 84.93, Avg Yield: 17.66, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Gram	Avg Area: 6624.86, Avg Agri Land: 7793.95, Avg Barren Land: 1169.09, Avg Yield: 0.62, Avg Rainfall: 929.44, Fertilizer per ha: 136.54, Pesticide per ha: 0.27
+Tamil Nadu,Groundnut	Avg Area: 371220.13, Avg Agri Land: 436729.57, Avg Barren Land: 65509.44, Avg Yield: 2.41, Avg Rainfall: 918.66, Fertilizer per ha: 141.17, Pesticide per ha: 0.29
+Tamil Nadu,Guar seed	Avg Area: 332323.00, Avg Agri Land: 390968.24, Avg Barren Land: 58645.24, Avg Yield: 10.65, Avg Rainfall: 922.80, Fertilizer per ha: 106.13, Pesticide per ha: 0.27
+Tamil Nadu,Horse-gram	Avg Area: 56121.43, Avg Agri Land: 66025.21, Avg Barren Land: 9903.78, Avg Yield: 0.53, Avg Rainfall: 934.00, Fertilizer per ha: 141.62, Pesticide per ha: 0.29
+Tamil Nadu,Jowar	Avg Area: 252773.57, Avg Agri Land: 297380.67, Avg Barren Land: 44607.10, Avg Yield: 1.27, Avg Rainfall: 919.92, Fertilizer per ha: 139.93, Pesticide per ha: 0.29
+Tamil Nadu,Jute	Avg Area: 3.00, Avg Agri Land: 3.53, Avg Barren Land: 0.53, Avg Yield: 0.00, Avg Rainfall: 926.50, Fertilizer per ha: 167.52, Pesticide per ha: 0.33
+Tamil Nadu,Maize	Avg Area: 177760.72, Avg Agri Land: 209130.26, Avg Barren Land: 31369.54, Avg Yield: 4.96, Avg Rainfall: 933.74, Fertilizer per ha: 142.52, Pesticide per ha: 0.29
+Tamil Nadu,Masoor	Avg Area: 65698.00, Avg Agri Land: 77291.76, Avg Barren Land: 11593.76, Avg Yield: 1.14, Avg Rainfall: 1056.60, Fertilizer per ha: 154.44, Pesticide per ha: 0.33
+Tamil Nadu,Mesta	Avg Area: 144.25, Avg Agri Land: 169.71, Avg Barren Land: 25.46, Avg Yield: 3.22, Avg Rainfall: 1083.78, Fertilizer per ha: 105.76, Pesticide per ha: 0.26
+Tamil Nadu,Moong(Green Gram)	Avg Area: 123886.10, Avg Agri Land: 145748.36, Avg Barren Land: 21862.25, Avg Yield: 0.52, Avg Rainfall: 918.39, Fertilizer per ha: 140.26, Pesticide per ha: 0.29
+Tamil Nadu,Niger seed	Avg Area: 938.50, Avg Agri Land: 1104.12, Avg Barren Land: 165.62, Avg Yield: 0.00, Avg Rainfall: 1199.05, Fertilizer per ha: 114.13, Pesticide per ha: 0.21
+Tamil Nadu,Onion	Avg Area: 21999.27, Avg Agri Land: 25881.49, Avg Barren Land: 3882.22, Avg Yield: 8.71, Avg Rainfall: 936.54, Fertilizer per ha: 140.33, Pesticide per ha: 0.29
+Tamil Nadu,Other  Rabi pulses	Avg Area: 17535.33, Avg Agri Land: 20629.80, Avg Barren Land: 3094.47, Avg Yield: 0.71, Avg Rainfall: 955.73, Fertilizer per ha: 163.80, Pesticide per ha: 0.37
+Tamil Nadu,Other Cereals	Avg Area: 12558.67, Avg Agri Land: 14774.90, Avg Barren Land: 2216.24, Avg Yield: 0.97, Avg Rainfall: 947.81, Fertilizer per ha: 154.16, Pesticide per ha: 0.35
+Tamil Nadu,Other Kharif pulses	Avg Area: 84420.33, Avg Agri Land: 99318.04, Avg Barren Land: 14897.71, Avg Yield: 0.43, Avg Rainfall: 899.98, Fertilizer per ha: 129.93, Pesticide per ha: 0.29
+Tamil Nadu,Potato	Avg Area: 3159.62, Avg Agri Land: 3717.19, Avg Barren Land: 557.58, Avg Yield: 19.55, Avg Rainfall: 936.54, Fertilizer per ha: 140.33, Pesticide per ha: 0.29
+Tamil Nadu,Ragi	Avg Area: 75323.70, Avg Agri Land: 88616.12, Avg Barren Land: 13292.42, Avg Yield: 2.64, Avg Rainfall: 918.66, Fertilizer per ha: 141.17, Pesticide per ha: 0.29
+Tamil Nadu,Rapeseed &Mustard	Avg Area: 396.00, Avg Agri Land: 465.88, Avg Barren Land: 69.88, Avg Yield: 0.20, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Rice	Avg Area: 1457926.43, Avg Agri Land: 1715207.56, Avg Barren Land: 257281.13, Avg Yield: 3.70, Avg Rainfall: 919.07, Fertilizer per ha: 141.16, Pesticide per ha: 0.29
+Tamil Nadu,Sannhamp	Avg Area: 5092.25, Avg Agri Land: 5990.88, Avg Barren Land: 898.63, Avg Yield: 0.55, Avg Rainfall: 1083.78, Fertilizer per ha: 105.76, Pesticide per ha: 0.26
+Tamil Nadu,Sesamum	Avg Area: 55019.34, Avg Agri Land: 64728.64, Avg Barren Land: 9709.30, Avg Yield: 0.50, Avg Rainfall: 918.39, Fertilizer per ha: 140.26, Pesticide per ha: 0.29
+Tamil Nadu,Small millets	Avg Area: 34102.82, Avg Agri Land: 40120.96, Avg Barren Land: 6018.14, Avg Yield: 1.23, Avg Rainfall: 945.69, Fertilizer per ha: 142.18, Pesticide per ha: 0.29
+Tamil Nadu,Soyabean	Avg Area: 630.00, Avg Agri Land: 741.18, Avg Barren Land: 111.18, Avg Yield: 0.00, Avg Rainfall: 1364.10, Fertilizer per ha: 119.92, Pesticide per ha: 0.21
+Tamil Nadu,Sugarcane	Avg Area: 282019.14, Avg Agri Land: 331787.22, Avg Barren Land: 49768.08, Avg Yield: 102.99, Avg Rainfall: 909.07, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Tamil Nadu,Sunflower	Avg Area: 10810.34, Avg Agri Land: 12718.05, Avg Barren Land: 1907.71, Avg Yield: 1.26, Avg Rainfall: 918.39, Fertilizer per ha: 140.26, Pesticide per ha: 0.29
+Tamil Nadu,Sweet potato	Avg Area: 816.26, Avg Agri Land: 960.31, Avg Barren Land: 144.05, Avg Yield: 17.27, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Tapioca	Avg Area: 99164.79, Avg Agri Land: 116664.46, Avg Barren Land: 17499.67, Avg Yield: 35.92, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Tobacco	Avg Area: 4656.29, Avg Agri Land: 5477.99, Avg Barren Land: 821.70, Avg Yield: 1.53, Avg Rainfall: 960.98, Fertilizer per ha: 137.83, Pesticide per ha: 0.27
+Tamil Nadu,Turmeric	Avg Area: 27979.74, Avg Agri Land: 32917.34, Avg Barren Land: 4937.60, Avg Yield: 4.79, Avg Rainfall: 932.44, Fertilizer per ha: 134.24, Pesticide per ha: 0.27
+Tamil Nadu,Urad	Avg Area: 248966.28, Avg Agri Land: 292901.50, Avg Barren Land: 43935.23, Avg Yield: 0.61, Avg Rainfall: 918.39, Fertilizer per ha: 140.26, Pesticide per ha: 0.29
+Telangana,Arhar/Tur	Avg Area: 145811.36, Avg Agri Land: 171542.77, Avg Barren Land: 25731.42, Avg Yield: 0.71, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Bajra	Avg Area: 5203.71, Avg Agri Land: 6122.02, Avg Barren Land: 918.30, Avg Yield: 0.86, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Banana	Avg Area: 1638.43, Avg Agri Land: 1927.56, Avg Barren Land: 289.13, Avg Yield: 50.41, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Cashewnut	Avg Area: 2544.14, Avg Agri Land: 2993.11, Avg Barren Land: 448.97, Avg Yield: 0.45, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Castor seed	Avg Area: 21394.36, Avg Agri Land: 25169.83, Avg Barren Land: 3775.47, Avg Yield: 0.71, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Coconut	Avg Area: 433.50, Avg Agri Land: 510.00, Avg Barren Land: 76.50, Avg Yield: 18679.50, Avg Rainfall: 1047.55, Fertilizer per ha: 147.73, Pesticide per ha: 0.30
+Telangana,Coriander	Avg Area: 732.83, Avg Agri Land: 862.16, Avg Barren Land: 129.32, Avg Yield: 0.73, Avg Rainfall: 989.29, Fertilizer per ha: 158.38, Pesticide per ha: 0.35
+Telangana,Cotton(lint)	Avg Area: 1774445.71, Avg Agri Land: 2087583.19, Avg Barren Land: 313137.48, Avg Yield: 2.46, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Cowpea(Lobia)	Avg Area: 3497.36, Avg Agri Land: 4114.54, Avg Barren Land: 617.18, Avg Yield: 0.99, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Dry chillies	Avg Area: 42500.50, Avg Agri Land: 50000.59, Avg Barren Land: 7500.09, Avg Yield: 4.18, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Garlic	Avg Area: 154.80, Avg Agri Land: 182.12, Avg Barren Land: 27.32, Avg Yield: 2.94, Avg Rainfall: 977.64, Fertilizer per ha: 160.51, Pesticide per ha: 0.36
+Telangana,Ginger	Avg Area: 1243.09, Avg Agri Land: 1462.46, Avg Barren Land: 219.37, Avg Yield: 6.66, Avg Rainfall: 1033.89, Fertilizer per ha: 155.99, Pesticide per ha: 0.33
+Telangana,Gram	Avg Area: 75087.78, Avg Agri Land: 88338.56, Avg Barren Land: 13250.78, Avg Yield: 1.33, Avg Rainfall: 1016.41, Fertilizer per ha: 155.55, Pesticide per ha: 0.34
+Telangana,Groundnut	Avg Area: 76018.43, Avg Agri Land: 89433.45, Avg Barren Land: 13415.02, Avg Yield: 1.96, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Horse-gram	Avg Area: 863.14, Avg Agri Land: 1015.46, Avg Barren Land: 152.32, Avg Yield: 0.46, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Jowar	Avg Area: 40278.29, Avg Agri Land: 47386.22, Avg Barren Land: 7107.93, Avg Yield: 1.11, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Linseed	Avg Area: 93.67, Avg Agri Land: 110.20, Avg Barren Land: 16.53, Avg Yield: 0.44, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Telangana,Maize	Avg Area: 330934.43, Avg Agri Land: 389334.62, Avg Barren Land: 58400.19, Avg Yield: 4.81, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Masoor	Avg Area: 160.67, Avg Agri Land: 189.02, Avg Barren Land: 28.35, Avg Yield: 0.42, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Telangana,Mesta	Avg Area: 71.75, Avg Agri Land: 84.41, Avg Barren Land: 12.66, Avg Yield: 8.14, Avg Rainfall: 1047.55, Fertilizer per ha: 147.73, Pesticide per ha: 0.30
+Telangana,Moong(Green Gram)	Avg Area: 82646.00, Avg Agri Land: 97230.59, Avg Barren Land: 14584.59, Avg Yield: 0.84, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Onion	Avg Area: 6667.43, Avg Agri Land: 7844.03, Avg Barren Land: 1176.61, Avg Yield: 23.60, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Other  Rabi pulses	Avg Area: 209.33, Avg Agri Land: 246.27, Avg Barren Land: 36.94, Avg Yield: 0.91, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Telangana,Other Kharif pulses	Avg Area: 197.33, Avg Agri Land: 232.16, Avg Barren Land: 34.82, Avg Yield: 0.44, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Telangana,Potato	Avg Area: 1427.50, Avg Agri Land: 1679.41, Avg Barren Land: 251.91, Avg Yield: 11.25, Avg Rainfall: 989.17, Fertilizer per ha: 157.80, Pesticide per ha: 0.35
+Telangana,Ragi	Avg Area: 693.64, Avg Agri Land: 816.05, Avg Barren Land: 122.41, Avg Yield: 1.21, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Rapeseed &Mustard	Avg Area: 1487.33, Avg Agri Land: 1749.80, Avg Barren Land: 262.47, Avg Yield: 1.16, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Telangana,Rice	Avg Area: 956784.29, Avg Agri Land: 1125628.57, Avg Barren Land: 168844.29, Avg Yield: 3.21, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Safflower	Avg Area: 3138.33, Avg Agri Land: 3692.16, Avg Barren Land: 553.82, Avg Yield: 0.72, Avg Rainfall: 995.29, Fertilizer per ha: 158.11, Pesticide per ha: 0.34
+Telangana,Sesamum	Avg Area: 9785.93, Avg Agri Land: 11512.86, Avg Barren Land: 1726.93, Avg Yield: 0.35, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Small millets	Avg Area: 416.27, Avg Agri Land: 489.73, Avg Barren Land: 73.46, Avg Yield: 1.07, Avg Rainfall: 1005.07, Fertilizer per ha: 158.47, Pesticide per ha: 0.34
+Telangana,Soyabean	Avg Area: 134305.18, Avg Agri Land: 158006.10, Avg Barren Land: 23700.91, Avg Yield: 1.35, Avg Rainfall: 978.99, Fertilizer per ha: 154.97, Pesticide per ha: 0.33
+Telangana,Sugarcane	Avg Area: 34775.29, Avg Agri Land: 40912.10, Avg Barren Land: 6136.82, Avg Yield: 78.03, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Sunflower	Avg Area: 4725.21, Avg Agri Land: 5559.08, Avg Barren Land: 833.86, Avg Yield: 1.52, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Sweet potato	Avg Area: 90.90, Avg Agri Land: 106.94, Avg Barren Land: 16.04, Avg Yield: 9.81, Avg Rainfall: 1011.17, Fertilizer per ha: 158.29, Pesticide per ha: 0.34
+Telangana,Tobacco	Avg Area: 2545.86, Avg Agri Land: 2995.13, Avg Barren Land: 449.27, Avg Yield: 3.42, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Turmeric	Avg Area: 43115.00, Avg Agri Land: 50723.53, Avg Barren Land: 7608.53, Avg Yield: 5.61, Avg Rainfall: 990.74, Fertilizer per ha: 156.41, Pesticide per ha: 0.34
+Telangana,Urad	Avg Area: 17566.50, Avg Agri Land: 20666.47, Avg Barren Land: 3099.97, Avg Yield: 0.89, Avg Rainfall: 997.61, Fertilizer per ha: 156.86, Pesticide per ha: 0.34
+Telangana,Wheat	Avg Area: 4078.00, Avg Agri Land: 4797.65, Avg Barren Land: 719.65, Avg Yield: 1.34, Avg Rainfall: 981.19, Fertilizer per ha: 158.58, Pesticide per ha: 0.35
+Telangana,other oilseeds	Avg Area: 3671.33, Avg Agri Land: 4319.22, Avg Barren Land: 647.88, Avg Yield: 14.73, Avg Rainfall: 947.67, Fertilizer per ha: 151.12, Pesticide per ha: 0.31
+Tripura,Arhar/Tur	Avg Area: 2588.41, Avg Agri Land: 3045.19, Avg Barren Land: 456.78, Avg Yield: 0.73, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Cotton(lint)	Avg Area: 987.14, Avg Agri Land: 1161.34, Avg Barren Land: 174.20, Avg Yield: 1.34, Avg Rainfall: 2293.36, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Tripura,Cowpea(Lobia)	Avg Area: 4159.40, Avg Agri Land: 4893.41, Avg Barren Land: 734.01, Avg Yield: 0.74, Avg Rainfall: 2511.68, Fertilizer per ha: 160.51, Pesticide per ha: 0.36
+Tripura,Gram	Avg Area: 178.88, Avg Agri Land: 210.45, Avg Barren Land: 31.57, Avg Yield: 0.75, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Groundnut	Avg Area: 553.18, Avg Agri Land: 650.80, Avg Barren Land: 97.62, Avg Yield: 1.16, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Jowar	Avg Area: 563.33, Avg Agri Land: 662.75, Avg Barren Land: 99.41, Avg Yield: 0.81, Avg Rainfall: 2440.98, Fertilizer per ha: 163.10, Pesticide per ha: 0.36
+Tripura,Jute	Avg Area: 641.47, Avg Agri Land: 754.67, Avg Barren Land: 113.20, Avg Yield: 8.41, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Khesari	Avg Area: 40.00, Avg Agri Land: 47.06, Avg Barren Land: 7.06, Avg Yield: 0.67, Avg Rainfall: 2210.95, Fertilizer per ha: 166.98, Pesticide per ha: 0.36
+Tripura,Linseed	Avg Area: 135.00, Avg Agri Land: 158.82, Avg Barren Land: 23.82, Avg Yield: 0.70, Avg Rainfall: 2901.05, Fertilizer per ha: 155.34, Pesticide per ha: 0.36
+Tripura,Maize	Avg Area: 4261.26, Avg Agri Land: 5013.25, Avg Barren Land: 751.99, Avg Yield: 1.26, Avg Rainfall: 2333.79, Fertilizer per ha: 139.71, Pesticide per ha: 0.28
+Tripura,Masoor	Avg Area: 1332.24, Avg Agri Land: 1567.34, Avg Barren Land: 235.10, Avg Yield: 0.67, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Mesta	Avg Area: 837.65, Avg Agri Land: 985.47, Avg Barren Land: 147.82, Avg Yield: 8.04, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Moong(Green Gram)	Avg Area: 1451.54, Avg Agri Land: 1707.69, Avg Barren Land: 256.15, Avg Yield: 0.58, Avg Rainfall: 2281.30, Fertilizer per ha: 139.46, Pesticide per ha: 0.27
+Tripura,Other  Rabi pulses	Avg Area: 913.94, Avg Agri Land: 1075.22, Avg Barren Land: 161.28, Avg Yield: 0.81, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Other Kharif pulses	Avg Area: 1532.00, Avg Agri Land: 1802.35, Avg Barren Land: 270.35, Avg Yield: 0.75, Avg Rainfall: 2283.15, Fertilizer per ha: 142.45, Pesticide per ha: 0.27
+Tripura,Peas & beans (Pulses)	Avg Area: 1631.47, Avg Agri Land: 1919.38, Avg Barren Land: 287.91, Avg Yield: 0.78, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Potato	Avg Area: 5582.00, Avg Agri Land: 6567.06, Avg Barren Land: 985.06, Avg Yield: 17.73, Avg Rainfall: 2387.40, Fertilizer per ha: 100.02, Pesticide per ha: 0.26
+Tripura,Rapeseed &Mustard	Avg Area: 3853.18, Avg Agri Land: 4533.15, Avg Barren Land: 679.97, Avg Yield: 0.79, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Rice	Avg Area: 161318.66, Avg Agri Land: 189786.66, Avg Barren Land: 28468.00, Avg Yield: 2.47, Avg Rainfall: 2384.58, Fertilizer per ha: 144.61, Pesticide per ha: 0.30
+Tripura,Sesamum	Avg Area: 3148.18, Avg Agri Land: 3703.74, Avg Barren Land: 555.56, Avg Yield: 0.56, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Small millets	Avg Area: 471.50, Avg Agri Land: 554.71, Avg Barren Land: 83.21, Avg Yield: 0.81, Avg Rainfall: 2556.00, Fertilizer per ha: 161.16, Pesticide per ha: 0.36
+Tripura,Soyabean	Avg Area: 172.50, Avg Agri Land: 202.94, Avg Barren Land: 30.44, Avg Yield: 0.78, Avg Rainfall: 2538.39, Fertilizer per ha: 161.75, Pesticide per ha: 0.36
+Tripura,Sugarcane	Avg Area: 921.14, Avg Agri Land: 1083.69, Avg Barren Land: 162.55, Avg Yield: 51.02, Avg Rainfall: 2293.36, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Tripura,Urad	Avg Area: 1171.24, Avg Agri Land: 1377.92, Avg Barren Land: 206.69, Avg Yield: 0.62, Avg Rainfall: 2265.70, Fertilizer per ha: 145.26, Pesticide per ha: 0.27
+Tripura,Wheat	Avg Area: 660.86, Avg Agri Land: 777.49, Avg Barren Land: 116.62, Avg Yield: 2.04, Avg Rainfall: 2293.36, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+Tripura,other oilseeds	Avg Area: 1716.33, Avg Agri Land: 2019.22, Avg Barren Land: 302.88, Avg Yield: 0.74, Avg Rainfall: 2333.90, Fertilizer per ha: 142.88, Pesticide per ha: 0.32
+Uttar Pradesh,Arhar/Tur	Avg Area: 342868.80, Avg Agri Land: 403375.06, Avg Barren Land: 60506.26, Avg Yield: 0.93, Avg Rainfall: 767.03, Fertilizer per ha: 137.09, Pesticide per ha: 0.28
+Uttar Pradesh,Bajra	Avg Area: 886586.91, Avg Agri Land: 1043043.43, Avg Barren Land: 156456.51, Avg Yield: 1.42, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Banana	Avg Area: 17138.43, Avg Agri Land: 20162.86, Avg Barren Land: 3024.43, Avg Yield: 43.38, Avg Rainfall: 748.61, Fertilizer per ha: 147.94, Pesticide per ha: 0.28
+Uttar Pradesh,Barley	Avg Area: 203682.65, Avg Agri Land: 239626.65, Avg Barren Land: 35944.00, Avg Yield: 2.30, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Castor seed	Avg Area: 40.00, Avg Agri Land: 47.06, Avg Barren Land: 7.06, Avg Yield: 0.71, Avg Rainfall: 743.77, Fertilizer per ha: 99.57, Pesticide per ha: 0.28
+Uttar Pradesh,Coriander	Avg Area: 6471.36, Avg Agri Land: 7613.36, Avg Barren Land: 1142.00, Avg Yield: 0.57, Avg Rainfall: 746.39, Fertilizer per ha: 149.73, Pesticide per ha: 0.28
+Uttar Pradesh,Cotton(lint)	Avg Area: 5064.71, Avg Agri Land: 5958.49, Avg Barren Land: 893.77, Avg Yield: 0.51, Avg Rainfall: 757.67, Fertilizer per ha: 136.69, Pesticide per ha: 0.27
+Uttar Pradesh,Dry chillies	Avg Area: 14385.69, Avg Agri Land: 16924.34, Avg Barren Land: 2538.65, Avg Yield: 0.89, Avg Rainfall: 743.50, Fertilizer per ha: 148.17, Pesticide per ha: 0.27
+Uttar Pradesh,Garlic	Avg Area: 34102.64, Avg Agri Land: 40120.76, Avg Barren Land: 6018.11, Avg Yield: 5.46, Avg Rainfall: 748.61, Fertilizer per ha: 147.94, Pesticide per ha: 0.28
+Uttar Pradesh,Ginger	Avg Area: 878.77, Avg Agri Land: 1033.85, Avg Barren Land: 155.08, Avg Yield: 3.67, Avg Rainfall: 734.50, Fertilizer per ha: 153.80, Pesticide per ha: 0.29
+Uttar Pradesh,Gram	Avg Area: 655858.00, Avg Agri Land: 771597.65, Avg Barren Land: 115739.65, Avg Yield: 0.99, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Groundnut	Avg Area: 99749.05, Avg Agri Land: 117351.82, Avg Barren Land: 17602.77, Avg Yield: 0.88, Avg Rainfall: 759.49, Fertilizer per ha: 133.85, Pesticide per ha: 0.27
+Uttar Pradesh,Guar seed	Avg Area: 2248.69, Avg Agri Land: 2645.51, Avg Barren Land: 396.83, Avg Yield: 0.80, Avg Rainfall: 743.50, Fertilizer per ha: 148.17, Pesticide per ha: 0.27
+Uttar Pradesh,Jowar	Avg Area: 233724.61, Avg Agri Land: 274970.13, Avg Barren Land: 41245.52, Avg Yield: 1.01, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Jute	Avg Area: 44.67, Avg Agri Land: 52.55, Avg Barren Land: 7.88, Avg Yield: 0.80, Avg Rainfall: 833.73, Fertilizer per ha: 101.03, Pesticide per ha: 0.27
+Uttar Pradesh,Linseed	Avg Area: 37762.30, Avg Agri Land: 44426.24, Avg Barren Land: 6663.94, Avg Yield: 0.45, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Maize	Avg Area: 313331.22, Avg Agri Land: 368624.96, Avg Barren Land: 55293.74, Avg Yield: 1.91, Avg Rainfall: 761.42, Fertilizer per ha: 137.52, Pesticide per ha: 0.27
+Uttar Pradesh,Masoor	Avg Area: 524422.75, Avg Agri Land: 616967.94, Avg Barren Land: 92545.19, Avg Yield: 0.84, Avg Rainfall: 756.06, Fertilizer per ha: 136.52, Pesticide per ha: 0.28
+Uttar Pradesh,Moong(Green Gram)	Avg Area: 41844.32, Avg Agri Land: 49228.62, Avg Barren Land: 7384.29, Avg Yield: 0.50, Avg Rainfall: 770.71, Fertilizer per ha: 135.44, Pesticide per ha: 0.28
+Uttar Pradesh,Moth	Avg Area: 133527.00, Avg Agri Land: 157090.59, Avg Barren Land: 23563.59, Avg Yield: 0.43, Avg Rainfall: 794.94, Fertilizer per ha: 99.15, Pesticide per ha: 0.27
+Uttar Pradesh,Onion	Avg Area: 12914.19, Avg Agri Land: 15193.17, Avg Barren Land: 2278.98, Avg Yield: 14.05, Avg Rainfall: 748.49, Fertilizer per ha: 138.50, Pesticide per ha: 0.28
+Uttar Pradesh,Other  Rabi pulses	Avg Area: 369847.50, Avg Agri Land: 435114.71, Avg Barren Land: 65267.21, Avg Yield: 1.04, Avg Rainfall: 631.70, Fertilizer per ha: 130.56, Pesticide per ha: 0.19
+Uttar Pradesh,Other Kharif pulses	Avg Area: 606775.00, Avg Agri Land: 713852.94, Avg Barren Land: 107077.94, Avg Yield: 0.54, Avg Rainfall: 590.50, Fertilizer per ha: 127.71, Pesticide per ha: 0.22
+Uttar Pradesh,Peas & beans (Pulses)	Avg Area: 354718.84, Avg Agri Land: 417316.28, Avg Barren Land: 62597.44, Avg Yield: 1.26, Avg Rainfall: 775.86, Fertilizer per ha: 135.54, Pesticide per ha: 0.28
+Uttar Pradesh,Potato	Avg Area: 502283.09, Avg Agri Land: 590921.28, Avg Barren Land: 88638.19, Avg Yield: 21.74, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Ragi	Avg Area: 68295.75, Avg Agri Land: 80347.94, Avg Barren Land: 12052.19, Avg Yield: 1.45, Avg Rainfall: 841.60, Fertilizer per ha: 99.64, Pesticide per ha: 0.26
+Uttar Pradesh,Rapeseed &Mustard	Avg Area: 634591.96, Avg Agri Land: 746578.77, Avg Barren Land: 111986.82, Avg Yield: 0.95, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Rice	Avg Area: 3043329.50, Avg Agri Land: 3580387.65, Avg Barren Land: 537058.15, Avg Yield: 2.20, Avg Rainfall: 760.58, Fertilizer per ha: 134.12, Pesticide per ha: 0.27
+Uttar Pradesh,Sannhamp	Avg Area: 2933.05, Avg Agri Land: 3450.65, Avg Barren Land: 517.60, Avg Yield: 0.29, Avg Rainfall: 756.79, Fertilizer per ha: 140.16, Pesticide per ha: 0.27
+Uttar Pradesh,Sesamum	Avg Area: 229485.77, Avg Agri Land: 269983.26, Avg Barren Land: 40497.49, Avg Yield: 0.18, Avg Rainfall: 753.51, Fertilizer per ha: 134.48, Pesticide per ha: 0.27
+Uttar Pradesh,Small millets	Avg Area: 32717.70, Avg Agri Land: 38491.41, Avg Barren Land: 5773.71, Avg Yield: 0.82, Avg Rainfall: 752.14, Fertilizer per ha: 140.49, Pesticide per ha: 0.29
+Uttar Pradesh,Soyabean	Avg Area: 18857.78, Avg Agri Land: 22185.63, Avg Barren Land: 3327.84, Avg Yield: 0.77, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttar Pradesh,Sugarcane	Avg Area: 2033564.79, Avg Agri Land: 2392429.17, Avg Barren Land: 358864.37, Avg Yield: 55.51, Avg Rainfall: 747.27, Fertilizer per ha: 131.66, Pesticide per ha: 0.27
+Uttar Pradesh,Sunflower	Avg Area: 8710.09, Avg Agri Land: 10247.17, Avg Barren Land: 1537.07, Avg Yield: 1.55, Avg Rainfall: 753.92, Fertilizer per ha: 134.84, Pesticide per ha: 0.27
+Uttar Pradesh,Sweet potato	Avg Area: 17348.38, Avg Agri Land: 20409.85, Avg Barren Land: 3061.48, Avg Yield: 12.44, Avg Rainfall: 743.50, Fertilizer per ha: 148.17, Pesticide per ha: 0.27
+Uttar Pradesh,Tobacco	Avg Area: 15278.41, Avg Agri Land: 17974.60, Avg Barren Land: 2696.19, Avg Yield: 4.14, Avg Rainfall: 759.11, Fertilizer per ha: 142.58, Pesticide per ha: 0.27
+Uttar Pradesh,Turmeric	Avg Area: 1353.81, Avg Agri Land: 1592.72, Avg Barren Land: 238.91, Avg Yield: 2.26, Avg Rainfall: 766.43, Fertilizer per ha: 134.60, Pesticide per ha: 0.28
+Uttar Pradesh,Urad	Avg Area: 253563.67, Avg Agri Land: 298310.21, Avg Barren Land: 44746.53, Avg Yield: 0.57, Avg Rainfall: 770.71, Fertilizer per ha: 135.44, Pesticide per ha: 0.28
+Uttar Pradesh,Wheat	Avg Area: 9511432.22, Avg Agri Land: 11189920.26, Avg Barren Land: 1678488.04, Avg Yield: 2.90, Avg Rainfall: 759.16, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+Uttarakhand,Arhar/Tur	Avg Area: 2458.76, Avg Agri Land: 2892.66, Avg Barren Land: 433.90, Avg Yield: 0.71, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Bajra	Avg Area: 11.83, Avg Agri Land: 13.92, Avg Barren Land: 2.09, Avg Yield: 1.07, Avg Rainfall: 1432.85, Fertilizer per ha: 129.84, Pesticide per ha: 0.24
+Uttarakhand,Barley	Avg Area: 22000.90, Avg Agri Land: 25883.42, Avg Barren Land: 3882.51, Avg Yield: 1.26, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Dry chillies	Avg Area: 5671.00, Avg Agri Land: 6671.76, Avg Barren Land: 1000.76, Avg Yield: 0.30, Avg Rainfall: 1924.30, Fertilizer per ha: 133.40, Pesticide per ha: 0.16
+Uttarakhand,Garlic	Avg Area: 3066.64, Avg Agri Land: 3607.81, Avg Barren Land: 541.17, Avg Yield: 6.23, Avg Rainfall: 1416.40, Fertilizer per ha: 141.33, Pesticide per ha: 0.27
+Uttarakhand,Gram	Avg Area: 758.29, Avg Agri Land: 892.10, Avg Barren Land: 133.82, Avg Yield: 0.67, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Groundnut	Avg Area: 1207.19, Avg Agri Land: 1420.22, Avg Barren Land: 213.03, Avg Yield: 1.07, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Horse-gram	Avg Area: 10288.00, Avg Agri Land: 12103.53, Avg Barren Land: 1815.53, Avg Yield: 0.76, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Jowar	Avg Area: 4.00, Avg Agri Land: 4.71, Avg Barren Land: 0.71, Avg Yield: 0.74, Avg Rainfall: 1300.45, Fertilizer per ha: 138.91, Pesticide per ha: 0.27
+Uttarakhand,Linseed	Avg Area: 3423.64, Avg Agri Land: 4027.81, Avg Barren Land: 604.17, Avg Yield: 0.41, Avg Rainfall: 1457.07, Fertilizer per ha: 123.71, Pesticide per ha: 0.27
+Uttarakhand,Maize	Avg Area: 13068.55, Avg Agri Land: 15374.76, Avg Barren Land: 2306.21, Avg Yield: 1.57, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Masoor	Avg Area: 11321.67, Avg Agri Land: 13319.61, Avg Barren Land: 1997.94, Avg Yield: 0.65, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Moong(Green Gram)	Avg Area: 907.92, Avg Agri Land: 1068.14, Avg Barren Land: 160.22, Avg Yield: 0.57, Avg Rainfall: 1429.38, Fertilizer per ha: 138.14, Pesticide per ha: 0.27
+Uttarakhand,Moth	Avg Area: 786.57, Avg Agri Land: 925.38, Avg Barren Land: 138.81, Avg Yield: 0.44, Avg Rainfall: 1405.27, Fertilizer per ha: 143.88, Pesticide per ha: 0.28
+Uttarakhand,Onion	Avg Area: 3111.00, Avg Agri Land: 3660.00, Avg Barren Land: 549.00, Avg Yield: 8.77, Avg Rainfall: 1438.87, Fertilizer per ha: 136.85, Pesticide per ha: 0.27
+Uttarakhand,Other  Rabi pulses	Avg Area: 92.86, Avg Agri Land: 109.24, Avg Barren Land: 16.39, Avg Yield: 0.61, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Other Cereals	Avg Area: 13550.00, Avg Agri Land: 15941.18, Avg Barren Land: 2391.18, Avg Yield: 0.84, Avg Rainfall: 1414.06, Fertilizer per ha: 138.70, Pesticide per ha: 0.27
+Uttarakhand,Other Kharif pulses	Avg Area: 12316.14, Avg Agri Land: 14489.58, Avg Barren Land: 2173.44, Avg Yield: 0.85, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Other Summer Pulses	Avg Area: 7.50, Avg Agri Land: 8.82, Avg Barren Land: 1.32, Avg Yield: 0.62, Avg Rainfall: 1476.95, Fertilizer per ha: 157.73, Pesticide per ha: 0.35
+Uttarakhand,Peas & beans (Pulses)	Avg Area: 4817.67, Avg Agri Land: 5667.84, Avg Barren Land: 850.18, Avg Yield: 0.68, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Potato	Avg Area: 7364.33, Avg Agri Land: 8663.92, Avg Barren Land: 1299.59, Avg Yield: 12.22, Avg Rainfall: 1421.53, Fertilizer per ha: 143.31, Pesticide per ha: 0.28
+Uttarakhand,Ragi	Avg Area: 114358.81, Avg Agri Land: 134539.78, Avg Barren Land: 20180.97, Avg Yield: 1.43, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Rapeseed &Mustard	Avg Area: 13001.10, Avg Agri Land: 15295.41, Avg Barren Land: 2294.31, Avg Yield: 0.64, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Rice	Avg Area: 136747.74, Avg Agri Land: 160879.69, Avg Barren Land: 24131.95, Avg Yield: 2.47, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Sannhamp	Avg Area: 4007.00, Avg Agri Land: 4714.12, Avg Barren Land: 707.12, Avg Yield: 0.31, Avg Rainfall: 1610.30, Fertilizer per ha: 94.67, Pesticide per ha: 0.25
+Uttarakhand,Sesamum	Avg Area: 1966.62, Avg Agri Land: 2313.67, Avg Barren Land: 347.05, Avg Yield: 0.23, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Small millets	Avg Area: 51255.72, Avg Agri Land: 60300.85, Avg Barren Land: 9045.13, Avg Yield: 1.21, Avg Rainfall: 1412.45, Fertilizer per ha: 137.97, Pesticide per ha: 0.30
+Uttarakhand,Soyabean	Avg Area: 9908.10, Avg Agri Land: 11656.58, Avg Barren Land: 1748.49, Avg Yield: 1.01, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Sugarcane	Avg Area: 105165.43, Avg Agri Land: 123724.03, Avg Barren Land: 18558.61, Avg Yield: 63.06, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Sunflower	Avg Area: 70.33, Avg Agri Land: 82.75, Avg Barren Land: 12.41, Avg Yield: 0.88, Avg Rainfall: 1412.64, Fertilizer per ha: 142.40, Pesticide per ha: 0.28
+Uttarakhand,Tobacco	Avg Area: 59.95, Avg Agri Land: 70.53, Avg Barren Land: 10.58, Avg Yield: 3.23, Avg Rainfall: 1437.68, Fertilizer per ha: 139.45, Pesticide per ha: 0.27
+Uttarakhand,Turmeric	Avg Area: 636.33, Avg Agri Land: 748.63, Avg Barren Land: 112.29, Avg Yield: 2.80, Avg Rainfall: 1420.34, Fertilizer per ha: 146.17, Pesticide per ha: 0.28
+Uttarakhand,Urad	Avg Area: 5875.26, Avg Agri Land: 6912.07, Avg Barren Land: 1036.81, Avg Yield: 0.62, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,Wheat	Avg Area: 355478.95, Avg Agri Land: 418210.53, Avg Barren Land: 62731.58, Avg Yield: 1.81, Avg Rainfall: 1422.54, Fertilizer per ha: 140.87, Pesticide per ha: 0.27
+Uttarakhand,other oilseeds	Avg Area: 388.55, Avg Agri Land: 457.12, Avg Barren Land: 68.57, Avg Yield: 0.63, Avg Rainfall: 1410.97, Fertilizer per ha: 143.53, Pesticide per ha: 0.27
+West Bengal,Arecanut	Avg Area: 10527.00, Avg Agri Land: 12384.71, Avg Barren Land: 1857.71, Avg Yield: 2.00, Avg Rainfall: 1799.34, Fertilizer per ha: 110.74, Pesticide per ha: 0.23
+West Bengal,Arhar/Tur	Avg Area: 2706.61, Avg Agri Land: 3184.25, Avg Barren Land: 477.64, Avg Yield: 1.05, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Bajra	Avg Area: 143.65, Avg Agri Land: 169.00, Avg Barren Land: 25.35, Avg Yield: 0.51, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Barley	Avg Area: 2650.78, Avg Agri Land: 3118.57, Avg Barren Land: 467.79, Avg Yield: 1.32, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Cardamom	Avg Area: 2304.29, Avg Agri Land: 2710.93, Avg Barren Land: 406.64, Avg Yield: 0.48, Avg Rainfall: 1749.04, Fertilizer per ha: 109.49, Pesticide per ha: 0.24
+West Bengal,Castor seed	Avg Area: 90.15, Avg Agri Land: 106.06, Avg Barren Land: 15.91, Avg Yield: 0.72, Avg Rainfall: 1700.63, Fertilizer per ha: 130.11, Pesticide per ha: 0.26
+West Bengal,Coconut	Avg Area: 27986.13, Avg Agri Land: 32924.86, Avg Barren Land: 4938.73, Avg Yield: 12503.39, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Cotton(lint)	Avg Area: 2449.43, Avg Agri Land: 2881.69, Avg Barren Land: 432.25, Avg Yield: 2.76, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Dry chillies	Avg Area: 51300.07, Avg Agri Land: 60353.03, Avg Barren Land: 9052.95, Avg Yield: 1.03, Avg Rainfall: 1810.91, Fertilizer per ha: 109.09, Pesticide per ha: 0.24
+West Bengal,Garlic	Avg Area: 3414.00, Avg Agri Land: 4016.47, Avg Barren Land: 602.47, Avg Yield: 10.54, Avg Rainfall: 2007.50, Fertilizer per ha: 133.40, Pesticide per ha: 0.16
+West Bengal,Ginger	Avg Area: 9281.18, Avg Agri Land: 10919.04, Avg Barren Land: 1637.86, Avg Yield: 1.67, Avg Rainfall: 1777.52, Fertilizer per ha: 111.94, Pesticide per ha: 0.22
+West Bengal,Gram	Avg Area: 31952.13, Avg Agri Land: 37590.74, Avg Barren Land: 5638.61, Avg Yield: 0.97, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Groundnut	Avg Area: 21825.05, Avg Agri Land: 25676.53, Avg Barren Land: 3851.48, Avg Yield: 1.52, Avg Rainfall: 1711.03, Fertilizer per ha: 137.19, Pesticide per ha: 0.27
+West Bengal,Horse-gram	Avg Area: 2856.35, Avg Agri Land: 3360.41, Avg Barren Land: 504.06, Avg Yield: 0.53, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Jowar	Avg Area: 745.52, Avg Agri Land: 877.08, Avg Barren Land: 131.56, Avg Yield: 0.51, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Jute	Avg Area: 582774.04, Avg Agri Land: 685616.52, Avg Barren Land: 102842.48, Avg Yield: 15.47, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Khesari	Avg Area: 38958.08, Avg Agri Land: 45833.04, Avg Barren Land: 6874.96, Avg Yield: 0.94, Avg Rainfall: 1717.19, Fertilizer per ha: 131.64, Pesticide per ha: 0.27
+West Bengal,Linseed	Avg Area: 6712.00, Avg Agri Land: 7896.47, Avg Barren Land: 1184.47, Avg Yield: 0.33, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Maize	Avg Area: 51879.63, Avg Agri Land: 61034.86, Avg Barren Land: 9155.23, Avg Yield: 2.98, Avg Rainfall: 1695.40, Fertilizer per ha: 144.78, Pesticide per ha: 0.28
+West Bengal,Masoor	Avg Area: 77676.43, Avg Agri Land: 91384.04, Avg Barren Land: 13707.61, Avg Yield: 0.71, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Mesta	Avg Area: 9112.70, Avg Agri Land: 10720.82, Avg Barren Land: 1608.12, Avg Yield: 9.77, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Moong(Green Gram)	Avg Area: 8564.07, Avg Agri Land: 10075.38, Avg Barren Land: 1511.31, Avg Yield: 0.65, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Moth	Avg Area: 15.75, Avg Agri Land: 18.53, Avg Barren Land: 2.78, Avg Yield: 0.89, Avg Rainfall: 1734.05, Fertilizer per ha: 151.65, Pesticide per ha: 0.32
+West Bengal,Niger seed	Avg Area: 2121615.21, Avg Agri Land: 2496017.89, Avg Barren Land: 374402.68, Avg Yield: 0.52, Avg Rainfall: 1726.52, Fertilizer per ha: 131.66, Pesticide per ha: 0.27
+West Bengal,Other  Rabi pulses	Avg Area: 386.09, Avg Agri Land: 454.22, Avg Barren Land: 68.13, Avg Yield: 0.55, Avg Rainfall: 1674.62, Fertilizer per ha: 156.86, Pesticide per ha: 0.30
+West Bengal,Other Kharif pulses	Avg Area: 1252.35, Avg Agri Land: 1473.35, Avg Barren Land: 221.00, Avg Yield: 0.55, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Peas & beans (Pulses)	Avg Area: 12387.14, Avg Agri Land: 14573.10, Avg Barren Land: 2185.97, Avg Yield: 0.93, Avg Rainfall: 1715.03, Fertilizer per ha: 134.98, Pesticide per ha: 0.27
+West Bengal,Potato	Avg Area: 240193.11, Avg Agri Land: 282580.13, Avg Barren Land: 42387.02, Avg Yield: 19.08, Avg Rainfall: 1714.13, Fertilizer per ha: 138.99, Pesticide per ha: 0.28
+West Bengal,Ragi	Avg Area: 10248.75, Avg Agri Land: 12057.35, Avg Barren Land: 1808.60, Avg Yield: 0.80, Avg Rainfall: 1714.32, Fertilizer per ha: 133.66, Pesticide per ha: 0.26
+West Bengal,Rapeseed &Mustard	Avg Area: 443849.61, Avg Agri Land: 522176.01, Avg Barren Land: 78326.40, Avg Yield: 0.83, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Rice	Avg Area: 1876162.91, Avg Agri Land: 2207250.49, Avg Barren Land: 331087.57, Avg Yield: 2.52, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Safflower	Avg Area: 856.09, Avg Agri Land: 1007.17, Avg Barren Land: 151.07, Avg Yield: 0.72, Avg Rainfall: 1720.46, Fertilizer per ha: 131.50, Pesticide per ha: 0.26
+West Bengal,Sannhamp	Avg Area: 1043.42, Avg Agri Land: 1227.55, Avg Barren Land: 184.13, Avg Yield: 4.79, Avg Rainfall: 1745.90, Fertilizer per ha: 132.12, Pesticide per ha: 0.27
+West Bengal,Sesamum	Avg Area: 77812.17, Avg Agri Land: 91543.73, Avg Barren Land: 13731.56, Avg Yield: 0.72, Avg Rainfall: 1716.39, Fertilizer per ha: 141.43, Pesticide per ha: 0.28
+West Bengal,Small millets	Avg Area: 1701.11, Avg Agri Land: 2001.31, Avg Barren Land: 300.20, Avg Yield: 0.87, Avg Rainfall: 1721.76, Fertilizer per ha: 134.82, Pesticide per ha: 0.27
+West Bengal,Soyabean	Avg Area: 567.22, Avg Agri Land: 667.31, Avg Barren Land: 100.10, Avg Yield: 0.68, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Sugarcane	Avg Area: 18526.70, Avg Agri Land: 21796.11, Avg Barren Land: 3269.42, Avg Yield: 83.14, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Sunflower	Avg Area: 6812.78, Avg Agri Land: 8015.04, Avg Barren Land: 1202.26, Avg Yield: 1.08, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Tobacco	Avg Area: 13213.00, Avg Agri Land: 15544.71, Avg Barren Land: 2331.71, Avg Yield: 0.97, Avg Rainfall: 1694.20, Fertilizer per ha: 136.70, Pesticide per ha: 0.27
+West Bengal,Turmeric	Avg Area: 13128.92, Avg Agri Land: 15445.78, Avg Barren Land: 2316.87, Avg Yield: 1.78, Avg Rainfall: 1783.80, Fertilizer per ha: 110.54, Pesticide per ha: 0.23
+West Bengal,Urad	Avg Area: 33183.57, Avg Agri Land: 39039.49, Avg Barren Land: 5855.92, Avg Yield: 0.67, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27
+West Bengal,Wheat	Avg Area: 329670.35, Avg Agri Land: 387847.47, Avg Barren Land: 58177.12, Avg Yield: 2.30, Avg Rainfall: 1721.02, Fertilizer per ha: 133.25, Pesticide per ha: 0.27

@@ -1,0 +1,995 @@
+Andhra Pradesh,Arecanut	Total Area: 8819.0, Total Agri Land: 10375.29411764706, Total Barren Land: 1556.294117647059, Avg Yield: 2.21
+Andhra Pradesh,Arhar/Tur	Total Area: 8618923.0, Total Agri Land: 10139909.411764707, Total Barren Land: 1520986.4117647063, Avg Yield: 0.49
+Andhra Pradesh,Bajra	Total Area: 1636806.0, Total Agri Land: 1925654.1176470588, Total Barren Land: 288848.11764705885, Avg Yield: 1.25
+Andhra Pradesh,Banana	Total Area: 997095.0, Total Agri Land: 1173052.9411764706, Total Barren Land: 175957.94117647057, Avg Yield: 39.96
+Andhra Pradesh,Black pepper	Total Area: 17649.0, Total Agri Land: 20763.529411764706, Total Barren Land: 3114.529411764706, Avg Yield: 0.88
+Andhra Pradesh,Cashewnut	Total Area: 2523771.0, Total Agri Land: 2969142.352941176, Total Barren Land: 445371.3529411765, Avg Yield: 0.45
+Andhra Pradesh,Castor seed	Total Area: 4101494.0, Total Agri Land: 4825287.058823529, Total Barren Land: 723793.0588235295, Avg Yield: 0.54
+Andhra Pradesh,Coconut	Total Area: 1965574.0, Total Agri Land: 2312440.0, Total Barren Land: 346866.00000000006, Avg Yield: 11734.83
+Andhra Pradesh,Coriander	Total Area: 483761.0, Total Agri Land: 569130.5882352941, Total Barren Land: 85369.58823529413, Avg Yield: 0.52
+Andhra Pradesh,Cotton(lint)	Total Area: 24993683.0, Total Agri Land: 29404332.941176467, Total Barren Land: 4410649.94117647, Avg Yield: 2.14
+Andhra Pradesh,Cowpea(Lobia)	Total Area: 150694.0, Total Agri Land: 177287.05882352943, Total Barren Land: 26593.058823529413, Avg Yield: 0.58
+Andhra Pradesh,Dry chillies	Total Area: 4564510.0, Total Agri Land: 5370011.764705883, Total Barren Land: 805501.7647058823, Avg Yield: 3.10
+Andhra Pradesh,Garlic	Total Area: 2775.0, Total Agri Land: 3264.705882352941, Total Barren Land: 489.7058823529413, Avg Yield: 1.33
+Andhra Pradesh,Ginger	Total Area: 27711.0, Total Agri Land: 32601.17647058823, Total Barren Land: 4890.176470588234, Avg Yield: 4.14
+Andhra Pradesh,Gram	Total Area: 9943133.0, Total Agri Land: 11697803.529411765, Total Barren Land: 1754670.529411765, Avg Yield: 1.16
+Andhra Pradesh,Groundnut	Total Area: 32318018.0, Total Agri Land: 38021197.64705884, Total Barren Land: 5703179.647058823, Avg Yield: 1.65
+Andhra Pradesh,Guar seed	Total Area: 49.0, Total Agri Land: 57.64705882352941, Total Barren Land: 8.647058823529413, Avg Yield: 0.63
+Andhra Pradesh,Horse-gram	Total Area: 1483553.0, Total Agri Land: 1745356.4705882352, Total Barren Land: 261803.4705882353, Avg Yield: 0.42
+Andhra Pradesh,Jowar	Total Area: 9026742.0, Total Agri Land: 10619696.470588237, Total Barren Land: 1592954.4705882354, Avg Yield: 1.44
+Andhra Pradesh,Linseed	Total Area: 42405.0, Total Agri Land: 49888.23529411765, Total Barren Land: 7483.235294117649, Avg Yield: 0.29
+Andhra Pradesh,Maize	Total Area: 12630979.0, Total Agri Land: 14859975.294117644, Total Barren Land: 2228996.2941176468, Avg Yield: 4.64
+Andhra Pradesh,Masoor	Total Area: 432159.0, Total Agri Land: 508422.35294117645, Total Barren Land: 76263.35294117648, Avg Yield: 0.36
+Andhra Pradesh,Mesta	Total Area: 838496.0, Total Agri Land: 986465.8823529412, Total Barren Land: 147969.88235294117, Avg Yield: 8.25
+Andhra Pradesh,Moong(Green Gram)	Total Area: 7787541.0, Total Agri Land: 9161812.941176472, Total Barren Land: 1374271.9411764708, Avg Yield: 0.51
+Andhra Pradesh,Niger seed	Total Area: 223933.0, Total Agri Land: 263450.5882352941, Total Barren Land: 39517.58823529412, Avg Yield: 0.41
+Andhra Pradesh,Oilseeds total	Total Area: 5006406.0, Total Agri Land: 5889889.411764706, Total Barren Land: 883483.4117647059, Avg Yield: 4.04
+Andhra Pradesh,Onion	Total Area: 735301.0, Total Agri Land: 865060.0000000002, Total Barren Land: 129759.0, Avg Yield: 34.69
+Andhra Pradesh,Other  Rabi pulses	Total Area: 164959.0, Total Agri Land: 194069.41176470584, Total Barren Land: 29110.411764705874, Avg Yield: 0.72
+Andhra Pradesh,Other Kharif pulses	Total Area: 148006.0, Total Agri Land: 174124.70588235295, Total Barren Land: 26118.70588235294, Avg Yield: 0.44
+Andhra Pradesh,Potato	Total Area: 55582.0, Total Agri Land: 65390.588235294104, Total Barren Land: 9808.588235294117, Avg Yield: 10.74
+Andhra Pradesh,Ragi	Total Area: 1336124.0, Total Agri Land: 1571910.588235294, Total Barren Land: 235786.5882352941, Avg Yield: 1.41
+Andhra Pradesh,Rapeseed &Mustard	Total Area: 81740.0, Total Agri Land: 96164.70588235295, Total Barren Land: 14424.705882352944, Avg Yield: 0.55
+Andhra Pradesh,Rice	Total Area: 77053859.0, Total Agri Land: 90651598.82352944, Total Barren Land: 13597739.823529417, Avg Yield: 3.01
+Andhra Pradesh,Safflower	Total Area: 193448.0, Total Agri Land: 227585.88235294117, Total Barren Land: 34137.88235294118, Avg Yield: 0.50
+Andhra Pradesh,Sannhamp	Total Area: 9232.0, Total Agri Land: 10861.176470588236, Total Barren Land: 1629.1764705882356, Avg Yield: 0.00
+Andhra Pradesh,Sesamum	Total Area: 2436520.0, Total Agri Land: 2866494.117647058, Total Barren Land: 429974.11764705874, Avg Yield: 0.25
+Andhra Pradesh,Small millets	Total Area: 740510.0, Total Agri Land: 871188.2352941177, Total Barren Land: 130678.23529411765, Avg Yield: 0.67
+Andhra Pradesh,Soyabean	Total Area: 955124.0, Total Agri Land: 1123675.2941176472, Total Barren Land: 168551.29411764705, Avg Yield: 1.44
+Andhra Pradesh,Sugarcane	Total Area: 4234898.0, Total Agri Land: 4982232.94117647, Total Barren Land: 747334.9411764705, Avg Yield: 81.75
+Andhra Pradesh,Sunflower	Total Area: 5787735.0, Total Agri Land: 6809099.999999999, Total Barren Land: 1021365.0000000003, Avg Yield: 0.86
+Andhra Pradesh,Sweet potato	Total Area: 18519.0, Total Agri Land: 21787.058823529413, Total Barren Land: 3268.058823529412, Avg Yield: 11.89
+Andhra Pradesh,Tapioca	Total Area: 251361.0, Total Agri Land: 295718.82352941175, Total Barren Land: 44357.82352941176, Avg Yield: 10.87
+Andhra Pradesh,Tobacco	Total Area: 3855896.0, Total Agri Land: 4536348.235294118, Total Barren Land: 680452.2352941177, Avg Yield: 5.74
+Andhra Pradesh,Urad	Total Area: 10332156.0, Total Agri Land: 12155477.647058822, Total Barren Land: 1823321.6470588238, Avg Yield: 0.61
+Andhra Pradesh,Wheat	Total Area: 176292.0, Total Agri Land: 207402.35294117648, Total Barren Land: 31110.35294117647, Avg Yield: 0.81
+Andhra Pradesh,other oilseeds	Total Area: 531394.0, Total Agri Land: 625169.4117647059, Total Barren Land: 93775.41176470589, Avg Yield: 10.28
+Arunachal Pradesh,Arhar/Tur	Total Area: 3231.0, Total Agri Land: 3801.176470588235, Total Barren Land: 570.1764705882352, Avg Yield: 0.82
+Arunachal Pradesh,Dry chillies	Total Area: 51430.0, Total Agri Land: 60505.88235294118, Total Barren Land: 9075.882352941175, Avg Yield: 2.15
+Arunachal Pradesh,Ginger	Total Area: 135712.0, Total Agri Land: 159661.17647058822, Total Barren Land: 23949.17647058824, Avg Yield: 6.18
+Arunachal Pradesh,Groundnut	Total Area: 5056.0, Total Agri Land: 5948.235294117648, Total Barren Land: 892.2352941176471, Avg Yield: 1.10
+Arunachal Pradesh,Maize	Total Area: 1003803.0, Total Agri Land: 1180944.7058823528, Total Barren Land: 177141.70588235292, Avg Yield: 1.54
+Arunachal Pradesh,Masoor	Total Area: 1758.0, Total Agri Land: 2068.235294117647, Total Barren Land: 310.2352941176471, Avg Yield: 0.72
+Arunachal Pradesh,Moong(Green Gram)	Total Area: 5186.0, Total Agri Land: 6101.176470588234, Total Barren Land: 915.1764705882354, Avg Yield: 1.09
+Arunachal Pradesh,Oilseeds total	Total Area: 661828.0, Total Agri Land: 778621.1764705883, Total Barren Land: 116793.17647058825, Avg Yield: 1.06
+Arunachal Pradesh,Other  Rabi pulses	Total Area: 5052.0, Total Agri Land: 5943.529411764706, Total Barren Land: 891.5294117647059, Avg Yield: 0.73
+Arunachal Pradesh,Other Kharif pulses	Total Area: 9936.0, Total Agri Land: 11689.411764705883, Total Barren Land: 1753.4117647058824, Avg Yield: 0.92
+Arunachal Pradesh,Peas & beans (Pulses)	Total Area: 17363.0, Total Agri Land: 20427.058823529413, Total Barren Land: 3064.0588235294117, Avg Yield: 1.31
+Arunachal Pradesh,Potato	Total Area: 106915.0, Total Agri Land: 125782.35294117648, Total Barren Land: 18867.352941176476, Avg Yield: 7.06
+Arunachal Pradesh,Rapeseed &Mustard	Total Area: 153770.0, Total Agri Land: 180905.88235294117, Total Barren Land: 27135.882352941182, Avg Yield: 1.14
+Arunachal Pradesh,Rice	Total Area: 2868173.0, Total Agri Land: 3374321.176470589, Total Barren Land: 506148.17647058825, Avg Yield: 1.31
+Arunachal Pradesh,Sesamum	Total Area: 10885.0, Total Agri Land: 12805.882352941177, Total Barren Land: 1920.8823529411768, Avg Yield: 0.77
+Arunachal Pradesh,Small millets	Total Area: 520784.0, Total Agri Land: 612687.0588235295, Total Barren Land: 91903.05882352943, Avg Yield: 0.97
+Arunachal Pradesh,Soyabean	Total Area: 17561.0, Total Agri Land: 20660.0, Total Barren Land: 3099.000000000001, Avg Yield: 1.59
+Arunachal Pradesh,Sugarcane	Total Area: 30689.0, Total Agri Land: 36104.705882352944, Total Barren Land: 5415.705882352941, Avg Yield: 18.96
+Arunachal Pradesh,Sunflower	Total Area: 3141.0, Total Agri Land: 3695.2941176470586, Total Barren Land: 554.2941176470589, Avg Yield: 0.71
+Arunachal Pradesh,Turmeric	Total Area: 13388.0, Total Agri Land: 15750.588235294117, Total Barren Land: 2362.588235294118, Avg Yield: 4.40
+Arunachal Pradesh,Urad	Total Area: 10287.0, Total Agri Land: 12102.352941176468, Total Barren Land: 1815.3529411764707, Avg Yield: 0.97
+Arunachal Pradesh,Wheat	Total Area: 86752.0, Total Agri Land: 102061.17647058824, Total Barren Land: 15309.176470588236, Avg Yield: 1.72
+Arunachal Pradesh,other oilseeds	Total Area: 2831.0, Total Agri Land: 3330.588235294118, Total Barren Land: 499.5882352941177, Avg Yield: 1.12
+Assam,Arecanut	Total Area: 1530541.0, Total Agri Land: 1800636.4705882354, Total Barren Land: 270095.4705882353, Avg Yield: 0.90
+Assam,Arhar/Tur	Total Area: 147480.0, Total Agri Land: 173505.8823529412, Total Barren Land: 26025.88235294118, Avg Yield: 0.77
+Assam,Banana	Total Area: 973678.0, Total Agri Land: 1145503.5294117646, Total Barren Land: 171825.52941176473, Avg Yield: 15.00
+Assam,Black pepper	Total Area: 43384.0, Total Agri Land: 51039.99999999999, Total Barren Land: 7656.000000000001, Avg Yield: 1.80
+Assam,Castor seed	Total Area: 26786.0, Total Agri Land: 31512.941176470587, Total Barren Land: 4726.941176470587, Avg Yield: 0.49
+Assam,Coconut	Total Area: 444197.0, Total Agri Land: 522584.705882353, Total Barren Land: 78387.70588235295, Avg Yield: 7185.24
+Assam,Cotton(lint)	Total Area: 30725.0, Total Agri Land: 36147.058823529405, Total Barren Land: 5422.0588235294135, Avg Yield: 0.50
+Assam,Dry chillies	Total Area: 392715.0, Total Agri Land: 462017.6470588235, Total Barren Land: 69302.64705882354, Avg Yield: 0.70
+Assam,Ginger	Total Area: 215868.0, Total Agri Land: 253962.35294117648, Total Barren Land: 38094.352941176476, Avg Yield: 7.90
+Assam,Gram	Total Area: 50448.0, Total Agri Land: 59350.58823529412, Total Barren Land: 8902.588235294117, Avg Yield: 0.54
+Assam,Jute	Total Area: 1554398.0, Total Agri Land: 1828703.5294117646, Total Barren Land: 274305.52941176476, Avg Yield: 10.01
+Assam,Linseed	Total Area: 174816.0, Total Agri Land: 205665.88235294115, Total Barren Land: 30849.882352941186, Avg Yield: 0.54
+Assam,Maize	Total Area: 507782.0, Total Agri Land: 597390.5882352941, Total Barren Land: 89608.58823529413, Avg Yield: 1.36
+Assam,Masoor	Total Area: 453709.0, Total Agri Land: 533775.294117647, Total Barren Land: 80066.29411764705, Avg Yield: 0.59
+Assam,Mesta	Total Area: 108473.0, Total Agri Land: 127615.29411764708, Total Barren Land: 19142.294117647063, Avg Yield: 5.11
+Assam,Moong(Green Gram)	Total Area: 174950.0, Total Agri Land: 205823.5294117647, Total Barren Land: 30873.52941176471, Avg Yield: 0.53
+Assam,Niger seed	Total Area: 183272.0, Total Agri Land: 215614.11764705883, Total Barren Land: 32342.117647058833, Avg Yield: 0.55
+Assam,Onion	Total Area: 173679.0, Total Agri Land: 204328.23529411768, Total Barren Land: 30649.235294117643, Avg Yield: 3.60
+Assam,Other  Rabi pulses	Total Area: 904943.0, Total Agri Land: 1064638.823529412, Total Barren Land: 159695.8235294118, Avg Yield: 0.57
+Assam,Peas & beans (Pulses)	Total Area: 478746.0, Total Agri Land: 563230.5882352941, Total Barren Land: 84484.58823529413, Avg Yield: 0.73
+Assam,Potato	Total Area: 2001326.0, Total Agri Land: 2354501.1764705884, Total Barren Land: 353175.17647058814, Avg Yield: 7.12
+Assam,Rapeseed &Mustard	Total Area: 6106905.0, Total Agri Land: 7184594.117647059, Total Barren Land: 1077689.117647059, Avg Yield: 0.54
+Assam,Rice	Total Area: 56963430.0, Total Agri Land: 67015799.99999999, Total Barren Land: 10052370.000000002, Avg Yield: 1.67
+Assam,Sesamum	Total Area: 301079.0, Total Agri Land: 354210.58823529404, Total Barren Land: 53131.58823529411, Avg Yield: 0.55
+Assam,Small millets	Total Area: 160585.0, Total Agri Land: 188923.5294117647, Total Barren Land: 28338.529411764706, Avg Yield: 0.55
+Assam,Sugarcane	Total Area: 649354.0, Total Agri Land: 763945.8823529412, Total Barren Land: 114591.88235294117, Avg Yield: 37.49
+Assam,Sweet potato	Total Area: 161993.0, Total Agri Land: 190579.99999999994, Total Barren Land: 28587.000000000004, Avg Yield: 4.10
+Assam,Tapioca	Total Area: 68439.0, Total Agri Land: 80516.47058823532, Total Barren Land: 12077.470588235296, Avg Yield: 6.11
+Assam,Tobacco	Total Area: 13661.0, Total Agri Land: 16071.764705882353, Total Barren Land: 2410.764705882353, Avg Yield: 0.59
+Assam,Turmeric	Total Area: 316927.0, Total Agri Land: 372855.294117647, Total Barren Land: 55928.29411764706, Avg Yield: 0.83
+Assam,Urad	Total Area: 898190.0, Total Agri Land: 1056694.1176470588, Total Barren Land: 158504.11764705888, Avg Yield: 0.58
+Assam,Wheat	Total Area: 1130121.0, Total Agri Land: 1329554.1176470588, Total Barren Land: 199433.11764705885, Avg Yield: 1.18
+Bihar,Arhar/Tur	Total Area: 735816.0, Total Agri Land: 865665.8823529412, Total Barren Land: 129849.8823529412, Avg Yield: 1.46
+Bihar,Bajra	Total Area: 75487.0, Total Agri Land: 88808.23529411762, Total Barren Land: 13321.235294117647, Avg Yield: 0.99
+Bihar,Banana	Total Area: 162341.0, Total Agri Land: 190989.41176470587, Total Barren Land: 28648.41176470589, Avg Yield: 18.22
+Bihar,Barley	Total Area: 371353.0, Total Agri Land: 436885.8823529412, Total Barren Land: 65532.88235294118, Avg Yield: 1.26
+Bihar,Castor seed	Total Area: 4078.0, Total Agri Land: 4797.64705882353, Total Barren Land: 719.6470588235295, Avg Yield: 0.96
+Bihar,Coriander	Total Area: 34480.0, Total Agri Land: 40564.705882352944, Total Barren Land: 6084.705882352942, Avg Yield: 0.71
+Bihar,Cotton(lint)	Total Area: 243.0, Total Agri Land: 285.88235294117646, Total Barren Land: 42.88235294117647, Avg Yield: 2.02
+Bihar,Dry chillies	Total Area: 42912.0, Total Agri Land: 50484.705882352944, Total Barren Land: 7572.705882352941, Avg Yield: 0.94
+Bihar,Garlic	Total Area: 35706.0, Total Agri Land: 42007.05882352942, Total Barren Land: 6301.058823529413, Avg Yield: 1.47
+Bihar,Ginger	Total Area: 8504.0, Total Agri Land: 10004.70588235294, Total Barren Land: 1500.7058823529414, Avg Yield: 1.55
+Bihar,Gram	Total Area: 1573183.0, Total Agri Land: 1850803.5294117643, Total Barren Land: 277620.52941176476, Avg Yield: 1.00
+Bihar,Groundnut	Total Area: 23147.0, Total Agri Land: 27231.764705882353, Total Barren Land: 4084.764705882354, Avg Yield: 0.86
+Bihar,Horse-gram	Total Area: 199855.0, Total Agri Land: 235123.5294117647, Total Barren Land: 35268.529411764706, Avg Yield: 0.88
+Bihar,Jowar	Total Area: 80837.0, Total Agri Land: 95102.35294117648, Total Barren Land: 14265.35294117647, Avg Yield: 1.04
+Bihar,Jute	Total Area: 2777665.0, Total Agri Land: 3267841.176470588, Total Barren Land: 490176.1764705883, Avg Yield: 10.82
+Bihar,Khesari	Total Area: 1932096.0, Total Agri Land: 2273054.1176470583, Total Barren Land: 340958.1176470588, Avg Yield: 0.87
+Bihar,Linseed	Total Area: 629334.0, Total Agri Land: 740392.9411764706, Total Barren Land: 111058.94117647059, Avg Yield: 0.80
+Bihar,Maize	Total Area: 15364129.0, Total Agri Land: 18075445.88235294, Total Barren Land: 2711316.882352942, Avg Yield: 3.00
+Bihar,Masoor	Total Area: 3404525.0, Total Agri Land: 4005323.5294117653, Total Barren Land: 600798.5294117648, Avg Yield: 0.84
+Bihar,Mesta	Total Area: 429051.0, Total Agri Land: 504765.88235294115, Total Barren Land: 75714.88235294117, Avg Yield: 7.51
+Bihar,Moong(Green Gram)	Total Area: 3462631.0, Total Agri Land: 4073683.5294117653, Total Barren Land: 611052.5294117649, Avg Yield: 0.64
+Bihar,Niger seed	Total Area: 50793.0, Total Agri Land: 59756.4705882353, Total Barren Land: 8963.470588235294, Avg Yield: 0.61
+Bihar,Onion	Total Area: 227537.0, Total Agri Land: 267690.5882352941, Total Barren Land: 40153.588235294126, Avg Yield: 9.97
+Bihar,Other  Rabi pulses	Total Area: 621198.0, Total Agri Land: 730821.1764705883, Total Barren Land: 109623.17647058825, Avg Yield: 0.87
+Bihar,Other Kharif pulses	Total Area: 214576.0, Total Agri Land: 252442.35294117648, Total Barren Land: 37866.35294117648, Avg Yield: 0.71
+Bihar,Peas & beans (Pulses)	Total Area: 436839.0, Total Agri Land: 513928.23529411777, Total Barren Land: 77089.23529411765, Avg Yield: 0.98
+Bihar,Potato	Total Area: 2285823.0, Total Agri Land: 2689203.529411765, Total Barren Land: 403380.5294117647, Avg Yield: 10.96
+Bihar,Ragi	Total Area: 428855.0, Total Agri Land: 504535.2941176471, Total Barren Land: 75680.29411764706, Avg Yield: 0.96
+Bihar,Rapeseed &Mustard	Total Area: 2021565.0, Total Agri Land: 2378311.764705883, Total Barren Land: 356746.76470588247, Avg Yield: 1.00
+Bihar,Rice	Total Area: 76820596.0, Total Agri Land: 90377171.7647059, Total Barren Land: 13556575.764705885, Avg Yield: 1.59
+Bihar,Safflower	Total Area: 6082.0, Total Agri Land: 7155.2941176470595, Total Barren Land: 1073.294117647059, Avg Yield: 0.81
+Bihar,Sannhamp	Total Area: 44137.0, Total Agri Land: 51925.882352941175, Total Barren Land: 7788.882352941177, Avg Yield: 1.30
+Bihar,Sesamum	Total Area: 91105.0, Total Agri Land: 107182.35294117646, Total Barren Land: 16077.35294117647, Avg Yield: 0.78
+Bihar,Small millets	Total Area: 171645.0, Total Agri Land: 201935.2941176471, Total Barren Land: 30290.294117647056, Avg Yield: 0.77
+Bihar,Soyabean	Total Area: 19600.0, Total Agri Land: 23058.823529411766, Total Barren Land: 3458.823529411765, Avg Yield: 0.75
+Bihar,Sugarcane	Total Area: 3413737.0, Total Agri Land: 4016161.176470589, Total Barren Land: 602424.1764705882, Avg Yield: 48.32
+Bihar,Sunflower	Total Area: 356766.0, Total Agri Land: 419724.7058823529, Total Barren Land: 62958.70588235293, Avg Yield: 1.32
+Bihar,Sweet potato	Total Area: 73562.0, Total Agri Land: 86543.5294117647, Total Barren Land: 12981.529411764706, Avg Yield: 13.05
+Bihar,Tobacco	Total Area: 271266.0, Total Agri Land: 319136.4705882353, Total Barren Land: 47870.470588235294, Avg Yield: 1.49
+Bihar,Turmeric	Total Area: 44881.0, Total Agri Land: 52801.176470588245, Total Barren Land: 7920.176470588235, Avg Yield: 1.05
+Bihar,Urad	Total Area: 431517.0, Total Agri Land: 507667.05882352934, Total Barren Land: 76150.05882352941, Avg Yield: 0.82
+Bihar,Wheat	Total Area: 48615978.0, Total Agri Land: 57195268.235294126, Total Barren Land: 8579290.235294119, Avg Yield: 2.20
+Chhattisgarh,Arhar/Tur	Total Area: 1074691.0, Total Agri Land: 1264342.3529411766, Total Barren Land: 189651.3529411765, Avg Yield: 0.49
+Chhattisgarh,Bajra	Total Area: 16930.0, Total Agri Land: 19917.647058823528, Total Barren Land: 2987.64705882353, Avg Yield: 17.10
+Chhattisgarh,Barley	Total Area: 59530.0, Total Agri Land: 70035.29411764705, Total Barren Land: 10505.29411764706, Avg Yield: 0.84
+Chhattisgarh,Castor seed	Total Area: 1656.0, Total Agri Land: 1948.2352941176473, Total Barren Land: 292.23529411764713, Avg Yield: 0.32
+Chhattisgarh,Coconut	Total Area: 447.0, Total Agri Land: 525.8823529411765, Total Barren Land: 78.88235294117648, Avg Yield: 0.00
+Chhattisgarh,Coriander	Total Area: 60040.0, Total Agri Land: 70635.29411764708, Total Barren Land: 10595.29411764706, Avg Yield: 0.30
+Chhattisgarh,Cotton(lint)	Total Area: 6327.0, Total Agri Land: 7443.529411764706, Total Barren Land: 1116.529411764706, Avg Yield: 1.38
+Chhattisgarh,Dry chillies	Total Area: 127179.0, Total Agri Land: 149622.35294117648, Total Barren Land: 22443.352941176472, Avg Yield: 0.59
+Chhattisgarh,Garlic	Total Area: 20506.0, Total Agri Land: 24124.70588235294, Total Barren Land: 3618.7058823529405, Avg Yield: 3.05
+Chhattisgarh,Ginger	Total Area: 34940.0, Total Agri Land: 41105.882352941175, Total Barren Land: 6165.882352941178, Avg Yield: 1.16
+Chhattisgarh,Gram	Total Area: 5161158.0, Total Agri Land: 6071950.588235294, Total Barren Land: 910792.5882352941, Avg Yield: 0.83
+Chhattisgarh,Groundnut	Total Area: 604092.0, Total Agri Land: 710696.4705882351, Total Barren Land: 106604.47058823532, Avg Yield: 1.31
+Chhattisgarh,Guar seed	Total Area: 26.0, Total Agri Land: 30.58823529411765, Total Barren Land: 4.588235294117648, Avg Yield: 0.81
+Chhattisgarh,Horse-gram	Total Area: 983237.0, Total Agri Land: 1156749.4117647063, Total Barren Land: 173512.41176470593, Avg Yield: 0.32
+Chhattisgarh,Jowar	Total Area: 121700.0, Total Agri Land: 143176.47058823533, Total Barren Land: 21476.470588235297, Avg Yield: 0.97
+Chhattisgarh,Jute	Total Area: 2553.0, Total Agri Land: 3003.529411764706, Total Barren Land: 450.5294117647059, Avg Yield: 0.00
+Chhattisgarh,Khesari	Total Area: 6702946.0, Total Agri Land: 7885818.823529413, Total Barren Land: 1182872.8235294118, Avg Yield: 0.60
+Chhattisgarh,Linseed	Total Area: 889340.0, Total Agri Land: 1046282.3529411765, Total Barren Land: 156942.35294117648, Avg Yield: 0.31
+Chhattisgarh,Maize	Total Area: 2173783.0, Total Agri Land: 2557391.7647058824, Total Barren Land: 383608.7647058824, Avg Yield: 1.72
+Chhattisgarh,Masoor	Total Area: 318070.0, Total Agri Land: 374200.00000000006, Total Barren Land: 56130.000000000015, Avg Yield: 0.32
+Chhattisgarh,Mesta	Total Area: 24039.0, Total Agri Land: 28281.176470588234, Total Barren Land: 4242.176470588235, Avg Yield: 2.03
+Chhattisgarh,Moong(Green Gram)	Total Area: 300541.0, Total Agri Land: 353577.6470588234, Total Barren Land: 53036.647058823524, Avg Yield: 0.27
+Chhattisgarh,Niger seed	Total Area: 1326398.0, Total Agri Land: 1560468.2352941174, Total Barren Land: 234070.23529411768, Avg Yield: 0.43
+Chhattisgarh,Onion	Total Area: 92914.0, Total Agri Land: 109310.58823529413, Total Barren Land: 16396.588235294115, Avg Yield: 6.95
+Chhattisgarh,Other  Rabi pulses	Total Area: 44349.0, Total Agri Land: 52175.29411764705, Total Barren Land: 7826.294117647057, Avg Yield: 0.34
+Chhattisgarh,Other Kharif pulses	Total Area: 137726.0, Total Agri Land: 162030.5882352941, Total Barren Land: 24304.588235294123, Avg Yield: 0.28
+Chhattisgarh,Peas & beans (Pulses)	Total Area: 277547.0, Total Agri Land: 326525.8823529412, Total Barren Land: 48978.88235294118, Avg Yield: 0.34
+Chhattisgarh,Potato	Total Area: 224228.0, Total Agri Land: 263797.64705882355, Total Barren Land: 39569.64705882352, Avg Yield: 5.91
+Chhattisgarh,Ragi	Total Area: 163573.0, Total Agri Land: 192438.82352941175, Total Barren Land: 28865.82352941177, Avg Yield: 0.25
+Chhattisgarh,Rapeseed &Mustard	Total Area: 968311.0, Total Agri Land: 1139189.411764706, Total Barren Land: 170878.4117647059, Avg Yield: 0.41
+Chhattisgarh,Rice	Total Area: 78738887.0, Total Agri Land: 92633984.70588237, Total Barren Land: 13895097.705882354, Avg Yield: 1.43
+Chhattisgarh,Safflower	Total Area: 13245.0, Total Agri Land: 15582.352941176474, Total Barren Land: 2337.3529411764707, Avg Yield: 0.29
+Chhattisgarh,Sannhamp	Total Area: 28199.0, Total Agri Land: 33175.294117647056, Total Barren Land: 4976.294117647058, Avg Yield: 0.42
+Chhattisgarh,Sesamum	Total Area: 408941.0, Total Agri Land: 481107.0588235293, Total Barren Land: 72166.05882352941, Avg Yield: 0.33
+Chhattisgarh,Small millets	Total Area: 3437330.0, Total Agri Land: 4043917.647058823, Total Barren Land: 606587.6470588236, Avg Yield: 0.30
+Chhattisgarh,Soyabean	Total Area: 1411224.0, Total Agri Land: 1660263.5294117648, Total Barren Land: 249039.52941176473, Avg Yield: 0.94
+Chhattisgarh,Sugarcane	Total Area: 315473.0, Total Agri Land: 371144.7058823529, Total Barren Land: 55671.705882352944, Avg Yield: 5.99
+Chhattisgarh,Sunflower	Total Area: 72155.0, Total Agri Land: 84888.23529411765, Total Barren Land: 12733.235294117645, Avg Yield: 0.64
+Chhattisgarh,Sweet potato	Total Area: 53166.0, Total Agri Land: 62548.23529411765, Total Barren Land: 9382.235294117647, Avg Yield: 5.55
+Chhattisgarh,Tobacco	Total Area: 468.0, Total Agri Land: 550.5882352941177, Total Barren Land: 82.58823529411765, Avg Yield: 0.61
+Chhattisgarh,Turmeric	Total Area: 21667.0, Total Agri Land: 25490.58823529412, Total Barren Land: 3823.5882352941185, Avg Yield: 1.05
+Chhattisgarh,Urad	Total Area: 2107176.0, Total Agri Land: 2479030.588235294, Total Barren Land: 371854.5882352942, Avg Yield: 0.29
+Chhattisgarh,Wheat	Total Area: 2009486.0, Total Agri Land: 2364101.176470588, Total Barren Land: 354615.17647058825, Avg Yield: 1.36
+Delhi,Arhar/Tur	Total Area: 789.0, Total Agri Land: 928.2352941176471, Total Barren Land: 139.23529411764707, Avg Yield: 1.46
+Delhi,Bajra	Total Area: 39614.0, Total Agri Land: 46604.705882352944, Total Barren Land: 6990.7058823529405, Avg Yield: 1.98
+Delhi,Barley	Total Area: 2182.0, Total Agri Land: 2567.0588235294113, Total Barren Land: 385.0588235294118, Avg Yield: 2.25
+Delhi,Cotton(lint)	Total Area: 5.0, Total Agri Land: 5.882352941176471, Total Barren Land: 0.8823529411764707, Avg Yield: 1.00
+Delhi,Gram	Total Area: 979.0, Total Agri Land: 1151.7647058823527, Total Barren Land: 172.76470588235293, Avg Yield: 1.74
+Delhi,Jowar	Total Area: 132314.0, Total Agri Land: 155663.52941176473, Total Barren Land: 23349.52941176471, Avg Yield: 0.88
+Delhi,Maize	Total Area: 1248.0, Total Agri Land: 1468.235294117647, Total Barren Land: 220.23529411764707, Avg Yield: 8.03
+Delhi,Other Kharif pulses	Total Area: 1948.0, Total Agri Land: 2291.764705882353, Total Barren Land: 343.7647058823529, Avg Yield: 1.40
+Delhi,Potato	Total Area: 5216.0, Total Agri Land: 6136.470588235295, Total Barren Land: 920.4705882352945, Avg Yield: 65.81
+Delhi,Rapeseed &Mustard	Total Area: 3250.0, Total Agri Land: 3823.529411764706, Total Barren Land: 573.529411764706, Avg Yield: 2.50
+Delhi,Rice	Total Area: 146782.0, Total Agri Land: 172684.70588235295, Total Barren Land: 25902.705882352944, Avg Yield: 2.68
+Delhi,Sugarcane	Total Area: 59.0, Total Agri Land: 69.41176470588236, Total Barren Land: 10.411764705882353, Avg Yield: 69.29
+Delhi,Wheat	Total Area: 463517.0, Total Agri Land: 545314.1176470588, Total Barren Land: 81797.11764705883, Avg Yield: 4.19
+Goa,Arecanut	Total Area: 22176.0, Total Agri Land: 26089.41176470589, Total Barren Land: 3913.411764705883, Avg Yield: 1.63
+Goa,Banana	Total Area: 29097.0, Total Agri Land: 34231.76470588236, Total Barren Land: 5134.764705882353, Avg Yield: 9.64
+Goa,Black pepper	Total Area: 10826.0, Total Agri Land: 12736.470588235296, Total Barren Land: 1910.4705882352941, Avg Yield: 0.29
+Goa,Cashewnut	Total Area: 938328.0, Total Agri Land: 1103915.2941176472, Total Barren Land: 165587.29411764708, Avg Yield: 0.42
+Goa,Coconut	Total Area: 433905.0, Total Agri Land: 510476.4705882353, Total Barren Land: 76571.4705882353, Avg Yield: 5042.72
+Goa,Groundnut	Total Area: 52659.0, Total Agri Land: 61951.76470588235, Total Barren Land: 9292.764705882353, Avg Yield: 2.00
+Goa,Other  Rabi pulses	Total Area: 152991.0, Total Agri Land: 179989.4117647059, Total Barren Land: 26998.411764705885, Avg Yield: 0.95
+Goa,Other Kharif pulses	Total Area: 7475.0, Total Agri Land: 8794.117647058823, Total Barren Land: 1319.1176470588236, Avg Yield: 0.61
+Goa,Ragi	Total Area: 9877.5, Total Agri Land: 11620.588235294113, Total Barren Land: 1743.088235294118, Avg Yield: 0.97
+Goa,Rice	Total Area: 1066761.0, Total Agri Land: 1255012.9411764706, Total Barren Land: 188251.94117647051, Avg Yield: 2.70
+Goa,Sugarcane	Total Area: 22911.0, Total Agri Land: 26954.117647058818, Total Barren Land: 4043.117647058823, Avg Yield: 51.34
+Goa,Sweet potato	Total Area: 228.0, Total Agri Land: 268.2352941176471, Total Barren Land: 40.235294117647065, Avg Yield: 2.61
+Goa,other oilseeds	Total Area: 2366.0, Total Agri Land: 2783.5294117647063, Total Barren Land: 417.5294117647059, Avg Yield: 2.28
+Gujarat,Arhar/Tur	Total Area: 6441106.0, Total Agri Land: 7577771.764705882, Total Barren Land: 1136665.7647058824, Avg Yield: 0.96
+Gujarat,Bajra	Total Area: 17608828.2, Total Agri Land: 20716268.470588237, Total Barren Land: 3107440.2705882355, Avg Yield: 1.81
+Gujarat,Banana	Total Area: 583910.0, Total Agri Land: 686952.9411764707, Total Barren Land: 103042.94117647059, Avg Yield: 66.07
+Gujarat,Castor seed	Total Area: 11095340.0, Total Agri Land: 13053341.176470587, Total Barren Land: 1958001.1764705882, Avg Yield: 1.96
+Gujarat,Cotton(lint)	Total Area: 51516424.0, Total Agri Land: 60607557.647058815, Total Barren Land: 9091133.647058824, Avg Yield: 2.80
+Gujarat,Dry chillies	Total Area: 209951.0, Total Agri Land: 247001.1764705882, Total Barren Land: 37050.17647058824, Avg Yield: 1.04
+Gujarat,Garlic	Total Area: 473978.0, Total Agri Land: 557621.1764705883, Total Barren Land: 83643.17647058825, Avg Yield: 5.75
+Gujarat,Gram	Total Area: 3695891.0, Total Agri Land: 4348107.05882353, Total Barren Land: 652216.0588235294, Avg Yield: 0.95
+Gujarat,Groundnut	Total Area: 40974666.0, Total Agri Land: 48205489.4117647, Total Barren Land: 7230823.411764707, Avg Yield: 1.65
+Gujarat,Guar seed	Total Area: 4266369.0, Total Agri Land: 5019257.647058824, Total Barren Land: 752888.6470588235, Avg Yield: 0.73
+Gujarat,Jowar	Total Area: 3280147.0, Total Agri Land: 3858996.4705882366, Total Barren Land: 578849.4705882353, Avg Yield: 1.07
+Gujarat,Maize	Total Area: 10048414.0, Total Agri Land: 11821663.529411767, Total Barren Land: 1773249.5294117648, Avg Yield: 1.75
+Gujarat,Moong(Green Gram)	Total Area: 3774648.0, Total Agri Land: 4440762.352941176, Total Barren Land: 666114.3529411766, Avg Yield: 0.55
+Gujarat,Moth	Total Area: 765186.0, Total Agri Land: 900218.823529412, Total Barren Land: 135032.8235294118, Avg Yield: 0.44
+Gujarat,Oilseeds total	Total Area: 2902856.0, Total Agri Land: 3415124.705882353, Total Barren Land: 512268.70588235295, Avg Yield: 1.34
+Gujarat,Onion	Total Area: 1047520.0, Total Agri Land: 1232376.4705882347, Total Barren Land: 184856.47058823527, Avg Yield: 27.02
+Gujarat,Other  Rabi pulses	Total Area: 325482.0, Total Agri Land: 382919.99999999994, Total Barren Land: 57438.00000000001, Avg Yield: 0.68
+Gujarat,Other Cereals	Total Area: 521693.0, Total Agri Land: 613756.4705882353, Total Barren Land: 92063.4705882353, Avg Yield: 0.79
+Gujarat,Other Kharif pulses	Total Area: 435390.0, Total Agri Land: 512223.5294117646, Total Barren Land: 76833.5294117647, Avg Yield: 0.52
+Gujarat,Potato	Total Area: 1533360.0, Total Agri Land: 1803952.9411764706, Total Barren Land: 270592.9411764706, Avg Yield: 23.47
+Gujarat,Ragi	Total Area: 428024.0, Total Agri Land: 503557.64705882355, Total Barren Land: 75533.64705882352, Avg Yield: 0.91
+Gujarat,Rapeseed &Mustard	Total Area: 5751284.0, Total Agri Land: 6766216.470588234, Total Barren Land: 1014932.4705882352, Avg Yield: 1.45
+Gujarat,Rice	Total Area: 16777323.0, Total Agri Land: 19738027.058823533, Total Barren Land: 2960704.0588235296, Avg Yield: 2.38
+Gujarat,Sesamum	Total Area: 5949794.0, Total Agri Land: 6999757.647058825, Total Barren Land: 1049963.6470588236, Avg Yield: 2.60
+Gujarat,Small millets	Total Area: 179610.0, Total Agri Land: 211305.88235294115, Total Barren Land: 31695.882352941175, Avg Yield: 0.60
+Gujarat,Soyabean	Total Area: 873467.0, Total Agri Land: 1027608.2352941176, Total Barren Land: 154141.23529411762, Avg Yield: 0.95
+Gujarat,Sugarcane	Total Area: 4312813.0, Total Agri Land: 5073897.647058822, Total Barren Land: 761084.6470588235, Avg Yield: 65.68
+Gujarat,Tobacco	Total Area: 2628034.0, Total Agri Land: 3091804.705882353, Total Barren Land: 463770.70588235295, Avg Yield: 1.83
+Gujarat,Urad	Total Area: 2443701.0, Total Agri Land: 2874942.3529411764, Total Barren Land: 431241.3529411765, Avg Yield: 0.71
+Gujarat,Wheat	Total Area: 21417524.0, Total Agri Land: 25197087.058823533, Total Barren Land: 3779563.05882353, Avg Yield: 2.69
+Gujarat,other oilseeds	Total Area: 171600.0, Total Agri Land: 201882.35294117648, Total Barren Land: 30282.352941176472, Avg Yield: 0.39
+Haryana,Arhar/Tur	Total Area: 373906.0, Total Agri Land: 439889.4117647059, Total Barren Land: 65983.41176470589, Avg Yield: 0.90
+Haryana,Bajra	Total Area: 12400553.0, Total Agri Land: 14588885.882352937, Total Barren Land: 2188332.882352941, Avg Yield: 1.63
+Haryana,Banana	Total Area: 206.0, Total Agri Land: 242.3529411764706, Total Barren Land: 36.352941176470594, Avg Yield: 0.00
+Haryana,Barley	Total Area: 764465.0, Total Agri Land: 899370.5882352941, Total Barren Land: 134905.58823529413, Avg Yield: 2.45
+Haryana,Castor seed	Total Area: 29641.0, Total Agri Land: 34871.76470588235, Total Barren Land: 5230.764705882354, Avg Yield: 0.73
+Haryana,Coriander	Total Area: 17921.6, Total Agri Land: 21084.235294117643, Total Barren Land: 3162.6352941176474, Avg Yield: 1.73
+Haryana,Cotton(lint)	Total Area: 13351574.0, Total Agri Land: 15707734.11764706, Total Barren Land: 2356160.1176470593, Avg Yield: 1.94
+Haryana,Dry chillies	Total Area: 20033.0, Total Agri Land: 23568.235294117647, Total Barren Land: 3535.2352941176473, Avg Yield: 3.52
+Haryana,Garlic	Total Area: 32197.0, Total Agri Land: 37878.82352941176, Total Barren Land: 5681.823529411765, Avg Yield: 7.27
+Haryana,Ginger	Total Area: 2322.0, Total Agri Land: 2731.7647058823527, Total Barren Land: 409.764705882353, Avg Yield: 7.76
+Haryana,Gram	Total Area: 2500388.0, Total Agri Land: 2941632.9411764704, Total Barren Land: 441244.94117647066, Avg Yield: 0.72
+Haryana,Groundnut	Total Area: 53541.0, Total Agri Land: 62989.411764705874, Total Barren Land: 9448.411764705885, Avg Yield: 0.73
+Haryana,Guar seed	Total Area: 1010078.0, Total Agri Land: 1188327.0588235294, Total Barren Land: 178249.0588235294, Avg Yield: 0.79
+Haryana,Horse-gram	Total Area: 18249.0, Total Agri Land: 21469.41176470588, Total Barren Land: 3220.4117647058824, Avg Yield: 0.29
+Haryana,Jowar	Total Area: 1860324.0, Total Agri Land: 2188616.470588235, Total Barren Land: 328292.47058823536, Avg Yield: 0.34
+Haryana,Jute	Total Area: 652.0, Total Agri Land: 767.0588235294117, Total Barren Land: 115.05882352941177, Avg Yield: 0.00
+Haryana,Maize	Total Area: 294653.0, Total Agri Land: 346650.5882352941, Total Barren Land: 51997.588235294126, Avg Yield: 1.53
+Haryana,Masoor	Total Area: 98023.0, Total Agri Land: 115321.17647058827, Total Barren Land: 17298.176470588234, Avg Yield: 0.76
+Haryana,Moong(Green Gram)	Total Area: 358909.0, Total Agri Land: 422245.8823529412, Total Barren Land: 63336.882352941175, Avg Yield: 0.29
+Haryana,Moth	Total Area: 71185.0, Total Agri Land: 83747.0588235294, Total Barren Land: 12562.05882352941, Avg Yield: 0.20
+Haryana,Onion	Total Area: 245597.0, Total Agri Land: 288937.64705882355, Total Barren Land: 43340.64705882353, Avg Yield: 27.21
+Haryana,Other  Rabi pulses	Total Area: 104102.0, Total Agri Land: 122472.94117647059, Total Barren Land: 18370.94117647059, Avg Yield: 0.44
+Haryana,Other Kharif pulses	Total Area: 73283.0, Total Agri Land: 86215.29411764706, Total Barren Land: 12932.294117647061, Avg Yield: 0.24
+Haryana,Peas & beans (Pulses)	Total Area: 138969.0, Total Agri Land: 163492.94117647057, Total Barren Land: 24523.94117647059, Avg Yield: 2.90
+Haryana,Potato	Total Area: 408377.0, Total Agri Land: 480443.52941176476, Total Barren Land: 72066.5294117647, Avg Yield: 22.04
+Haryana,Rapeseed &Mustard	Total Area: 11557788.0, Total Agri Land: 13597397.647058822, Total Barren Land: 2039609.6470588238, Avg Yield: 1.49
+Haryana,Rice	Total Area: 27058694.0, Total Agri Land: 31833757.647058822, Total Barren Land: 4775063.647058823, Avg Yield: 2.78
+Haryana,Sannhamp	Total Area: 6436.0, Total Agri Land: 7571.764705882353, Total Barren Land: 1135.7647058823532, Avg Yield: 0.09
+Haryana,Sesamum	Total Area: 68391.0, Total Agri Land: 80459.99999999999, Total Barren Land: 12069.0, Avg Yield: 0.32
+Haryana,Soyabean	Total Area: 5.0, Total Agri Land: 5.882352941176471, Total Barren Land: 0.8823529411764706, Avg Yield: 0.00
+Haryana,Sugarcane	Total Area: 2763551.0, Total Agri Land: 3251236.470588235, Total Barren Land: 487685.47058823524, Avg Yield: 54.58
+Haryana,Sunflower	Total Area: 153557.0, Total Agri Land: 180655.29411764708, Total Barren Land: 27098.294117647056, Avg Yield: 1.67
+Haryana,Sweet potato	Total Area: 1129.0, Total Agri Land: 1328.2352941176468, Total Barren Land: 199.23529411764707, Avg Yield: 11.89
+Haryana,Tobacco	Total Area: 22.0, Total Agri Land: 25.88235294117647, Total Barren Land: 3.882352941176471, Avg Yield: 0.00
+Haryana,Turmeric	Total Area: 14205.0, Total Agri Land: 16711.764705882353, Total Barren Land: 2506.7647058823536, Avg Yield: 7.44
+Haryana,Urad	Total Area: 43955.0, Total Agri Land: 51711.764705882335, Total Barren Land: 7756.764705882353, Avg Yield: 0.37
+Haryana,Wheat	Total Area: 55597433.0, Total Agri Land: 65408744.70588235, Total Barren Land: 9811311.705882354, Avg Yield: 4.21
+Haryana,other oilseeds	Total Area: 12679.0, Total Agri Land: 14916.470588235296, Total Barren Land: 2237.4705882352946, Avg Yield: 0.93
+Himachal Pradesh,Arhar/Tur	Total Area: 2998.0, Total Agri Land: 3527.0588235294117, Total Barren Land: 529.0588235294117, Avg Yield: 0.36
+Himachal Pradesh,Bajra	Total Area: 7227.0, Total Agri Land: 8502.352941176472, Total Barren Land: 1275.3529411764707, Avg Yield: 0.64
+Himachal Pradesh,Barley	Total Area: 495256.0, Total Agri Land: 582654.1176470588, Total Barren Land: 87398.11764705881, Avg Yield: 1.32
+Himachal Pradesh,Coriander	Total Area: 3059.0, Total Agri Land: 3598.823529411765, Total Barren Land: 539.8235294117648, Avg Yield: 0.40
+Himachal Pradesh,Cotton(lint)	Total Area: 436.0, Total Agri Land: 512.9411764705883, Total Barren Land: 76.94117647058823, Avg Yield: 0.63
+Himachal Pradesh,Dry chillies	Total Area: 11202.0, Total Agri Land: 13178.823529411766, Total Barren Land: 1976.8235294117653, Avg Yield: 0.32
+Himachal Pradesh,Garlic	Total Area: 66184.0, Total Agri Land: 77863.52941176471, Total Barren Land: 11679.529411764706, Avg Yield: 1.00
+Himachal Pradesh,Ginger	Total Area: 33725.0, Total Agri Land: 39676.4705882353, Total Barren Land: 5951.470588235296, Avg Yield: 5.76
+Himachal Pradesh,Gram	Total Area: 17461.0, Total Agri Land: 20542.35294117647, Total Barren Land: 3081.3529411764707, Avg Yield: 0.73
+Himachal Pradesh,Groundnut	Total Area: 1958.0, Total Agri Land: 2303.529411764706, Total Barren Land: 345.5294117647059, Avg Yield: 0.76
+Himachal Pradesh,Horse-gram	Total Area: 42906.0, Total Agri Land: 50477.647058823546, Total Barren Land: 7571.64705882353, Avg Yield: 0.44
+Himachal Pradesh,Jowar	Total Area: 287.0, Total Agri Land: 337.6470588235294, Total Barren Land: 50.64705882352941, Avg Yield: 0.15
+Himachal Pradesh,Linseed	Total Area: 26156.0, Total Agri Land: 30771.764705882353, Total Barren Land: 4615.764705882354, Avg Yield: 0.25
+Himachal Pradesh,Maize	Total Area: 6406309.0, Total Agri Land: 7536834.117647059, Total Barren Land: 1130525.117647059, Avg Yield: 2.34
+Himachal Pradesh,Masoor	Total Area: 13386.0, Total Agri Land: 15748.235294117647, Total Barren Land: 2362.235294117647, Avg Yield: 0.61
+Himachal Pradesh,Moong(Green Gram)	Total Area: 5081.0, Total Agri Land: 5977.647058823531, Total Barren Land: 896.6470588235295, Avg Yield: 0.45
+Himachal Pradesh,Moth	Total Area: 230.0, Total Agri Land: 270.5882352941176, Total Barren Land: 40.58823529411765, Avg Yield: 0.30
+Himachal Pradesh,Onion	Total Area: 12240.0, Total Agri Land: 14400.0, Total Barren Land: 2160.0, Avg Yield: 7.61
+Himachal Pradesh,Other  Rabi pulses	Total Area: 39121.0, Total Agri Land: 46024.70588235294, Total Barren Land: 6903.705882352941, Avg Yield: 2.23
+Himachal Pradesh,Other Kharif pulses	Total Area: 87953.0, Total Agri Land: 103474.11764705883, Total Barren Land: 15521.117647058825, Avg Yield: 0.65
+Himachal Pradesh,Peas & beans (Pulses)	Total Area: 111389.0, Total Agri Land: 131045.88235294117, Total Barren Land: 19656.882352941175, Avg Yield: 1.41
+Himachal Pradesh,Potato	Total Area: 227600.0, Total Agri Land: 267764.70588235295, Total Barren Land: 40164.70588235295, Avg Yield: 8.34
+Himachal Pradesh,Ragi	Total Area: 32070.0, Total Agri Land: 37729.411764705874, Total Barren Land: 5659.411764705882, Avg Yield: 0.89
+Himachal Pradesh,Rapeseed &Mustard	Total Area: 180896.0, Total Agri Land: 212818.82352941175, Total Barren Land: 31922.823529411766, Avg Yield: 0.51
+Himachal Pradesh,Rice	Total Area: 1689490.0, Total Agri Land: 1987635.2941176472, Total Barren Land: 298145.2941176471, Avg Yield: 1.56
+Himachal Pradesh,Sannhamp	Total Area: 202.0, Total Agri Land: 237.64705882352942, Total Barren Land: 35.64705882352941, Avg Yield: 0.35
+Himachal Pradesh,Sesamum	Total Area: 55321.0, Total Agri Land: 65083.5294117647, Total Barren Land: 9762.52941176471, Avg Yield: 0.35
+Himachal Pradesh,Small millets	Total Area: 154340.0, Total Agri Land: 181576.47058823527, Total Barren Land: 27236.470588235297, Avg Yield: 0.62
+Himachal Pradesh,Soyabean	Total Area: 11873.0, Total Agri Land: 13968.235294117647, Total Barren Land: 2095.2352941176473, Avg Yield: 1.47
+Himachal Pradesh,Sugarcane	Total Area: 41519.0, Total Agri Land: 48845.882352941175, Total Barren Land: 7326.882352941176, Avg Yield: 12.51
+Himachal Pradesh,Sweet potato	Total Area: 102.0, Total Agri Land: 120.0, Total Barren Land: 18.0, Avg Yield: 0.00
+Himachal Pradesh,Tobacco	Total Area: 115.8, Total Agri Land: 136.23529411764707, Total Barren Land: 20.435294117647057, Avg Yield: 1.16
+Himachal Pradesh,Turmeric	Total Area: 3253.0, Total Agri Land: 3827.058823529412, Total Barren Land: 574.0588235294119, Avg Yield: 0.57
+Himachal Pradesh,Urad	Total Area: 206308.0, Total Agri Land: 242715.29411764705, Total Barren Land: 36407.29411764706, Avg Yield: 0.53
+Himachal Pradesh,Wheat	Total Area: 7822554.0, Total Agri Land: 9203004.705882354, Total Barren Land: 1380450.7058823528, Avg Yield: 1.43
+Jammu and Kashmir,Arhar/Tur	Total Area: 24.0, Total Agri Land: 28.235294117647058, Total Barren Land: 4.235294117647059, Avg Yield: 0.55
+Jammu and Kashmir,Bajra	Total Area: 294920.0, Total Agri Land: 346964.7058823529, Total Barren Land: 52044.705882352944, Avg Yield: 0.55
+Jammu and Kashmir,Barley	Total Area: 174448.0, Total Agri Land: 205232.94117647057, Total Barren Land: 30784.941176470587, Avg Yield: 0.52
+Jammu and Kashmir,Coriander	Total Area: 9.0, Total Agri Land: 10.588235294117647, Total Barren Land: 1.5882352941176472, Avg Yield: 0.12
+Jammu and Kashmir,Cotton(lint)	Total Area: 332.0, Total Agri Land: 390.5882352941177, Total Barren Land: 58.58823529411765, Avg Yield: 0.50
+Jammu and Kashmir,Cowpea(Lobia)	Total Area: 3273.0, Total Agri Land: 3850.5882352941176, Total Barren Land: 577.5882352941177, Avg Yield: 0.65
+Jammu and Kashmir,Dry chillies	Total Area: 9528.0, Total Agri Land: 11209.411764705881, Total Barren Land: 1681.4117647058822, Avg Yield: 0.89
+Jammu and Kashmir,Garlic	Total Area: 8831.0, Total Agri Land: 10389.411764705881, Total Barren Land: 1558.4117647058824, Avg Yield: 0.83
+Jammu and Kashmir,Ginger	Total Area: 412.0, Total Agri Land: 484.7058823529412, Total Barren Land: 72.70588235294119, Avg Yield: 1.45
+Jammu and Kashmir,Gram	Total Area: 3233.0, Total Agri Land: 3803.5294117647054, Total Barren Land: 570.529411764706, Avg Yield: 0.50
+Jammu and Kashmir,Groundnut	Total Area: 171.0, Total Agri Land: 201.1764705882353, Total Barren Land: 30.176470588235297, Avg Yield: 0.56
+Jammu and Kashmir,Horse-gram	Total Area: 12733.0, Total Agri Land: 14980.000000000002, Total Barren Land: 2247.0, Avg Yield: 0.43
+Jammu and Kashmir,Jowar	Total Area: 7658.0, Total Agri Land: 9009.411764705883, Total Barren Land: 1351.4117647058824, Avg Yield: 0.47
+Jammu and Kashmir,Linseed	Total Area: 4022.0, Total Agri Land: 4731.764705882353, Total Barren Land: 709.7647058823528, Avg Yield: 0.65
+Jammu and Kashmir,Maize	Total Area: 6169453.0, Total Agri Land: 7258180.0, Total Barren Land: 1088727.0000000002, Avg Yield: 1.48
+Jammu and Kashmir,Masoor	Total Area: 4956.0, Total Agri Land: 5830.588235294118, Total Barren Land: 874.5882352941177, Avg Yield: 0.67
+Jammu and Kashmir,Moong(Green Gram)	Total Area: 22111.0, Total Agri Land: 26012.94117647059, Total Barren Land: 3901.9411764705883, Avg Yield: 0.61
+Jammu and Kashmir,Moth	Total Area: 24367.0, Total Agri Land: 28667.058823529413, Total Barren Land: 4300.058823529412, Avg Yield: 0.68
+Jammu and Kashmir,Onion	Total Area: 9201.0, Total Agri Land: 10824.705882352944, Total Barren Land: 1623.7058823529412, Avg Yield: 1.64
+Jammu and Kashmir,Other  Rabi pulses	Total Area: 4029.0, Total Agri Land: 4740.0, Total Barren Land: 711.0000000000001, Avg Yield: 0.70
+Jammu and Kashmir,Other Cereals	Total Area: 47289.0, Total Agri Land: 55634.11764705884, Total Barren Land: 8345.117647058823, Avg Yield: 0.81
+Jammu and Kashmir,Other Kharif pulses	Total Area: 57201.0, Total Agri Land: 67295.29411764705, Total Barren Land: 10094.29411764706, Avg Yield: 0.82
+Jammu and Kashmir,Peas & beans (Pulses)	Total Area: 21815.0, Total Agri Land: 25664.705882352944, Total Barren Land: 3849.705882352941, Avg Yield: 1.46
+Jammu and Kashmir,Potato	Total Area: 38626.0, Total Agri Land: 45442.35294117648, Total Barren Land: 6816.352941176472, Avg Yield: 10.32
+Jammu and Kashmir,Ragi	Total Area: 13144.0, Total Agri Land: 15463.529411764706, Total Barren Land: 2319.5294117647063, Avg Yield: 0.56
+Jammu and Kashmir,Rapeseed &Mustard	Total Area: 1036119.0, Total Agri Land: 1218963.5294117648, Total Barren Land: 182844.5294117647, Avg Yield: 0.72
+Jammu and Kashmir,Rice	Total Area: 5266071.0, Total Agri Land: 6195377.647058823, Total Barren Land: 929306.6470588236, Avg Yield: 1.79
+Jammu and Kashmir,Sannhamp	Total Area: 2161.0, Total Agri Land: 2542.3529411764703, Total Barren Land: 381.3529411764706, Avg Yield: 0.64
+Jammu and Kashmir,Sesamum	Total Area: 89899.0, Total Agri Land: 105763.5294117647, Total Barren Land: 15864.529411764706, Avg Yield: 0.44
+Jammu and Kashmir,Small millets	Total Area: 29342.0, Total Agri Land: 34520.0, Total Barren Land: 5178.0, Avg Yield: 0.59
+Jammu and Kashmir,Sugarcane	Total Area: 2731.0, Total Agri Land: 3212.9411764705874, Total Barren Land: 481.9411764705883, Avg Yield: 2.14
+Jammu and Kashmir,Tobacco	Total Area: 211.0, Total Agri Land: 248.23529411764707, Total Barren Land: 37.235294117647065, Avg Yield: 0.32
+Jammu and Kashmir,Turmeric	Total Area: 170.0, Total Agri Land: 200.00000000000003, Total Barren Land: 30.000000000000007, Avg Yield: 0.99
+Jammu and Kashmir,Urad	Total Area: 219078.0, Total Agri Land: 257738.82352941178, Total Barren Land: 38660.82352941177, Avg Yield: 0.45
+Jammu and Kashmir,Wheat	Total Area: 5162389.0, Total Agri Land: 6073398.823529411, Total Barren Land: 911009.8235294118, Avg Yield: 1.28
+Jammu and Kashmir,other oilseeds	Total Area: 3230.0, Total Agri Land: 3800.0, Total Barren Land: 570.0, Avg Yield: 0.54
+Jharkhand,Arhar/Tur	Total Area: 1045767.1900000001, Total Agri Land: 1230314.3411764707, Total Barren Land: 184547.15117647062, Avg Yield: 4.77
+Jharkhand,Bajra	Total Area: 1032.0, Total Agri Land: 1214.1176470588234, Total Barren Land: 182.11764705882354, Avg Yield: 0.62
+Jharkhand,Barley	Total Area: 7482.389999999999, Total Agri Land: 8802.811764705883, Total Barren Land: 1320.4217647058824, Avg Yield: 0.78
+Jharkhand,Castor seed	Total Area: 252.0, Total Agri Land: 296.47058823529414, Total Barren Land: 44.470588235294116, Avg Yield: 0.50
+Jharkhand,Gram	Total Area: 985414.5399999998, Total Agri Land: 1159311.2235294117, Total Barren Land: 173896.68352941176, Avg Yield: 0.93
+Jharkhand,Groundnut	Total Area: 88433.0, Total Agri Land: 104038.82352941176, Total Barren Land: 15605.823529411766, Avg Yield: 0.94
+Jharkhand,Horse-gram	Total Area: 51405.0, Total Agri Land: 60476.4705882353, Total Barren Land: 9071.470588235296, Avg Yield: 0.63
+Jharkhand,Jowar	Total Area: 7171.0, Total Agri Land: 8436.470588235294, Total Barren Land: 1265.4705882352941, Avg Yield: 0.71
+Jharkhand,Linseed	Total Area: 131381.0, Total Agri Land: 154565.88235294117, Total Barren Land: 23184.882352941175, Avg Yield: 0.56
+Jharkhand,Maize	Total Area: 2012435.21, Total Agri Land: 2367570.835294117, Total Barren Land: 355135.6252941177, Avg Yield: 1.53
+Jharkhand,Masoor	Total Area: 261799.80000000002, Total Agri Land: 307999.76470588235, Total Barren Land: 46199.964705882354, Avg Yield: 0.79
+Jharkhand,Moong(Green Gram)	Total Area: 82305.0, Total Agri Land: 96829.41176470587, Total Barren Land: 14524.411764705885, Avg Yield: 0.78
+Jharkhand,Niger seed	Total Area: 12803.0, Total Agri Land: 15062.352941176472, Total Barren Land: 2259.3529411764707, Avg Yield: 0.50
+Jharkhand,Onion	Total Area: 39519.25000000001, Total Agri Land: 46493.23529411765, Total Barren Land: 6973.985294117647, Avg Yield: 8.14
+Jharkhand,Other  Rabi pulses	Total Area: 55850.0, Total Agri Land: 65705.88235294117, Total Barren Land: 9855.882352941178, Avg Yield: 0.70
+Jharkhand,Other Kharif pulses	Total Area: 68825.0, Total Agri Land: 80970.58823529413, Total Barren Land: 12145.588235294119, Avg Yield: 0.62
+Jharkhand,Peas & beans (Pulses)	Total Area: 179807.0, Total Agri Land: 211537.64705882355, Total Barren Land: 31730.647058823528, Avg Yield: 1.09
+Jharkhand,Potato	Total Area: 498933.31999999995, Total Agri Land: 586980.3764705881, Total Barren Land: 88047.05647058823, Avg Yield: 7.46
+Jharkhand,Ragi	Total Area: 452199.19, Total Agri Land: 531999.0470588235, Total Barren Land: 79799.85705882353, Avg Yield: 0.86
+Jharkhand,Rapeseed &Mustard	Total Area: 1101723.8100000003, Total Agri Land: 1296145.6588235297, Total Barren Land: 194421.84882352944, Avg Yield: 0.83
+Jharkhand,Rice	Total Area: 21180971.62, Total Agri Land: 24918790.141176473, Total Barren Land: 3737818.5211764704, Avg Yield: 1.13
+Jharkhand,Safflower	Total Area: 3099.0, Total Agri Land: 3645.8823529411766, Total Barren Land: 546.8823529411766, Avg Yield: 0.54
+Jharkhand,Sesamum	Total Area: 36646.0, Total Agri Land: 43112.94117647059, Total Barren Land: 6466.941176470589, Avg Yield: 0.40
+Jharkhand,Soyabean	Total Area: 9215.0, Total Agri Land: 10841.176470588234, Total Barren Land: 1626.1764705882351, Avg Yield: 0.82
+Jharkhand,Sugarcane	Total Area: 7657.13, Total Agri Land: 9008.38823529412, Total Barren Land: 1351.2582352941176, Avg Yield: 32.20
+Jharkhand,Sunflower	Total Area: 3781.0, Total Agri Land: 4448.235294117647, Total Barren Land: 667.2352941176471, Avg Yield: 0.66
+Jharkhand,Urad	Total Area: 483163.0, Total Agri Land: 568427.0588235294, Total Barren Land: 85264.05882352941, Avg Yield: 1.01
+Jharkhand,Wheat	Total Area: 1626455.3, Total Agri Land: 1913476.8235294116, Total Barren Land: 287021.5235294118, Avg Yield: 1.52
+Karnataka,Arecanut	Total Area: 4493753.0, Total Agri Land: 5286768.235294117, Total Barren Land: 793015.2352941178, Avg Yield: 6.56
+Karnataka,Arhar/Tur	Total Area: 16969582.0, Total Agri Land: 19964214.117647056, Total Barren Land: 2994632.1176470597, Avg Yield: 0.53
+Karnataka,Bajra	Total Area: 7259548.0, Total Agri Land: 8540644.705882354, Total Barren Land: 1281096.705882353, Avg Yield: 0.87
+Karnataka,Banana	Total Area: 577792.0, Total Agri Land: 679755.2941176471, Total Barren Land: 101963.29411764706, Avg Yield: 19.63
+Karnataka,Black pepper	Total Area: 700736.0, Total Agri Land: 824395.294117647, Total Barren Land: 123659.29411764708, Avg Yield: 1.81
+Karnataka,Cardamom	Total Area: 390934.0, Total Agri Land: 459922.3529411765, Total Barren Land: 68988.35294117648, Avg Yield: 0.08
+Karnataka,Cashewnut	Total Area: 730536.0, Total Agri Land: 859454.1176470589, Total Barren Land: 128918.11764705883, Avg Yield: 0.89
+Karnataka,Castor seed	Total Area: 369117.0, Total Agri Land: 434255.2941176471, Total Barren Land: 65138.29411764705, Avg Yield: 0.80
+Karnataka,Coconut	Total Area: 9267488.0, Total Agri Land: 10902927.058823528, Total Barren Land: 1635439.0588235292, Avg Yield: 6627.82
+Karnataka,Coriander	Total Area: 158586.0, Total Agri Land: 186571.76470588232, Total Barren Land: 27985.764705882353, Avg Yield: 0.30
+Karnataka,Cotton(lint)	Total Area: 12018166.0, Total Agri Land: 14139018.823529411, Total Barren Land: 2120852.823529412, Avg Yield: 1.76
+Karnataka,Cowpea(Lobia)	Total Area: 777583.0, Total Agri Land: 914803.529411765, Total Barren Land: 137220.52941176473, Avg Yield: 0.36
+Karnataka,Dry chillies	Total Area: 2833761.0, Total Agri Land: 3333836.4705882357, Total Barren Land: 500075.4705882353, Avg Yield: 1.90
+Karnataka,Garlic	Total Area: 108074.0, Total Agri Land: 127145.88235294116, Total Barren Land: 19071.88235294118, Avg Yield: 1.81
+Karnataka,Ginger	Total Area: 444426.0, Total Agri Land: 522854.11764705874, Total Barren Land: 78428.11764705883, Avg Yield: 17.75
+Karnataka,Gram	Total Area: 16084533.0, Total Agri Land: 18922980.0, Total Barren Land: 2838447.0000000005, Avg Yield: 0.53
+Karnataka,Groundnut	Total Area: 18608335.0, Total Agri Land: 21892158.82352942, Total Barren Land: 3283823.823529413, Avg Yield: 1.05
+Karnataka,Horse-gram	Total Area: 5574504.0, Total Agri Land: 6558239.999999999, Total Barren Land: 983735.9999999999, Avg Yield: 0.48
+Karnataka,Jowar	Total Area: 32438605.0, Total Agri Land: 38163064.705882356, Total Barren Land: 5724459.705882354, Avg Yield: 1.31
+Karnataka,Linseed	Total Area: 237394.0, Total Agri Land: 279287.0588235294, Total Barren Land: 41893.05882352943, Avg Yield: 0.29
+Karnataka,Maize	Total Area: 23843953.0, Total Agri Land: 28051709.411764707, Total Barren Land: 4207756.4117647065, Avg Yield: 2.89
+Karnataka,Mesta	Total Area: 34597.0, Total Agri Land: 40702.35294117647, Total Barren Land: 6105.352941176471, Avg Yield: 1.37
+Karnataka,Moong(Green Gram)	Total Area: 8134712.0, Total Agri Land: 9570249.411764702, Total Barren Land: 1435537.411764706, Avg Yield: 0.25
+Karnataka,Niger seed	Total Area: 497012.0, Total Agri Land: 584720.0000000001, Total Barren Land: 87708.00000000001, Avg Yield: 0.24
+Karnataka,Onion	Total Area: 3309405.0, Total Agri Land: 3893417.6470588227, Total Barren Land: 584012.6470588237, Avg Yield: 8.15
+Karnataka,Other  Rabi pulses	Total Area: 476698.0, Total Agri Land: 560821.1764705882, Total Barren Land: 84123.17647058825, Avg Yield: 0.38
+Karnataka,Other Kharif pulses	Total Area: 2071105.0, Total Agri Land: 2436594.117647059, Total Barren Land: 365489.11764705885, Avg Yield: 0.61
+Karnataka,Peas & beans (Pulses)	Total Area: 30050.0, Total Agri Land: 35352.94117647059, Total Barren Land: 5302.941176470588, Avg Yield: 7.57
+Karnataka,Potato	Total Area: 943496.0, Total Agri Land: 1109995.294117647, Total Barren Land: 166499.29411764708, Avg Yield: 12.62
+Karnataka,Ragi	Total Area: 18319596.0, Total Agri Land: 21552465.882352944, Total Barren Land: 3232869.882352941, Avg Yield: 1.56
+Karnataka,Rapeseed &Mustard	Total Area: 94933.0, Total Agri Land: 111685.88235294119, Total Barren Land: 16752.882352941175, Avg Yield: 0.24
+Karnataka,Rice	Total Area: 30451579.0, Total Agri Land: 35825387.05882353, Total Barren Land: 5373808.058823529, Avg Yield: 2.61
+Karnataka,Safflower	Total Area: 1432335.0, Total Agri Land: 1685100.0000000002, Total Barren Land: 252765.00000000003, Avg Yield: 0.65
+Karnataka,Sannhamp	Total Area: 10770.0, Total Agri Land: 12670.58823529412, Total Barren Land: 1900.588235294118, Avg Yield: 0.24
+Karnataka,Sesamum	Total Area: 1489048.0, Total Agri Land: 1751821.176470588, Total Barren Land: 262773.1764705883, Avg Yield: 0.54
+Karnataka,Small millets	Total Area: 813991.0, Total Agri Land: 957636.4705882352, Total Barren Land: 143645.47058823527, Avg Yield: 0.54
+Karnataka,Soyabean	Total Area: 3701556.0, Total Agri Land: 4354771.764705882, Total Barren Land: 653215.7647058823, Avg Yield: 0.85
+Karnataka,Sugarcane	Total Area: 7910943.0, Total Agri Land: 9306991.764705881, Total Barren Land: 1396048.7647058824, Avg Yield: 87.88
+Karnataka,Sunflower	Total Area: 14228291.0, Total Agri Land: 16739165.882352939, Total Barren Land: 2510874.8823529403, Avg Yield: 0.68
+Karnataka,Sweet potato	Total Area: 64178.0, Total Agri Land: 75503.52941176468, Total Barren Land: 11325.529411764706, Avg Yield: 10.29
+Karnataka,Tapioca	Total Area: 17686.0, Total Agri Land: 20807.058823529413, Total Barren Land: 3121.058823529412, Avg Yield: 9.75
+Karnataka,Tobacco	Total Area: 1855921.0, Total Agri Land: 2183436.4705882357, Total Barren Land: 327515.4705882354, Avg Yield: 0.74
+Karnataka,Turmeric	Total Area: 294337.0, Total Agri Land: 346278.82352941175, Total Barren Land: 51941.82352941177, Avg Yield: 4.98
+Karnataka,Urad	Total Area: 2495997.0, Total Agri Land: 2936467.058823529, Total Barren Land: 440470.0588235296, Avg Yield: 0.38
+Karnataka,Wheat	Total Area: 5341757.0, Total Agri Land: 6284420.000000001, Total Barren Land: 942663.0000000001, Avg Yield: 0.91
+Kerala,Arecanut	Total Area: 2213888.86, Total Agri Land: 2604575.1294117644, Total Barren Land: 390686.26941176475, Avg Yield: 0.89
+Kerala,Arhar/Tur	Total Area: 5943.0, Total Agri Land: 6991.764705882353, Total Barren Land: 1048.764705882353, Avg Yield: 1.44
+Kerala,Banana	Total Area: 1217460.76, Total Agri Land: 1432306.7764705883, Total Barren Land: 214846.01647058825, Avg Yield: 8.43
+Kerala,Black pepper	Total Area: 3513578.11, Total Agri Land: 4133621.3058823543, Total Barren Land: 620043.1958823529, Avg Yield: 0.27
+Kerala,Cardamom	Total Area: 821398.0, Total Agri Land: 966350.5882352941, Total Barren Land: 144952.5882352941, Avg Yield: 0.07
+Kerala,Cashewnut	Total Area: 1471839.46, Total Agri Land: 1731575.8352941175, Total Barren Land: 259736.37529411766, Avg Yield: 0.46
+Kerala,Coconut	Total Area: 19221995.880000003, Total Agri Land: 22614112.8, Total Barren Land: 3392116.9200000004, Avg Yield: 6270.15
+Kerala,Cotton(lint)	Total Area: 39005.4, Total Agri Land: 45888.70588235294, Total Barren Land: 6883.305882352942, Avg Yield: 1.47
+Kerala,Cowpea(Lobia)	Total Area: 2864.0, Total Agri Land: 3369.411764705883, Total Barren Land: 505.4117647058823, Avg Yield: 0.00
+Kerala,Dry chillies	Total Area: 609.0, Total Agri Land: 716.4705882352941, Total Barren Land: 107.47058823529412, Avg Yield: 0.96
+Kerala,Garlic	Total Area: 6037.61, Total Agri Land: 7103.070588235293, Total Barren Land: 1065.4605882352944, Avg Yield: 12.86
+Kerala,Ginger	Total Area: 164635.62, Total Agri Land: 193688.96470588233, Total Barren Land: 29053.34470588236, Avg Yield: 3.29
+Kerala,Gram	Total Area: 1290.8600000000001, Total Agri Land: 1518.6588235294116, Total Barren Land: 227.79882352941178, Avg Yield: 0.74
+Kerala,Groundnut	Total Area: 41966.3, Total Agri Land: 49372.117647058825, Total Barren Land: 7405.817647058824, Avg Yield: 0.94
+Kerala,Horse-gram	Total Area: 285.0, Total Agri Land: 335.2941176470588, Total Barren Land: 50.294117647058826, Avg Yield: 0.00
+Kerala,Jowar	Total Area: 29003.0, Total Agri Land: 34121.17647058824, Total Barren Land: 5118.176470588237, Avg Yield: 0.63
+Kerala,Maize	Total Area: 709.986, Total Agri Land: 835.2776470588234, Total Barren Land: 125.29164705882353, Avg Yield: 1.77
+Kerala,Moong(Green Gram)	Total Area: 385.0, Total Agri Land: 452.9411764705882, Total Barren Land: 67.94117647058825, Avg Yield: 0.00
+Kerala,Onion	Total Area: 276.21000000000004, Total Agri Land: 324.9529411764706, Total Barren Land: 48.742941176470595, Avg Yield: 0.00
+Kerala,Other  Rabi pulses	Total Area: 1256.0, Total Agri Land: 1477.6470588235295, Total Barren Land: 221.64705882352942, Avg Yield: 1.10
+Kerala,Other Cereals	Total Area: 2529.0, Total Agri Land: 2975.294117647059, Total Barren Land: 446.2941176470589, Avg Yield: 1.01
+Kerala,Other Kharif pulses	Total Area: 7303.826, Total Agri Land: 8592.736470588236, Total Barren Land: 1288.9104705882353, Avg Yield: 1.33
+Kerala,Potato	Total Area: 5561.9, Total Agri Land: 6543.411764705882, Total Barren Land: 981.5117647058822, Avg Yield: 14.77
+Kerala,Ragi	Total Area: 13128.2, Total Agri Land: 15444.941176470586, Total Barren Land: 2316.741176470589, Avg Yield: 0.94
+Kerala,Rice	Total Area: 5466503.449999999, Total Agri Land: 6431180.529411766, Total Barren Land: 964677.0794117651, Avg Yield: 2.30
+Kerala,Sesamum	Total Area: 17694.767, Total Agri Land: 20817.372941176465, Total Barren Land: 3122.605941176471, Avg Yield: 0.36
+Kerala,Small millets	Total Area: 1513.01, Total Agri Land: 1780.0117647058821, Total Barren Land: 267.00176470588235, Avg Yield: 0.77
+Kerala,Soyabean	Total Area: 15.0, Total Agri Land: 17.64705882352941, Total Barren Land: 2.6470588235294117, Avg Yield: 1.33
+Kerala,Sugarcane	Total Area: 55878.354, Total Agri Land: 65739.24, Total Barren Land: 9860.886, Avg Yield: 64.86
+Kerala,Sunflower	Total Area: 1.0, Total Agri Land: 1.1764705882352942, Total Barren Land: 0.17647058823529413, Avg Yield: 1.00
+Kerala,Sweet potato	Total Area: 11010.41, Total Agri Land: 12953.423529411763, Total Barren Land: 1943.0135294117651, Avg Yield: 12.28
+Kerala,Tapioca	Total Area: 1985809.81, Total Agri Land: 2336246.835294118, Total Barren Land: 350437.02529411763, Avg Yield: 31.45
+Kerala,Tobacco	Total Area: 884.28, Total Agri Land: 1040.3294117647058, Total Barren Land: 156.04941176470587, Avg Yield: 2.93
+Kerala,Turmeric	Total Area: 65495.829999999994, Total Agri Land: 77053.91764705881, Total Barren Land: 11558.087647058825, Avg Yield: 2.32
+Kerala,Urad	Total Area: 1042.0, Total Agri Land: 1225.8823529411766, Total Barren Land: 183.88235294117646, Avg Yield: 0.00
+Kerala,Wheat	Total Area: 8.4, Total Agri Land: 9.88235294117647, Total Barren Land: 1.4823529411764709, Avg Yield: 1.42
+Kerala,other oilseeds	Total Area: 2253.0, Total Agri Land: 2650.5882352941176, Total Barren Land: 397.5882352941177, Avg Yield: 0.00
+Madhya Pradesh,Arhar/Tur	Total Area: 9055006.0, Total Agri Land: 10652948.235294119, Total Barren Land: 1597942.2352941178, Avg Yield: 0.75
+Madhya Pradesh,Bajra	Total Area: 4790143.0, Total Agri Land: 5635462.352941178, Total Barren Land: 845319.3529411765, Avg Yield: 1.15
+Madhya Pradesh,Banana	Total Area: 279412.92999999993, Total Agri Land: 328721.0941176471, Total Barren Land: 49308.16411764706, Avg Yield: 34.03
+Madhya Pradesh,Barley	Total Area: 1735998.0, Total Agri Land: 2042350.5882352942, Total Barren Land: 306352.5882352941, Avg Yield: 1.79
+Madhya Pradesh,Cashewnut	Total Area: 1.0, Total Agri Land: 1.1764705882352942, Total Barren Land: 0.17647058823529413, Avg Yield: 0.00
+Madhya Pradesh,Castor seed	Total Area: 48280.0, Total Agri Land: 56800.0, Total Barren Land: 8520.000000000002, Avg Yield: 0.34
+Madhya Pradesh,Coriander	Total Area: 3203489.07, Total Agri Land: 3768810.6705882354, Total Barren Land: 565321.6005882353, Avg Yield: 0.74
+Madhya Pradesh,Cotton(lint)	Total Area: 13166985.0, Total Agri Land: 15490570.58823529, Total Barren Land: 2323585.588235294, Avg Yield: 1.01
+Madhya Pradesh,Cowpea(Lobia)	Total Area: 7160.0, Total Agri Land: 8423.529411764706, Total Barren Land: 1263.5294117647059, Avg Yield: 0.28
+Madhya Pradesh,Dry chillies	Total Area: 962968.44, Total Agri Land: 1132904.0470588238, Total Barren Land: 169935.60705882355, Avg Yield: 1.65
+Madhya Pradesh,Garlic	Total Area: 1494468.5, Total Agri Land: 1758198.2352941174, Total Barren Land: 263729.7352941176, Avg Yield: 5.02
+Madhya Pradesh,Ginger	Total Area: 202104.83000000002, Total Agri Land: 237770.38823529411, Total Barren Land: 35665.55823529413, Avg Yield: 5.49
+Madhya Pradesh,Gram	Total Area: 60028915.0, Total Agri Land: 70622252.94117647, Total Barren Land: 10593337.941176469, Avg Yield: 1.01
+Madhya Pradesh,Groundnut	Total Area: 5017826.0, Total Agri Land: 5903324.705882353, Total Barren Land: 885498.705882353, Avg Yield: 1.18
+Madhya Pradesh,Horse-gram	Total Area: 308994.0, Total Agri Land: 363522.35294117645, Total Barren Land: 54528.35294117648, Avg Yield: 0.29
+Madhya Pradesh,Jowar	Total Area: 10481475.0, Total Agri Land: 12331147.05882353, Total Barren Land: 1849672.0588235294, Avg Yield: 1.38
+Madhya Pradesh,Jute	Total Area: 24046.0, Total Agri Land: 28289.41176470588, Total Barren Land: 4243.411764705882, Avg Yield: 1.46
+Madhya Pradesh,Khesari	Total Area: 403744.0, Total Agri Land: 474992.9411764706, Total Barren Land: 71248.9411764706, Avg Yield: 0.66
+Madhya Pradesh,Linseed	Total Area: 3312310.0, Total Agri Land: 3896835.294117647, Total Barren Land: 584525.2941176472, Avg Yield: 0.61
+Madhya Pradesh,Maize	Total Area: 21992692.0, Total Agri Land: 25873755.29411765, Total Barren Land: 3881063.294117647, Avg Yield: 1.77
+Madhya Pradesh,Masoor	Total Area: 8503002.0, Total Agri Land: 10003531.76470588, Total Barren Land: 1500529.7647058824, Avg Yield: 0.61
+Madhya Pradesh,Mesta	Total Area: 12159.0, Total Agri Land: 14304.705882352944, Total Barren Land: 2145.705882352941, Avg Yield: 1.18
+Madhya Pradesh,Moong(Green Gram)	Total Area: 2239399.0, Total Agri Land: 2634587.0588235296, Total Barren Land: 395188.05882352946, Avg Yield: 0.39
+Madhya Pradesh,Niger seed	Total Area: 1831056.0, Total Agri Land: 2154183.529411765, Total Barren Land: 323127.52941176476, Avg Yield: 0.27
+Madhya Pradesh,Onion	Total Area: 1419978.71, Total Agri Land: 1670563.188235294, Total Barren Land: 250584.47823529414, Avg Yield: 16.55
+Madhya Pradesh,Other  Rabi pulses	Total Area: 4366215.0, Total Agri Land: 5136723.529411766, Total Barren Land: 770508.5294117649, Avg Yield: 0.53
+Madhya Pradesh,Other Cereals	Total Area: 112300.0, Total Agri Land: 132117.64705882352, Total Barren Land: 19817.64705882353, Avg Yield: 0.73
+Madhya Pradesh,Other Kharif pulses	Total Area: 3303380.0, Total Agri Land: 3886329.411764706, Total Barren Land: 582949.4117647059, Avg Yield: 0.36
+Madhya Pradesh,Peas & beans (Pulses)	Total Area: 3487941.0, Total Agri Land: 4103460.0, Total Barren Land: 615519.0, Avg Yield: 0.65
+Madhya Pradesh,Potato	Total Area: 1557448.52, Total Agri Land: 1832292.3764705884, Total Barren Land: 274843.8564705883, Avg Yield: 14.67
+Madhya Pradesh,Ragi	Total Area: 18629.0, Total Agri Land: 21916.470588235297, Total Barren Land: 3287.4705882352946, Avg Yield: 0.24
+Madhya Pradesh,Rapeseed &Mustard	Total Area: 15211464.0, Total Agri Land: 17895840.000000004, Total Barren Land: 2684376.0, Avg Yield: 0.79
+Madhya Pradesh,Rice	Total Area: 49003463.0, Total Agri Land: 57651132.94117646, Total Barren Land: 8647669.941176472, Avg Yield: 1.21
+Madhya Pradesh,Safflower	Total Area: 63300.0, Total Agri Land: 74470.58823529411, Total Barren Land: 11170.588235294123, Avg Yield: 0.38
+Madhya Pradesh,Sannhamp	Total Area: 56654.0, Total Agri Land: 66651.76470588236, Total Barren Land: 9997.764705882355, Avg Yield: 1.54
+Madhya Pradesh,Sesamum	Total Area: 5823212.0, Total Agri Land: 6850837.647058823, Total Barren Land: 1027625.6470588237, Avg Yield: 0.43
+Madhya Pradesh,Small millets	Total Area: 6240417.0, Total Agri Land: 7341667.058823529, Total Barren Land: 1101250.0588235294, Avg Yield: 0.40
+Madhya Pradesh,Soyabean	Total Area: 117835707.0, Total Agri Land: 138630243.5294118, Total Barren Land: 20794536.529411767, Avg Yield: 0.92
+Madhya Pradesh,Sugarcane	Total Area: 1480341.0, Total Agri Land: 1741577.6470588234, Total Barren Land: 261236.64705882358, Avg Yield: 32.08
+Madhya Pradesh,Sunflower	Total Area: 45976.0, Total Agri Land: 54089.41176470589, Total Barren Land: 8113.411764705883, Avg Yield: 0.46
+Madhya Pradesh,Sweet potato	Total Area: 83863.26999999999, Total Agri Land: 98662.6705882353, Total Barren Land: 14799.400588235298, Avg Yield: 8.70
+Madhya Pradesh,Tobacco	Total Area: 1894.0, Total Agri Land: 2228.2352941176473, Total Barren Land: 334.2352941176471, Avg Yield: 0.46
+Madhya Pradesh,Turmeric	Total Area: 626184.1900000001, Total Agri Land: 736687.2823529412, Total Barren Land: 110503.09235294115, Avg Yield: 5.69
+Madhya Pradesh,Urad	Total Area: 15609718.0, Total Agri Land: 18364374.117647056, Total Barren Land: 2754656.11764706, Avg Yield: 0.40
+Madhya Pradesh,Wheat	Total Area: 116638274.0, Total Agri Land: 137221498.8235294, Total Barren Land: 20583224.82352941, Avg Yield: 2.20
+Maharashtra,Arhar/Tur	Total Area: 26558259.0, Total Agri Land: 31245010.588235296, Total Barren Land: 4686751.5882352935, Avg Yield: 0.65
+Maharashtra,Bajra	Total Area: 26815484.4, Total Agri Land: 31547628.705882356, Total Barren Land: 4732144.305882354, Avg Yield: 0.63
+Maharashtra,Banana	Total Area: 57700.0, Total Agri Land: 67882.35294117648, Total Barren Land: 10182.352941176472, Avg Yield: 57.57
+Maharashtra,Castor seed	Total Area: 254561.0, Total Agri Land: 299483.52941176476, Total Barren Land: 44922.5294117647, Avg Yield: 0.31
+Maharashtra,Cotton(lint)	Total Area: 78908059.0, Total Agri Land: 92833010.58823529, Total Barren Land: 13924951.588235296, Avg Yield: 5.62
+Maharashtra,Gram	Total Area: 28448729.0, Total Agri Land: 33469092.94117647, Total Barren Land: 5020363.941176471, Avg Yield: 0.71
+Maharashtra,Groundnut	Total Area: 8306581.0, Total Agri Land: 9772448.235294119, Total Barren Land: 1465867.2352941176, Avg Yield: 1.12
+Maharashtra,Jowar	Total Area: 93936438.0, Total Agri Land: 110513456.47058827, Total Barren Land: 16577018.470588237, Avg Yield: 0.93
+Maharashtra,Linseed	Total Area: 969653.0, Total Agri Land: 1140768.2352941178, Total Barren Land: 171115.2352941177, Avg Yield: 0.29
+Maharashtra,Maize	Total Area: 15612795.0, Total Agri Land: 18367994.117647063, Total Barren Land: 2755199.1176470583, Avg Yield: 16.23
+Maharashtra,Moong(Green Gram)	Total Area: 12322496.0, Total Agri Land: 14497054.117647061, Total Barren Land: 2174558.1176470593, Avg Yield: 0.47
+Maharashtra,Niger seed	Total Area: 867045.0, Total Agri Land: 1020052.9411764707, Total Barren Land: 153007.94117647057, Avg Yield: 0.26
+Maharashtra,Onion	Total Area: 133622.0, Total Agri Land: 157202.35294117648, Total Barren Land: 23580.352941176472, Avg Yield: 12.45
+Maharashtra,Other  Rabi pulses	Total Area: 2612049.0, Total Agri Land: 3072998.823529412, Total Barren Land: 460949.8235294118, Avg Yield: 0.43
+Maharashtra,Other Cereals	Total Area: 563223.0, Total Agri Land: 662615.2941176471, Total Barren Land: 99392.29411764705, Avg Yield: 0.64
+Maharashtra,Other Kharif pulses	Total Area: 3379470.0, Total Agri Land: 3975847.0588235296, Total Barren Land: 596377.0588235294, Avg Yield: 0.36
+Maharashtra,Other Summer Pulses	Total Area: 19049.0, Total Agri Land: 22410.588235294115, Total Barren Land: 3361.588235294118, Avg Yield: 0.48
+Maharashtra,Ragi	Total Area: 2908564.0, Total Agri Land: 3421840.0000000005, Total Barren Land: 513276.0, Avg Yield: 1.02
+Maharashtra,Rapeseed &Mustard	Total Area: 179263.0, Total Agri Land: 210897.64705882352, Total Barren Land: 31634.647058823535, Avg Yield: 0.35
+Maharashtra,Rice	Total Area: 34801017.0, Total Agri Land: 40942372.94117646, Total Barren Land: 6141355.94117647, Avg Yield: 1.97
+Maharashtra,Safflower	Total Area: 3954612.0, Total Agri Land: 4652484.705882354, Total Barren Land: 697872.7058823529, Avg Yield: 0.54
+Maharashtra,Sesamum	Total Area: 1646130.0, Total Agri Land: 1936623.5294117648, Total Barren Land: 290493.5294117647, Avg Yield: 0.98
+Maharashtra,Small millets	Total Area: 5870990.0, Total Agri Land: 6907047.058823527, Total Barren Land: 1036057.0588235296, Avg Yield: 0.53
+Maharashtra,Soyabean	Total Area: 58424954.0, Total Agri Land: 68735240.0, Total Barren Land: 10310286.000000002, Avg Yield: 1.24
+Maharashtra,Sugarcane	Total Area: 17184647.0, Total Agri Land: 20217231.764705885, Total Barren Land: 3032584.7647058824, Avg Yield: 67.99
+Maharashtra,Sunflower	Total Area: 4597374.0, Total Agri Land: 5408675.294117646, Total Barren Land: 811301.2941176473, Avg Yield: 0.62
+Maharashtra,Tobacco	Total Area: 6671.0, Total Agri Land: 7848.235294117647, Total Barren Land: 1177.235294117647, Avg Yield: 1.45
+Maharashtra,Urad	Total Area: 10230364.0, Total Agri Land: 12035722.352941176, Total Barren Land: 1805358.3529411769, Avg Yield: 0.52
+Maharashtra,Wheat	Total Area: 22311279.75, Total Agri Land: 26248564.41176471, Total Barren Land: 3937284.6617647065, Avg Yield: 1.38
+Maharashtra,other oilseeds	Total Area: 58473.0, Total Agri Land: 68791.76470588235, Total Barren Land: 10318.764705882353, Avg Yield: 0.55
+Manipur,Arhar/Tur	Total Area: 5391.0, Total Agri Land: 6342.35294117647, Total Barren Land: 951.3529411764705, Avg Yield: 0.97
+Manipur,Banana	Total Area: 115497.0, Total Agri Land: 135878.82352941175, Total Barren Land: 20381.823529411766, Avg Yield: 12.52
+Manipur,Cashewnut	Total Area: 743.0, Total Agri Land: 874.1176470588236, Total Barren Land: 131.11764705882354, Avg Yield: 0.51
+Manipur,Cotton(lint)	Total Area: 690.0, Total Agri Land: 811.764705882353, Total Barren Land: 121.76470588235296, Avg Yield: 0.49
+Manipur,Cowpea(Lobia)	Total Area: 9514.0, Total Agri Land: 11192.94117647059, Total Barren Land: 1678.9411764705883, Avg Yield: 1.07
+Manipur,Dry chillies	Total Area: 149566.0, Total Agri Land: 175960.0, Total Barren Land: 26394.000000000004, Avg Yield: 3.78
+Manipur,Ginger	Total Area: 56716.0, Total Agri Land: 66724.70588235295, Total Barren Land: 10008.70588235294, Avg Yield: 6.36
+Manipur,Gram	Total Area: 8939.0, Total Agri Land: 10516.470588235292, Total Barren Land: 1577.4705882352941, Avg Yield: 0.88
+Manipur,Groundnut	Total Area: 33413.0, Total Agri Land: 39309.41176470589, Total Barren Land: 5896.411764705884, Avg Yield: 0.81
+Manipur,Jute	Total Area: 40.0, Total Agri Land: 47.05882352941177, Total Barren Land: 7.058823529411765, Avg Yield: 2.00
+Manipur,Maize	Total Area: 312896.0, Total Agri Land: 368112.9411764706, Total Barren Land: 55216.941176470595, Avg Yield: 2.30
+Manipur,Masoor	Total Area: 7520.0, Total Agri Land: 8847.05882352941, Total Barren Land: 1327.058823529412, Avg Yield: 0.87
+Manipur,Moong(Green Gram)	Total Area: 4464.0, Total Agri Land: 5251.764705882353, Total Barren Land: 787.7647058823532, Avg Yield: 1.01
+Manipur,Onion	Total Area: 7022.0, Total Agri Land: 8261.176470588236, Total Barren Land: 1239.1764705882351, Avg Yield: 2.12
+Manipur,Other  Rabi pulses	Total Area: 67149.0, Total Agri Land: 78998.82352941178, Total Barren Land: 11849.823529411768, Avg Yield: 0.88
+Manipur,Other Kharif pulses	Total Area: 35327.0, Total Agri Land: 41561.17647058824, Total Barren Land: 6234.176470588236, Avg Yield: 0.84
+Manipur,Peas & beans (Pulses)	Total Area: 259338.0, Total Agri Land: 305103.5294117646, Total Barren Land: 45765.5294117647, Avg Yield: 0.69
+Manipur,Potato	Total Area: 185800.0, Total Agri Land: 218588.23529411765, Total Barren Land: 32788.23529411764, Avg Yield: 6.80
+Manipur,Rapeseed &Mustard	Total Area: 354600.0, Total Agri Land: 417176.47058823524, Total Barren Land: 62576.470588235294, Avg Yield: 0.64
+Manipur,Rice	Total Area: 3910895.0, Total Agri Land: 4601052.941176471, Total Barren Land: 690157.9411764705, Avg Yield: 2.17
+Manipur,Sesamum	Total Area: 10390.0, Total Agri Land: 12223.529411764706, Total Barren Land: 1833.5294117647059, Avg Yield: 0.52
+Manipur,Soyabean	Total Area: 52762.0, Total Agri Land: 62072.94117647059, Total Barren Land: 9310.941176470587, Avg Yield: 0.97
+Manipur,Sugarcane	Total Area: 64757.0, Total Agri Land: 76184.70588235295, Total Barren Land: 11427.705882352944, Avg Yield: 41.73
+Manipur,Sweet potato	Total Area: 944.0, Total Agri Land: 1110.5882352941176, Total Barren Land: 166.58823529411762, Avg Yield: 4.03
+Manipur,Tapioca	Total Area: 526.0, Total Agri Land: 618.8235294117648, Total Barren Land: 92.82352941176472, Avg Yield: 4.89
+Manipur,Turmeric	Total Area: 23798.0, Total Agri Land: 27997.64705882353, Total Barren Land: 4199.647058823529, Avg Yield: 6.30
+Manipur,Urad	Total Area: 14882.0, Total Agri Land: 17508.235294117647, Total Barren Land: 2626.2352941176473, Avg Yield: 1.09
+Manipur,Wheat	Total Area: 34060.0, Total Agri Land: 40070.58823529412, Total Barren Land: 6010.588235294118, Avg Yield: 2.46
+Meghalaya,Arecanut	Total Area: 292735.0, Total Agri Land: 344394.1176470588, Total Barren Land: 51659.11764705883, Avg Yield: 1.26
+Meghalaya,Arhar/Tur	Total Area: 20752.0, Total Agri Land: 24414.117647058825, Total Barren Land: 3662.1176470588243, Avg Yield: 0.91
+Meghalaya,Banana	Total Area: 135539.0, Total Agri Land: 159457.64705882352, Total Barren Land: 23918.647058823528, Avg Yield: 10.64
+Meghalaya,Black pepper	Total Area: 12485.0, Total Agri Land: 14688.235294117647, Total Barren Land: 2203.2352941176473, Avg Yield: 0.67
+Meghalaya,Cashewnut	Total Area: 109954.0, Total Agri Land: 129357.64705882351, Total Barren Land: 19403.647058823528, Avg Yield: 1.43
+Meghalaya,Castor seed	Total Area: 942.0, Total Agri Land: 1108.235294117647, Total Barren Land: 166.23529411764707, Avg Yield: 0.73
+Meghalaya,Coriander	Total Area: 1510.0, Total Agri Land: 1776.4705882352941, Total Barren Land: 266.47058823529414, Avg Yield: 4.18
+Meghalaya,Cotton(lint)	Total Area: 166482.0, Total Agri Land: 195861.17647058828, Total Barren Land: 29379.176470588245, Avg Yield: 1.01
+Meghalaya,Cowpea(Lobia)	Total Area: 11554.0, Total Agri Land: 13592.94117647059, Total Barren Land: 2038.9411764705885, Avg Yield: 1.60
+Meghalaya,Dry chillies	Total Area: 41830.0, Total Agri Land: 49211.76470588235, Total Barren Land: 7381.764705882353, Avg Yield: 0.92
+Meghalaya,Garlic	Total Area: 365.0, Total Agri Land: 429.4117647058824, Total Barren Land: 64.41176470588236, Avg Yield: 1.79
+Meghalaya,Ginger	Total Area: 201757.0, Total Agri Land: 237361.17647058822, Total Barren Land: 35604.17647058823, Avg Yield: 7.51
+Meghalaya,Gram	Total Area: 22326.0, Total Agri Land: 26265.882352941175, Total Barren Land: 3939.8823529411766, Avg Yield: 0.76
+Meghalaya,Jute	Total Area: 113576.0, Total Agri Land: 133618.82352941178, Total Barren Land: 20042.823529411766, Avg Yield: 7.84
+Meghalaya,Linseed	Total Area: 1538.0, Total Agri Land: 1809.4117647058822, Total Barren Land: 271.4117647058824, Avg Yield: 0.51
+Meghalaya,Maize	Total Area: 400140.0, Total Agri Land: 470752.9411764706, Total Barren Land: 70612.94117647059, Avg Yield: 1.76
+Meghalaya,Masoor	Total Area: 9756.0, Total Agri Land: 11477.64705882353, Total Barren Land: 1721.6470588235297, Avg Yield: 1.18
+Meghalaya,Mesta	Total Area: 103550.0, Total Agri Land: 121823.52941176471, Total Barren Land: 18273.52941176471, Avg Yield: 4.80
+Meghalaya,Onion	Total Area: 3240.0, Total Agri Land: 3811.764705882353, Total Barren Land: 571.7647058823529, Avg Yield: 8.34
+Meghalaya,Other  Rabi pulses	Total Area: 23550.0, Total Agri Land: 27705.88235294118, Total Barren Land: 4155.882352941177, Avg Yield: 0.78
+Meghalaya,Peas & beans (Pulses)	Total Area: 21313.0, Total Agri Land: 25074.11764705882, Total Barren Land: 3761.1176470588234, Avg Yield: 1.64
+Meghalaya,Potato	Total Area: 405983.0, Total Agri Land: 477627.0588235294, Total Barren Land: 71644.05882352941, Avg Yield: 7.48
+Meghalaya,Rapeseed &Mustard	Total Area: 185757.0, Total Agri Land: 218537.64705882355, Total Barren Land: 32780.64705882354, Avg Yield: 0.72
+Meghalaya,Rice	Total Area: 2467674.0, Total Agri Land: 2903145.882352942, Total Barren Land: 435471.88235294126, Avg Yield: 2.06
+Meghalaya,Sesamum	Total Area: 41117.0, Total Agri Land: 48372.941176470595, Total Barren Land: 7255.941176470589, Avg Yield: 0.74
+Meghalaya,Small millets	Total Area: 59573.0, Total Agri Land: 70085.88235294119, Total Barren Land: 10512.882352941175, Avg Yield: 0.99
+Meghalaya,Soyabean	Total Area: 26165.0, Total Agri Land: 30782.352941176465, Total Barren Land: 4617.352941176471, Avg Yield: 1.43
+Meghalaya,Sugarcane	Total Area: 2153.0, Total Agri Land: 2532.941176470588, Total Barren Land: 379.9411764705883, Avg Yield: 2.47
+Meghalaya,Sweet potato	Total Area: 109793.0, Total Agri Land: 129168.23529411765, Total Barren Land: 19375.23529411765, Avg Yield: 3.52
+Meghalaya,Tapioca	Total Area: 99378.0, Total Agri Land: 116915.29411764705, Total Barren Land: 17537.29411764706, Avg Yield: 6.65
+Meghalaya,Tobacco	Total Area: 16824.0, Total Agri Land: 19792.941176470587, Total Barren Land: 2968.941176470588, Avg Yield: 0.78
+Meghalaya,Turmeric	Total Area: 42367.0, Total Agri Land: 49843.5294117647, Total Barren Land: 7476.529411764706, Avg Yield: 5.59
+Meghalaya,Wheat	Total Area: 27098.0, Total Agri Land: 31880.0, Total Barren Land: 4782.000000000001, Avg Yield: 1.43
+Mizoram,Arhar/Tur	Total Area: 3605.8, Total Agri Land: 4242.1176470588225, Total Barren Land: 636.3176470588236, Avg Yield: 1.00
+Mizoram,Coconut	Total Area: 15.0, Total Agri Land: 17.647058823529413, Total Barren Land: 2.647058823529412, Avg Yield: 2.60
+Mizoram,Cotton(lint)	Total Area: 5191.3, Total Agri Land: 6107.411764705882, Total Barren Land: 916.1117647058824, Avg Yield: 1.27
+Mizoram,Cowpea(Lobia)	Total Area: 13164.7, Total Agri Land: 15487.882352941177, Total Barren Land: 2323.182352941177, Avg Yield: 1.24
+Mizoram,Gram	Total Area: 46.0, Total Agri Land: 54.11764705882353, Total Barren Land: 8.11764705882353, Avg Yield: 1.05
+Mizoram,Groundnut	Total Area: 228.0, Total Agri Land: 268.2352941176471, Total Barren Land: 40.235294117647065, Avg Yield: 1.14
+Mizoram,Maize	Total Area: 176390.4, Total Agri Land: 207518.11764705877, Total Barren Land: 31127.717647058827, Avg Yield: 1.76
+Mizoram,Masoor	Total Area: 174.5, Total Agri Land: 205.2941176470588, Total Barren Land: 30.79411764705883, Avg Yield: 0.89
+Mizoram,Moong(Green Gram)	Total Area: 362.27, Total Agri Land: 426.20000000000005, Total Barren Land: 63.93000000000001, Avg Yield: 1.04
+Mizoram,Onion	Total Area: 193.20000000000002, Total Agri Land: 227.2941176470588, Total Barren Land: 34.09411764705883, Avg Yield: 5.79
+Mizoram,Other  Rabi pulses	Total Area: 26930.1, Total Agri Land: 31682.470588235294, Total Barren Land: 4752.370588235296, Avg Yield: 1.52
+Mizoram,Other Kharif pulses	Total Area: 34263.0, Total Agri Land: 40309.41176470588, Total Barren Land: 6046.411764705883, Avg Yield: 1.13
+Mizoram,Peas & beans (Pulses)	Total Area: 1725.4, Total Agri Land: 2029.8823529411766, Total Barren Land: 304.4823529411765, Avg Yield: 1.05
+Mizoram,Potato	Total Area: 7363.0, Total Agri Land: 8662.35294117647, Total Barren Land: 1299.3529411764705, Avg Yield: 4.87
+Mizoram,Rapeseed &Mustard	Total Area: 19379.0, Total Agri Land: 22798.823529411766, Total Barren Land: 3419.8235294117653, Avg Yield: 0.92
+Mizoram,Rice	Total Area: 1105960.2, Total Agri Land: 1301129.6470588231, Total Barren Land: 195169.4470588236, Avg Yield: 1.75
+Mizoram,Sesamum	Total Area: 36167.3, Total Agri Land: 42549.76470588235, Total Barren Land: 6382.464705882354, Avg Yield: 0.69
+Mizoram,Soyabean	Total Area: 22283.0, Total Agri Land: 26215.29411764706, Total Barren Land: 3932.294117647059, Avg Yield: 1.33
+Mizoram,Sugarcane	Total Area: 29448.8, Total Agri Land: 34645.64705882354, Total Barren Land: 5196.84705882353, Avg Yield: 14.18
+Mizoram,Sunflower	Total Area: 49.0, Total Agri Land: 57.647058823529406, Total Barren Land: 8.647058823529413, Avg Yield: 0.89
+Mizoram,Tapioca	Total Area: 4233.0, Total Agri Land: 4979.999999999999, Total Barren Land: 747.0000000000001, Avg Yield: 7.11
+Mizoram,Tobacco	Total Area: 7068.5, Total Agri Land: 8315.882352941175, Total Barren Land: 1247.3823529411766, Avg Yield: 0.78
+Mizoram,Urad	Total Area: 186.0, Total Agri Land: 218.82352941176472, Total Barren Land: 32.82352941176471, Avg Yield: 1.12
+Mizoram,Wheat	Total Area: 123.0, Total Agri Land: 144.7058823529412, Total Barren Land: 21.705882352941178, Avg Yield: 0.95
+Mizoram,other oilseeds	Total Area: 47639.0, Total Agri Land: 56045.88235294118, Total Barren Land: 8406.882352941177, Avg Yield: 0.69
+Nagaland,Arhar/Tur	Total Area: 83411.0, Total Agri Land: 98130.58823529413, Total Barren Land: 14719.58823529412, Avg Yield: 0.90
+Nagaland,Bajra	Total Area: 24080.0, Total Agri Land: 28329.411764705885, Total Barren Land: 4249.411764705883, Avg Yield: 1.02
+Nagaland,Barley	Total Area: 26120.0, Total Agri Land: 30729.411764705885, Total Barren Land: 4609.411764705882, Avg Yield: 1.34
+Nagaland,Cardamom	Total Area: 1900.0, Total Agri Land: 2235.294117647059, Total Barren Land: 335.29411764705884, Avg Yield: 0.82
+Nagaland,Castor seed	Total Area: 5670.0, Total Agri Land: 6670.588235294118, Total Barren Land: 1000.5882352941178, Avg Yield: 0.74
+Nagaland,Cotton(lint)	Total Area: 6926.7, Total Agri Land: 8149.058823529412, Total Barren Land: 1222.3588235294123, Avg Yield: 0.84
+Nagaland,Cowpea(Lobia)	Total Area: 3670.0, Total Agri Land: 4317.64705882353, Total Barren Land: 647.6470588235294, Avg Yield: 1.47
+Nagaland,Dry chillies	Total Area: 3200.0, Total Agri Land: 3764.705882352941, Total Barren Land: 564.7058823529412, Avg Yield: 1.26
+Nagaland,Ginger	Total Area: 44120.0, Total Agri Land: 51905.882352941175, Total Barren Land: 7785.8823529411775, Avg Yield: 8.96
+Nagaland,Gram	Total Area: 15950.0, Total Agri Land: 18764.70588235294, Total Barren Land: 2814.705882352941, Avg Yield: 0.87
+Nagaland,Groundnut	Total Area: 30970.0, Total Agri Land: 36435.294117647056, Total Barren Land: 5465.29411764706, Avg Yield: 1.07
+Nagaland,Horse-gram	Total Area: 4120.0, Total Agri Land: 4847.058823529411, Total Barren Land: 727.0588235294118, Avg Yield: 1.04
+Nagaland,Jowar	Total Area: 17860.0, Total Agri Land: 21011.76470588235, Total Barren Land: 3151.764705882353, Avg Yield: 1.02
+Nagaland,Jute	Total Area: 82070.0, Total Agri Land: 96552.94117647059, Total Barren Land: 14482.94117647059, Avg Yield: 2.91
+Nagaland,Linseed	Total Area: 145210.0, Total Agri Land: 170835.29411764708, Total Barren Land: 25625.29411764706, Avg Yield: 0.75
+Nagaland,Maize	Total Area: 1304330.0, Total Agri Land: 1534505.8823529412, Total Barren Land: 230175.8823529412, Avg Yield: 1.83
+Nagaland,Masoor	Total Area: 34890.0, Total Agri Land: 41047.05882352941, Total Barren Land: 6157.058823529413, Avg Yield: 0.86
+Nagaland,Mesta	Total Area: 20130.0, Total Agri Land: 23682.35294117647, Total Barren Land: 3552.352941176471, Avg Yield: 1.23
+Nagaland,Moong(Green Gram)	Total Area: 19160.0, Total Agri Land: 22541.17647058823, Total Barren Land: 3381.1764705882356, Avg Yield: 0.97
+Nagaland,Niger seed	Total Area: 443550.0, Total Agri Land: 521823.52941176464, Total Barren Land: 78273.52941176473, Avg Yield: 0.97
+Nagaland,Other  Rabi pulses	Total Area: 111470.0, Total Agri Land: 131141.17647058822, Total Barren Land: 19671.176470588238, Avg Yield: 1.11
+Nagaland,Other Cereals	Total Area: 5150.0, Total Agri Land: 6058.823529411765, Total Barren Land: 908.8235294117648, Avg Yield: 1.02
+Nagaland,Other Kharif pulses	Total Area: 100810.0, Total Agri Land: 118599.99999999999, Total Barren Land: 17790.000000000004, Avg Yield: 1.06
+Nagaland,Peas & beans (Pulses)	Total Area: 171420.0, Total Agri Land: 201670.58823529416, Total Barren Land: 30250.588235294115, Avg Yield: 1.15
+Nagaland,Potato	Total Area: 125370.0, Total Agri Land: 147494.11764705883, Total Barren Land: 22124.11764705883, Avg Yield: 10.63
+Nagaland,Ragi	Total Area: 3610.0, Total Agri Land: 4247.058823529412, Total Barren Land: 637.0588235294118, Avg Yield: 0.95
+Nagaland,Rapeseed &Mustard	Total Area: 530304.0, Total Agri Land: 623887.0588235294, Total Barren Land: 93583.05882352943, Avg Yield: 0.92
+Nagaland,Rice	Total Area: 3995020.0, Total Agri Land: 4700023.529411763, Total Barren Land: 705003.5294117647, Avg Yield: 2.04
+Nagaland,Sesamum	Total Area: 89600.0, Total Agri Land: 105411.76470588238, Total Barren Land: 15811.764705882353, Avg Yield: 0.66
+Nagaland,Small millets	Total Area: 213300.0, Total Agri Land: 250941.17647058822, Total Barren Land: 37641.17647058823, Avg Yield: 1.00
+Nagaland,Soyabean	Total Area: 501050.0, Total Agri Land: 589470.5882352941, Total Barren Land: 88420.58823529413, Avg Yield: 1.28
+Nagaland,Sugarcane	Total Area: 72010.0, Total Agri Land: 84717.64705882354, Total Barren Land: 12707.647058823533, Avg Yield: 39.58
+Nagaland,Sunflower	Total Area: 48190.0, Total Agri Land: 56694.11764705881, Total Barren Land: 8504.117647058822, Avg Yield: 0.89
+Nagaland,Sweet potato	Total Area: 14460.0, Total Agri Land: 17011.764705882353, Total Barren Land: 2551.764705882353, Avg Yield: 8.50
+Nagaland,Tapioca	Total Area: 26840.0, Total Agri Land: 31576.470588235297, Total Barren Land: 4736.470588235295, Avg Yield: 20.47
+Nagaland,Turmeric	Total Area: 900.0, Total Agri Land: 1058.8235294117649, Total Barren Land: 158.82352941176472, Avg Yield: 4.44
+Nagaland,Urad	Total Area: 9970.0, Total Agri Land: 11729.41176470588, Total Barren Land: 1759.4117647058824, Avg Yield: 0.81
+Nagaland,Wheat	Total Area: 77590.0, Total Agri Land: 91282.35294117646, Total Barren Land: 13692.352941176472, Avg Yield: 1.78
+Nagaland,other oilseeds	Total Area: 12330.0, Total Agri Land: 14505.882352941175, Total Barren Land: 2175.8823529411766, Avg Yield: 0.60
+Odisha,Arhar/Tur	Total Area: 1019803.0, Total Agri Land: 1199768.2352941174, Total Barren Land: 179965.23529411765, Avg Yield: 0.56
+Odisha,Bajra	Total Area: 24195.0, Total Agri Land: 28464.70588235294, Total Barren Land: 4269.705882352941, Avg Yield: 0.56
+Odisha,Castor seed	Total Area: 114953.0, Total Agri Land: 135238.82352941178, Total Barren Land: 20285.823529411766, Avg Yield: 0.55
+Odisha,Coriander	Total Area: 128380.0, Total Agri Land: 151035.29411764705, Total Barren Land: 22655.294117647063, Avg Yield: 0.49
+Odisha,Cotton(lint)	Total Area: 246840.0, Total Agri Land: 290400.0, Total Barren Land: 43560.0, Avg Yield: 2.09
+Odisha,Cowpea(Lobia)	Total Area: 68310.0, Total Agri Land: 80364.70588235295, Total Barren Land: 12054.705882352942, Avg Yield: 0.74
+Odisha,Dry chillies	Total Area: 542313.0, Total Agri Land: 638015.2941176471, Total Barren Land: 95702.29411764706, Avg Yield: 0.91
+Odisha,Garlic	Total Area: 81654.0, Total Agri Land: 96063.52941176471, Total Barren Land: 14409.529411764706, Avg Yield: 3.28
+Odisha,Ginger	Total Area: 101804.0, Total Agri Land: 119769.41176470587, Total Barren Land: 17965.411764705885, Avg Yield: 3.52
+Odisha,Gram	Total Area: 193001.0, Total Agri Land: 227060.0, Total Barren Land: 34059.0, Avg Yield: 0.56
+Odisha,Groundnut	Total Area: 1688265.0, Total Agri Land: 1986194.1176470593, Total Barren Land: 297929.1176470588, Avg Yield: 1.12
+Odisha,Horse-gram	Total Area: 1639181.0, Total Agri Land: 1928448.2352941178, Total Barren Land: 289267.2352941176, Avg Yield: 0.31
+Odisha,Jowar	Total Area: 76991.0, Total Agri Land: 90577.64705882354, Total Barren Land: 13586.647058823532, Avg Yield: 0.59
+Odisha,Jute	Total Area: 174305.0, Total Agri Land: 205064.70588235298, Total Barren Land: 30759.705882352944, Avg Yield: 5.51
+Odisha,Linseed	Total Area: 138476.0, Total Agri Land: 162912.9411764706, Total Barren Land: 24436.941176470595, Avg Yield: 0.40
+Odisha,Maize	Total Area: 1698177.0, Total Agri Land: 1997855.2941176463, Total Barren Land: 299678.29411764705, Avg Yield: 1.55
+Odisha,Masoor	Total Area: 53810.0, Total Agri Land: 63305.88235294118, Total Barren Land: 9495.882352941177, Avg Yield: 0.41
+Odisha,Mesta	Total Area: 58940.0, Total Agri Land: 69341.17647058824, Total Barren Land: 10401.176470588236, Avg Yield: 4.20
+Odisha,Moong(Green Gram)	Total Area: 5722235.0, Total Agri Land: 6732041.176470588, Total Barren Land: 1009806.1764705882, Avg Yield: 0.30
+Odisha,Niger seed	Total Area: 910482.0, Total Agri Land: 1071155.2941176472, Total Barren Land: 160673.29411764705, Avg Yield: 0.31
+Odisha,Onion	Total Area: 207974.0, Total Agri Land: 244675.29411764705, Total Barren Land: 36701.29411764706, Avg Yield: 8.86
+Odisha,Other  Rabi pulses	Total Area: 219680.0, Total Agri Land: 258447.05882352943, Total Barren Land: 38767.05882352941, Avg Yield: 0.56
+Odisha,Other Kharif pulses	Total Area: 176930.0, Total Agri Land: 208152.9411764706, Total Barren Land: 31222.94117647059, Avg Yield: 0.48
+Odisha,Peas & beans (Pulses)	Total Area: 33400.0, Total Agri Land: 39294.117647058825, Total Barren Land: 5894.117647058824, Avg Yield: 0.77
+Odisha,Potato	Total Area: 162125.0, Total Agri Land: 190735.29411764705, Total Barren Land: 28610.294117647063, Avg Yield: 10.34
+Odisha,Ragi	Total Area: 1558493.0, Total Agri Land: 1833521.1764705882, Total Barren Land: 275028.1764705883, Avg Yield: 0.61
+Odisha,Rapeseed &Mustard	Total Area: 392840.0, Total Agri Land: 462164.7058823529, Total Barren Land: 69324.70588235295, Avg Yield: 0.20
+Odisha,Rice	Total Area: 101876343.0, Total Agri Land: 119854521.1764706, Total Barren Land: 17978178.176470596, Avg Yield: 1.66
+Odisha,Safflower	Total Area: 12714.0, Total Agri Land: 14957.647058823532, Total Barren Land: 2243.6470588235297, Avg Yield: 0.50
+Odisha,Sannhamp	Total Area: 27490.0, Total Agri Land: 32341.176470588234, Total Barren Land: 4851.176470588235, Avg Yield: 4.29
+Odisha,Sesamum	Total Area: 1100210.0, Total Agri Land: 1294364.7058823528, Total Barren Land: 194154.70588235295, Avg Yield: 0.25
+Odisha,Small millets	Total Area: 239595.0, Total Agri Land: 281876.4705882353, Total Barren Land: 42281.4705882353, Avg Yield: 0.43
+Odisha,Soyabean	Total Area: 60.0, Total Agri Land: 70.58823529411765, Total Barren Land: 10.588235294117649, Avg Yield: 0.17
+Odisha,Sugarcane	Total Area: 318270.0, Total Agri Land: 374435.29411764716, Total Barren Land: 56165.294117647085, Avg Yield: 57.30
+Odisha,Sunflower	Total Area: 57928.0, Total Agri Land: 68150.58823529411, Total Barren Land: 10222.588235294119, Avg Yield: 0.69
+Odisha,Sweet potato	Total Area: 303942.0, Total Agri Land: 357578.8235294118, Total Barren Land: 53636.82352941177, Avg Yield: 8.42
+Odisha,Tobacco	Total Area: 30780.0, Total Agri Land: 36211.76470588235, Total Barren Land: 5431.764705882353, Avg Yield: 0.55
+Odisha,Turmeric	Total Area: 181130.0, Total Agri Land: 213094.11764705885, Total Barren Land: 31964.117647058825, Avg Yield: 2.19
+Odisha,Urad	Total Area: 2978268.0, Total Agri Land: 3503844.705882354, Total Barren Land: 525576.7058823529, Avg Yield: 0.30
+Odisha,Wheat	Total Area: 86373.0, Total Agri Land: 101615.29411764705, Total Barren Land: 15242.294117647058, Avg Yield: 1.37
+Puducherry,Arecanut	Total Area: 1018.0, Total Agri Land: 1197.6470588235295, Total Barren Land: 179.6470588235294, Avg Yield: 1.44
+Puducherry,Bajra	Total Area: 1424.0, Total Agri Land: 1675.2941176470583, Total Barren Land: 251.29411764705893, Avg Yield: 2.35
+Puducherry,Banana	Total Area: 5664.0, Total Agri Land: 6663.529411764705, Total Barren Land: 999.529411764706, Avg Yield: 22.83
+Puducherry,Black pepper	Total Area: 208.0, Total Agri Land: 244.70588235294122, Total Barren Land: 36.70588235294118, Avg Yield: 0.83
+Puducherry,Cashewnut	Total Area: 3062.0, Total Agri Land: 3602.3529411764694, Total Barren Land: 540.3529411764707, Avg Yield: 0.75
+Puducherry,Coconut	Total Area: 40344.0, Total Agri Land: 47463.529411764706, Total Barren Land: 7119.5294117647045, Avg Yield: 11354.78
+Puducherry,Coriander	Total Area: 29.0, Total Agri Land: 34.11764705882353, Total Barren Land: 5.117647058823529, Avg Yield: 0.68
+Puducherry,Cotton(lint)	Total Area: 5236.0, Total Agri Land: 6160.0, Total Barren Land: 924.0, Avg Yield: 2.04
+Puducherry,Dry chillies	Total Area: 167.0, Total Agri Land: 196.47058823529431, Total Barren Land: 29.47058823529412, Avg Yield: 4.89
+Puducherry,Ginger	Total Area: 718.0, Total Agri Land: 844.7058823529412, Total Barren Land: 126.70588235294119, Avg Yield: 0.54
+Puducherry,Groundnut	Total Area: 12948.0, Total Agri Land: 15232.941176470591, Total Barren Land: 2284.9411764705887, Avg Yield: 2.21
+Puducherry,Jowar	Total Area: 46.0, Total Agri Land: 54.11764705882353, Total Barren Land: 8.117647058823529, Avg Yield: 1.91
+Puducherry,Moong(Green Gram)	Total Area: 27744.0, Total Agri Land: 32640.000000000004, Total Barren Land: 4896.0, Avg Yield: 0.60
+Puducherry,Onion	Total Area: 123.0, Total Agri Land: 144.7058823529412, Total Barren Land: 21.70588235294117, Avg Yield: 9.33
+Puducherry,Other  Rabi pulses	Total Area: 918.0, Total Agri Land: 1080.0, Total Barren Land: 162.00000000000003, Avg Yield: 1.06
+Puducherry,Other Cereals	Total Area: 310.0, Total Agri Land: 364.70588235294116, Total Barren Land: 54.70588235294118, Avg Yield: 2.03
+Puducherry,Other Kharif pulses	Total Area: 134.0, Total Agri Land: 157.6470588235294, Total Barren Land: 23.647058823529413, Avg Yield: 1.15
+Puducherry,Other Summer Pulses	Total Area: 56.0, Total Agri Land: 65.88235294117646, Total Barren Land: 9.882352941176471, Avg Yield: 1.35
+Puducherry,Ragi	Total Area: 1427.0, Total Agri Land: 1678.8235294117642, Total Barren Land: 251.82352941176472, Avg Yield: 2.22
+Puducherry,Rapeseed &Mustard	Total Area: 198.0, Total Agri Land: 232.94117647058823, Total Barren Land: 34.94117647058824, Avg Yield: 6.21
+Puducherry,Rice	Total Area: 471135.0, Total Agri Land: 554276.4705882353, Total Barren Land: 83141.47058823529, Avg Yield: 2.90
+Puducherry,Sesamum	Total Area: 2436.0, Total Agri Land: 2865.882352941176, Total Barren Land: 429.8823529411765, Avg Yield: 0.76
+Puducherry,Small millets	Total Area: 54.0, Total Agri Land: 63.52941176470589, Total Barren Land: 9.529411764705882, Avg Yield: 1.10
+Puducherry,Sugarcane	Total Area: 43702.0, Total Agri Land: 51414.11764705882, Total Barren Land: 7712.117647058824, Avg Yield: 108.79
+Puducherry,Sunflower	Total Area: 10.0, Total Agri Land: 11.764705882352942, Total Barren Land: 1.7647058823529411, Avg Yield: 0.85
+Puducherry,Sweet potato	Total Area: 47.0, Total Agri Land: 55.294117647058826, Total Barren Land: 8.294117647058822, Avg Yield: 8.41
+Puducherry,Tapioca	Total Area: 6077.0, Total Agri Land: 7149.411764705882, Total Barren Land: 1072.4117647058824, Avg Yield: 23.70
+Puducherry,Tobacco	Total Area: 209.0, Total Agri Land: 245.88235294117646, Total Barren Land: 36.88235294117647, Avg Yield: 30.17
+Puducherry,Turmeric	Total Area: 64.0, Total Agri Land: 75.29411764705881, Total Barren Land: 11.294117647058824, Avg Yield: 2.74
+Puducherry,Urad	Total Area: 28033.0, Total Agri Land: 32980.0, Total Barren Land: 4947.000000000001, Avg Yield: 0.72
+Punjab,Arhar/Tur	Total Area: 134500.0, Total Agri Land: 158235.29411764708, Total Barren Land: 23735.294117647063, Avg Yield: 0.96
+Punjab,Bajra	Total Area: 81600.0, Total Agri Land: 96000.0, Total Barren Land: 14400.000000000002, Avg Yield: 0.93
+Punjab,Barley	Total Area: 406000.0, Total Agri Land: 477647.05882352946, Total Barren Land: 71647.05882352943, Avg Yield: 3.46
+Punjab,Cotton(lint)	Total Area: 10830900.0, Total Agri Land: 12742235.294117648, Total Barren Land: 1911335.2941176475, Avg Yield: 3.15
+Punjab,Gram	Total Area: 102400.0, Total Agri Land: 120470.58823529411, Total Barren Land: 18070.58823529412, Avg Yield: 1.06
+Punjab,Groundnut	Total Area: 68800.0, Total Agri Land: 80941.17647058822, Total Barren Land: 12141.176470588238, Avg Yield: 1.32
+Punjab,Guar seed	Total Area: 470100.0, Total Agri Land: 553058.8235294118, Total Barren Land: 82958.82352941178, Avg Yield: 0.88
+Punjab,Jowar	Total Area: 400.0, Total Agri Land: 470.5882352941177, Total Barren Land: 70.58823529411765, Avg Yield: 1.00
+Punjab,Linseed	Total Area: 1800.0, Total Agri Land: 2117.6470588235297, Total Barren Land: 317.64705882352945, Avg Yield: 0.92
+Punjab,Maize	Total Area: 3230800.0, Total Agri Land: 3800941.176470589, Total Barren Land: 570141.1764705882, Avg Yield: 3.28
+Punjab,Masoor	Total Area: 49500.0, Total Agri Land: 58235.294117647056, Total Barren Land: 8735.29411764706, Avg Yield: 0.67
+Punjab,Moong(Green Gram)	Total Area: 387800.0, Total Agri Land: 456235.29411764705, Total Barren Land: 68435.29411764706, Avg Yield: 0.80
+Punjab,Moth	Total Area: 2200.0, Total Agri Land: 2588.2352941176473, Total Barren Land: 388.2352941176471, Avg Yield: 0.89
+Punjab,Other  Rabi pulses	Total Area: 5900.0, Total Agri Land: 6941.176470588235, Total Barren Land: 1041.1764705882354, Avg Yield: 1.01
+Punjab,Peas & beans (Pulses)	Total Area: 42500.0, Total Agri Land: 50000.0, Total Barren Land: 7500.000000000001, Avg Yield: 1.14
+Punjab,Rapeseed &Mustard	Total Area: 866100.0, Total Agri Land: 1018941.1764705884, Total Barren Land: 152841.17647058828, Avg Yield: 1.23
+Punjab,Rice	Total Area: 63430000.0, Total Agri Land: 74623529.41176471, Total Barren Land: 11193529.411764706, Avg Yield: 3.76
+Punjab,Sesamum	Total Area: 204100.0, Total Agri Land: 240117.64705882358, Total Barren Land: 36017.64705882353, Avg Yield: 0.34
+Punjab,Sugarcane	Total Area: 1912000.0, Total Agri Land: 2249411.764705883, Total Barren Land: 337411.76470588247, Avg Yield: 66.69
+Punjab,Sunflower	Total Area: 53800.0, Total Agri Land: 63294.11764705882, Total Barren Land: 9494.117647058823, Avg Yield: 1.83
+Punjab,Urad	Total Area: 62400.0, Total Agri Land: 73411.76470588236, Total Barren Land: 11011.76470588235, Avg Yield: 0.57
+Punjab,Wheat	Total Area: 79694000.0, Total Agri Land: 93757647.05882353, Total Barren Land: 14063647.058823528, Avg Yield: 4.51
+Punjab,other oilseeds	Total Area: 2600.0, Total Agri Land: 3058.823529411765, Total Barren Land: 458.82352941176475, Avg Yield: 1.39
+Sikkim,Barley	Total Area: 19562.0, Total Agri Land: 23014.11764705882, Total Barren Land: 3452.117647058824, Avg Yield: 1.07
+Sikkim,Maize	Total Area: 908408.0, Total Agri Land: 1068715.294117647, Total Barren Land: 160307.29411764708, Avg Yield: 1.74
+Sikkim,Other  Rabi pulses	Total Area: 4610.0, Total Agri Land: 5423.529411764706, Total Barren Land: 813.529411764706, Avg Yield: 1.09
+Sikkim,Other Cereals	Total Area: 37913.0, Total Agri Land: 44603.52941176471, Total Barren Land: 6690.529411764707, Avg Yield: 0.88
+Sikkim,Other Kharif pulses	Total Area: 54565.0, Total Agri Land: 64194.11764705883, Total Barren Land: 9629.117647058823, Avg Yield: 1.08
+Sikkim,Potato	Total Area: 13230.0, Total Agri Land: 15564.70588235294, Total Barren Land: 2334.7058823529414, Avg Yield: 4.78
+Sikkim,Rapeseed &Mustard	Total Area: 108590.0, Total Agri Land: 127752.94117647059, Total Barren Land: 19162.941176470587, Avg Yield: 0.88
+Sikkim,Rice	Total Area: 279231.0, Total Agri Land: 328507.0588235294, Total Barren Land: 49276.05882352942, Avg Yield: 2.05
+Sikkim,Small millets	Total Area: 79339.0, Total Agri Land: 93340.0, Total Barren Land: 14000.999999999996, Avg Yield: 1.03
+Sikkim,Soyabean	Total Area: 83445.0, Total Agri Land: 98170.58823529414, Total Barren Land: 14725.588235294115, Avg Yield: 1.02
+Sikkim,Urad	Total Area: 76067.0, Total Agri Land: 89490.58823529411, Total Barren Land: 13423.588235294119, Avg Yield: 1.00
+Sikkim,Wheat	Total Area: 94119.0, Total Agri Land: 110728.23529411764, Total Barren Land: 16609.235294117647, Avg Yield: 1.16
+Sikkim,other oilseeds	Total Area: 320.0, Total Agri Land: 376.47058823529414, Total Barren Land: 56.47058823529413, Avg Yield: 0.57
+Tamil Nadu,Arecanut	Total Area: 96605.0, Total Agri Land: 113652.9411764706, Total Barren Land: 17047.94117647059, Avg Yield: 1.51
+Tamil Nadu,Arhar/Tur	Total Area: 995965.0, Total Agri Land: 1171723.5294117648, Total Barren Land: 175758.52941176473, Avg Yield: 0.79
+Tamil Nadu,Bajra	Total Area: 1812435.0, Total Agri Land: 2132276.4705882347, Total Barren Land: 319841.4705882353, Avg Yield: 2.08
+Tamil Nadu,Banana	Total Area: 1740727.0, Total Agri Land: 2047914.117647059, Total Barren Land: 307187.11764705885, Avg Yield: 40.59
+Tamil Nadu,Black pepper	Total Area: 63360.0, Total Agri Land: 74541.17647058822, Total Barren Land: 11181.176470588234, Avg Yield: 0.17
+Tamil Nadu,Cardamom	Total Area: 70931.0, Total Agri Land: 83448.23529411765, Total Barren Land: 12517.23529411765, Avg Yield: 0.11
+Tamil Nadu,Cashewnut	Total Area: 1762635.0, Total Agri Land: 2073688.235294118, Total Barren Land: 311053.23529411777, Avg Yield: 18.12
+Tamil Nadu,Castor seed	Total Area: 242065.0, Total Agri Land: 284782.35294117645, Total Barren Land: 42717.35294117647, Avg Yield: 0.36
+Tamil Nadu,Coconut	Total Area: 6434950.0, Total Agri Land: 7570529.411764706, Total Barren Land: 1135579.4117647058, Avg Yield: 11207.50
+Tamil Nadu,Coriander	Total Area: 330176.0, Total Agri Land: 388442.3529411765, Total Barren Land: 58266.35294117647, Avg Yield: 0.38
+Tamil Nadu,Cotton(lint)	Total Area: 3110288.0, Total Agri Land: 3659162.3529411764, Total Barren Land: 548874.3529411765, Avg Yield: 2.06
+Tamil Nadu,Cowpea(Lobia)	Total Area: 192329.0, Total Agri Land: 226269.41176470587, Total Barren Land: 33940.41176470589, Avg Yield: 0.74
+Tamil Nadu,Dry chillies	Total Area: 1075262.0, Total Agri Land: 1265014.1176470593, Total Barren Land: 189752.1176470588, Avg Yield: 0.68
+Tamil Nadu,Garlic	Total Area: 13305.0, Total Agri Land: 15652.941176470587, Total Barren Land: 2347.9411764705883, Avg Yield: 5.06
+Tamil Nadu,Ginger	Total Area: 9144.0, Total Agri Land: 10757.647058823532, Total Barren Land: 1613.6470588235295, Avg Yield: 17.66
+Tamil Nadu,Gram	Total Area: 139122.0, Total Agri Land: 163672.94117647057, Total Barren Land: 24550.941176470587, Avg Yield: 0.62
+Tamil Nadu,Groundnut	Total Area: 11136604.0, Total Agri Land: 13101887.058823531, Total Barren Land: 1965283.0588235294, Avg Yield: 2.41
+Tamil Nadu,Guar seed	Total Area: 332323.0, Total Agri Land: 390968.23529411765, Total Barren Land: 58645.23529411765, Avg Yield: 10.65
+Tamil Nadu,Horse-gram	Total Area: 1571400.0, Total Agri Land: 1848705.8823529414, Total Barren Land: 277305.8823529412, Avg Yield: 0.53
+Tamil Nadu,Jowar	Total Area: 7077660.0, Total Agri Land: 8326658.823529412, Total Barren Land: 1248998.8235294118, Avg Yield: 1.27
+Tamil Nadu,Jute	Total Area: 3.0, Total Agri Land: 3.5294117647058822, Total Barren Land: 0.5294117647058824, Avg Yield: 0.00
+Tamil Nadu,Maize	Total Area: 5155061.0, Total Agri Land: 6064777.647058826, Total Barren Land: 909716.6470588237, Avg Yield: 4.96
+Tamil Nadu,Masoor	Total Area: 131396.0, Total Agri Land: 154583.5294117647, Total Barren Land: 23187.529411764706, Avg Yield: 1.14
+Tamil Nadu,Mesta	Total Area: 577.0, Total Agri Land: 678.8235294117648, Total Barren Land: 101.82352941176471, Avg Yield: 3.22
+Tamil Nadu,Moong(Green Gram)	Total Area: 3592697.0, Total Agri Land: 4226702.352941176, Total Barren Land: 634005.3529411765, Avg Yield: 0.52
+Tamil Nadu,Niger seed	Total Area: 1877.0, Total Agri Land: 2208.2352941176473, Total Barren Land: 331.2352941176471, Avg Yield: 0.00
+Tamil Nadu,Onion	Total Area: 571981.0, Total Agri Land: 672918.8235294117, Total Barren Land: 100937.82352941176, Avg Yield: 8.71
+Tamil Nadu,Other  Rabi pulses	Total Area: 52606.0, Total Agri Land: 61889.41176470589, Total Barren Land: 9283.411764705883, Avg Yield: 0.71
+Tamil Nadu,Other Cereals	Total Area: 113028.0, Total Agri Land: 132974.11764705883, Total Barren Land: 19946.11764705883, Avg Yield: 0.97
+Tamil Nadu,Other Kharif pulses	Total Area: 759783.0, Total Agri Land: 893862.3529411767, Total Barren Land: 134079.35294117648, Avg Yield: 0.43
+Tamil Nadu,Potato	Total Area: 82150.0, Total Agri Land: 96647.0588235294, Total Barren Land: 14497.058823529414, Avg Yield: 19.55
+Tamil Nadu,Ragi	Total Area: 2259711.0, Total Agri Land: 2658483.5294117643, Total Barren Land: 398772.52941176464, Avg Yield: 2.64
+Tamil Nadu,Rapeseed &Mustard	Total Area: 7524.0, Total Agri Land: 8851.764705882353, Total Barren Land: 1327.7647058823527, Avg Yield: 0.20
+Tamil Nadu,Rice	Total Area: 40821940.0, Total Agri Land: 48025811.76470589, Total Barren Land: 7203871.7647058815, Avg Yield: 3.70
+Tamil Nadu,Sannhamp	Total Area: 20369.0, Total Agri Land: 23963.529411764706, Total Barren Land: 3594.5294117647063, Avg Yield: 0.55
+Tamil Nadu,Sesamum	Total Area: 1595561.0, Total Agri Land: 1877130.5882352937, Total Barren Land: 281569.58823529416, Avg Yield: 0.50
+Tamil Nadu,Small millets	Total Area: 750262.0, Total Agri Land: 882661.1764705884, Total Barren Land: 132399.17647058825, Avg Yield: 1.23
+Tamil Nadu,Soyabean	Total Area: 630.0, Total Agri Land: 741.1764705882354, Total Barren Land: 111.1764705882353, Avg Yield: 0.00
+Tamil Nadu,Sugarcane	Total Area: 6204421.0, Total Agri Land: 7299318.823529412, Total Barren Land: 1094897.8235294118, Avg Yield: 102.99
+Tamil Nadu,Sunflower	Total Area: 313500.0, Total Agri Land: 368823.5294117647, Total Barren Land: 55323.529411764706, Avg Yield: 1.26
+Tamil Nadu,Sweet potato	Total Area: 15509.0, Total Agri Land: 18245.882352941175, Total Barren Land: 2736.8823529411766, Avg Yield: 17.27
+Tamil Nadu,Tapioca	Total Area: 1884131.0, Total Agri Land: 2216624.705882353, Total Barren Land: 332493.705882353, Avg Yield: 35.92
+Tamil Nadu,Tobacco	Total Area: 79157.0, Total Agri Land: 93125.88235294117, Total Barren Land: 13968.882352941175, Avg Yield: 1.53
+Tamil Nadu,Turmeric	Total Area: 531615.0, Total Agri Land: 625429.4117647059, Total Barren Land: 93814.41176470587, Avg Yield: 4.79
+Tamil Nadu,Urad	Total Area: 7220022.0, Total Agri Land: 8494143.529411767, Total Barren Land: 1274121.5294117648, Avg Yield: 0.61
+Telangana,Arhar/Tur	Total Area: 2041359.0, Total Agri Land: 2401598.823529412, Total Barren Land: 360239.8235294118, Avg Yield: 0.71
+Telangana,Bajra	Total Area: 72852.0, Total Agri Land: 85708.23529411764, Total Barren Land: 12856.235294117649, Avg Yield: 0.86
+Telangana,Banana	Total Area: 11469.0, Total Agri Land: 13492.941176470587, Total Barren Land: 2023.9411764705885, Avg Yield: 50.41
+Telangana,Cashewnut	Total Area: 17809.0, Total Agri Land: 20951.764705882353, Total Barren Land: 3142.764705882353, Avg Yield: 0.45
+Telangana,Castor seed	Total Area: 299521.0, Total Agri Land: 352377.64705882355, Total Barren Land: 52856.64705882354, Avg Yield: 0.71
+Telangana,Coconut	Total Area: 867.0, Total Agri Land: 1020.0, Total Barren Land: 153.0, Avg Yield: 18679.50
+Telangana,Coriander	Total Area: 8794.0, Total Agri Land: 10345.882352941175, Total Barren Land: 1551.8823529411768, Avg Yield: 0.73
+Telangana,Cotton(lint)	Total Area: 12421120.0, Total Agri Land: 14613082.352941178, Total Barren Land: 2191962.352941177, Avg Yield: 2.46
+Telangana,Cowpea(Lobia)	Total Area: 48963.0, Total Agri Land: 57603.52941176471, Total Barren Land: 8640.529411764706, Avg Yield: 0.99
+Telangana,Dry chillies	Total Area: 595007.0, Total Agri Land: 700008.2352941177, Total Barren Land: 105001.23529411765, Avg Yield: 4.18
+Telangana,Garlic	Total Area: 774.0, Total Agri Land: 910.5882352941177, Total Barren Land: 136.58823529411765, Avg Yield: 2.94
+Telangana,Ginger	Total Area: 13674.0, Total Agri Land: 16087.05882352941, Total Barren Land: 2413.058823529412, Avg Yield: 6.66
+Telangana,Gram	Total Area: 675790.0, Total Agri Land: 795047.0588235294, Total Barren Land: 119257.05882352941, Avg Yield: 1.33
+Telangana,Groundnut	Total Area: 1064258.0, Total Agri Land: 1252068.2352941178, Total Barren Land: 187810.23529411768, Avg Yield: 1.96
+Telangana,Horse-gram	Total Area: 12084.0, Total Agri Land: 14216.470588235296, Total Barren Land: 2132.4705882352946, Avg Yield: 0.46
+Telangana,Jowar	Total Area: 563896.0, Total Agri Land: 663407.0588235294, Total Barren Land: 99511.05882352943, Avg Yield: 1.11
+Telangana,Linseed	Total Area: 281.0, Total Agri Land: 330.5882352941177, Total Barren Land: 49.58823529411765, Avg Yield: 0.44
+Telangana,Maize	Total Area: 4633082.0, Total Agri Land: 5450684.705882354, Total Barren Land: 817602.705882353, Avg Yield: 4.81
+Telangana,Masoor	Total Area: 482.0, Total Agri Land: 567.0588235294118, Total Barren Land: 85.05882352941178, Avg Yield: 0.42
+Telangana,Mesta	Total Area: 287.0, Total Agri Land: 337.6470588235294, Total Barren Land: 50.64705882352941, Avg Yield: 8.14
+Telangana,Moong(Green Gram)	Total Area: 1157044.0, Total Agri Land: 1361228.2352941178, Total Barren Land: 204184.23529411768, Avg Yield: 0.84
+Telangana,Onion	Total Area: 93344.0, Total Agri Land: 109816.4705882353, Total Barren Land: 16472.470588235297, Avg Yield: 23.60
+Telangana,Other  Rabi pulses	Total Area: 628.0, Total Agri Land: 738.8235294117646, Total Barren Land: 110.82352941176472, Avg Yield: 0.91
+Telangana,Other Kharif pulses	Total Area: 592.0, Total Agri Land: 696.470588235294, Total Barren Land: 104.47058823529412, Avg Yield: 0.44
+Telangana,Potato	Total Area: 17130.0, Total Agri Land: 20152.94117647059, Total Barren Land: 3022.9411764705887, Avg Yield: 11.25
+Telangana,Ragi	Total Area: 9711.0, Total Agri Land: 11424.705882352942, Total Barren Land: 1713.7058823529412, Avg Yield: 1.21
+Telangana,Rapeseed &Mustard	Total Area: 4462.0, Total Agri Land: 5249.411764705883, Total Barren Land: 787.4117647058824, Avg Yield: 1.16
+Telangana,Rice	Total Area: 13394980.0, Total Agri Land: 15758800.0, Total Barren Land: 2363820.0, Avg Yield: 3.21
+Telangana,Safflower	Total Area: 28245.0, Total Agri Land: 33229.41176470588, Total Barren Land: 4984.411764705882, Avg Yield: 0.72
+Telangana,Sesamum	Total Area: 137003.0, Total Agri Land: 161179.99999999997, Total Barren Land: 24176.999999999996, Avg Yield: 0.35
+Telangana,Small millets	Total Area: 4579.0, Total Agri Land: 5387.058823529412, Total Barren Land: 808.0588235294117, Avg Yield: 1.07
+Telangana,Soyabean	Total Area: 1477357.0, Total Agri Land: 1738067.0588235294, Total Barren Land: 260710.0588235294, Avg Yield: 1.35
+Telangana,Sugarcane	Total Area: 243427.0, Total Agri Land: 286384.70588235295, Total Barren Land: 42957.705882352944, Avg Yield: 78.03
+Telangana,Sunflower	Total Area: 66153.0, Total Agri Land: 77827.05882352941, Total Barren Land: 11674.058823529413, Avg Yield: 1.52
+Telangana,Sweet potato	Total Area: 909.0, Total Agri Land: 1069.4117647058824, Total Barren Land: 160.41176470588235, Avg Yield: 9.81
+Telangana,Tobacco	Total Area: 35642.0, Total Agri Land: 41931.76470588235, Total Barren Land: 6289.764705882354, Avg Yield: 3.42
+Telangana,Turmeric	Total Area: 344920.0, Total Agri Land: 405788.23529411765, Total Barren Land: 60868.23529411765, Avg Yield: 5.61
+Telangana,Urad	Total Area: 245931.0, Total Agri Land: 289330.58823529416, Total Barren Land: 43399.588235294126, Avg Yield: 0.89
+Telangana,Wheat	Total Area: 36702.0, Total Agri Land: 43178.82352941177, Total Barren Land: 6476.823529411764, Avg Yield: 1.34
+Telangana,other oilseeds	Total Area: 11014.0, Total Agri Land: 12957.647058823528, Total Barren Land: 1943.6470588235295, Avg Yield: 14.73
+Tripura,Arhar/Tur	Total Area: 44003.0, Total Agri Land: 51768.23529411764, Total Barren Land: 7765.235294117646, Avg Yield: 0.73
+Tripura,Cotton(lint)	Total Area: 21717.0, Total Agri Land: 25549.41176470589, Total Barren Land: 3832.411764705882, Avg Yield: 1.34
+Tripura,Cowpea(Lobia)	Total Area: 20797.0, Total Agri Land: 24467.058823529413, Total Barren Land: 3670.058823529412, Avg Yield: 0.74
+Tripura,Gram	Total Area: 3041.0, Total Agri Land: 3577.6470588235293, Total Barren Land: 536.6470588235295, Avg Yield: 0.75
+Tripura,Groundnut	Total Area: 18808.0, Total Agri Land: 22127.05882352941, Total Barren Land: 3319.0588235294126, Avg Yield: 1.16
+Tripura,Jowar	Total Area: 3380.0, Total Agri Land: 3976.470588235294, Total Barren Land: 596.4705882352941, Avg Yield: 0.81
+Tripura,Jute	Total Area: 10905.0, Total Agri Land: 12829.411764705883, Total Barren Land: 1924.4117647058824, Avg Yield: 8.41
+Tripura,Khesari	Total Area: 80.0, Total Agri Land: 94.11764705882354, Total Barren Land: 14.11764705882353, Avg Yield: 0.67
+Tripura,Linseed	Total Area: 270.0, Total Agri Land: 317.6470588235294, Total Barren Land: 47.64705882352942, Avg Yield: 0.70
+Tripura,Maize	Total Area: 115054.0, Total Agri Land: 135357.64705882352, Total Barren Land: 20303.64705882353, Avg Yield: 1.26
+Tripura,Masoor	Total Area: 22648.0, Total Agri Land: 26644.70588235294, Total Barren Land: 3996.7058823529414, Avg Yield: 0.67
+Tripura,Mesta	Total Area: 14240.0, Total Agri Land: 16752.941176470587, Total Barren Land: 2512.9411764705883, Avg Yield: 8.04
+Tripura,Moong(Green Gram)	Total Area: 56610.0, Total Agri Land: 66600.00000000001, Total Barren Land: 9990.0, Avg Yield: 0.58
+Tripura,Other  Rabi pulses	Total Area: 15537.0, Total Agri Land: 18278.82352941177, Total Barren Land: 2741.8235294117653, Avg Yield: 0.81
+Tripura,Other Kharif pulses	Total Area: 27576.0, Total Agri Land: 32442.352941176476, Total Barren Land: 4866.35294117647, Avg Yield: 0.75
+Tripura,Peas & beans (Pulses)	Total Area: 27735.0, Total Agri Land: 32629.411764705885, Total Barren Land: 4894.411764705882, Avg Yield: 0.78
+Tripura,Potato	Total Area: 27910.0, Total Agri Land: 32835.294117647056, Total Barren Land: 4925.2941176470595, Avg Yield: 17.73
+Tripura,Rapeseed &Mustard	Total Area: 65504.0, Total Agri Land: 77063.52941176471, Total Barren Land: 11559.529411764706, Avg Yield: 0.79
+Tripura,Rice	Total Area: 5646153.0, Total Agri Land: 6642532.941176472, Total Barren Land: 996379.9411764708, Avg Yield: 2.47
+Tripura,Sesamum	Total Area: 53519.0, Total Agri Land: 62963.5294117647, Total Barren Land: 9444.529411764704, Avg Yield: 0.56
+Tripura,Small millets	Total Area: 1886.0, Total Agri Land: 2218.823529411765, Total Barren Land: 332.8235294117647, Avg Yield: 0.81
+Tripura,Soyabean	Total Area: 1380.0, Total Agri Land: 1623.5294117647059, Total Barren Land: 243.5294117647059, Avg Yield: 0.78
+Tripura,Sugarcane	Total Area: 20265.0, Total Agri Land: 23841.176470588234, Total Barren Land: 3576.176470588235, Avg Yield: 51.02
+Tripura,Urad	Total Area: 39822.0, Total Agri Land: 46849.411764705896, Total Barren Land: 7027.411764705885, Avg Yield: 0.62
+Tripura,Wheat	Total Area: 14539.0, Total Agri Land: 17104.70588235294, Total Barren Land: 2565.705882352941, Avg Yield: 2.04
+Tripura,other oilseeds	Total Area: 5149.0, Total Agri Land: 6057.647058823529, Total Barren Land: 908.6470588235295, Avg Yield: 0.74
+Uttar Pradesh,Arhar/Tur	Total Area: 6857376.0, Total Agri Land: 8067501.17647059, Total Barren Land: 1210125.1764705882, Avg Yield: 0.93
+Uttar Pradesh,Bajra	Total Area: 20391499.0, Total Agri Land: 23989998.82352941, Total Barren Land: 3598499.823529412, Avg Yield: 1.42
+Uttar Pradesh,Banana	Total Area: 239938.0, Total Agri Land: 282279.99999999994, Total Barren Land: 42341.99999999999, Avg Yield: 43.38
+Uttar Pradesh,Barley	Total Area: 4684701.0, Total Agri Land: 5511412.941176469, Total Barren Land: 826711.9411764706, Avg Yield: 2.30
+Uttar Pradesh,Castor seed	Total Area: 160.0, Total Agri Land: 188.23529411764707, Total Barren Land: 28.23529411764706, Avg Yield: 0.71
+Uttar Pradesh,Coriander	Total Area: 90599.0, Total Agri Land: 106587.05882352941, Total Barren Land: 15988.058823529414, Avg Yield: 0.57
+Uttar Pradesh,Cotton(lint)	Total Area: 106359.0, Total Agri Land: 125128.23529411765, Total Barren Land: 18769.235294117647, Avg Yield: 0.51
+Uttar Pradesh,Dry chillies	Total Area: 230171.0, Total Agri Land: 270789.4117647059, Total Barren Land: 40618.41176470589, Avg Yield: 0.89
+Uttar Pradesh,Garlic	Total Area: 477437.0, Total Agri Land: 561690.5882352941, Total Barren Land: 84253.58823529414, Avg Yield: 5.46
+Uttar Pradesh,Ginger	Total Area: 11424.0, Total Agri Land: 13440.0, Total Barren Land: 2016.0, Avg Yield: 3.67
+Uttar Pradesh,Gram	Total Area: 15084734.0, Total Agri Land: 17746745.88235294, Total Barren Land: 2662011.882352941, Avg Yield: 0.99
+Uttar Pradesh,Groundnut	Total Area: 2194479.0, Total Agri Land: 2581740.0000000005, Total Barren Land: 387260.99999999994, Avg Yield: 0.88
+Uttar Pradesh,Guar seed	Total Area: 35979.0, Total Agri Land: 42328.23529411765, Total Barren Land: 6349.235294117647, Avg Yield: 0.80
+Uttar Pradesh,Jowar	Total Area: 5375666.0, Total Agri Land: 6324312.94117647, Total Barren Land: 948646.9411764707, Avg Yield: 1.01
+Uttar Pradesh,Jute	Total Area: 134.0, Total Agri Land: 157.64705882352942, Total Barren Land: 23.647058823529413, Avg Yield: 0.80
+Uttar Pradesh,Linseed	Total Area: 868533.0, Total Agri Land: 1021803.5294117647, Total Barren Land: 153270.52941176473, Avg Yield: 0.45
+Uttar Pradesh,Maize	Total Area: 18799873.0, Total Agri Land: 22117497.647058822, Total Barren Land: 3317624.6470588236, Avg Yield: 1.91
+Uttar Pradesh,Masoor	Total Area: 10488455.0, Total Agri Land: 12339358.823529413, Total Barren Land: 1850903.823529412, Avg Yield: 0.84
+Uttar Pradesh,Moong(Green Gram)	Total Area: 1673773.0, Total Agri Land: 1969144.7058823528, Total Barren Land: 295371.70588235284, Avg Yield: 0.50
+Uttar Pradesh,Moth	Total Area: 934689.0, Total Agri Land: 1099634.117647059, Total Barren Land: 164945.11764705885, Avg Yield: 0.43
+Uttar Pradesh,Onion	Total Area: 464911.0, Total Agri Land: 546954.1176470589, Total Barren Land: 82043.11764705883, Avg Yield: 14.05
+Uttar Pradesh,Other  Rabi pulses	Total Area: 739695.0, Total Agri Land: 870229.4117647058, Total Barren Land: 130534.4117647059, Avg Yield: 1.04
+Uttar Pradesh,Other Kharif pulses	Total Area: 606775.0, Total Agri Land: 713852.9411764706, Total Barren Land: 107077.9411764706, Avg Yield: 0.54
+Uttar Pradesh,Peas & beans (Pulses)	Total Area: 6739658.0, Total Agri Land: 7929009.4117647065, Total Barren Land: 1189351.4117647058, Avg Yield: 1.26
+Uttar Pradesh,Potato	Total Area: 11552511.0, Total Agri Land: 13591189.41176471, Total Barren Land: 2038678.411764706, Avg Yield: 21.74
+Uttar Pradesh,Ragi	Total Area: 273183.0, Total Agri Land: 321391.76470588235, Total Barren Land: 48208.76470588236, Avg Yield: 1.45
+Uttar Pradesh,Rapeseed &Mustard	Total Area: 14595615.0, Total Agri Land: 17171311.764705885, Total Barren Land: 2575696.764705882, Avg Yield: 0.95
+Uttar Pradesh,Rice	Total Area: 133906498.0, Total Agri Land: 157537056.47058824, Total Barren Land: 23630558.470588237, Avg Yield: 2.20
+Uttar Pradesh,Sannhamp	Total Area: 55728.0, Total Agri Land: 65562.35294117646, Total Barren Land: 9834.352941176472, Avg Yield: 0.29
+Uttar Pradesh,Sesamum	Total Area: 5048687.0, Total Agri Land: 5939631.7647058815, Total Barren Land: 890944.7647058823, Avg Yield: 0.18
+Uttar Pradesh,Small millets	Total Area: 981531.0, Total Agri Land: 1154742.3529411762, Total Barren Land: 173211.35294117653, Avg Yield: 0.82
+Uttar Pradesh,Soyabean	Total Area: 433729.0, Total Agri Land: 510269.41176470584, Total Barren Land: 76540.4117647059, Avg Yield: 0.77
+Uttar Pradesh,Sugarcane	Total Area: 48805555.0, Total Agri Land: 57418300.0, Total Barren Land: 8612745.0, Avg Yield: 55.51
+Uttar Pradesh,Sunflower	Total Area: 191622.0, Total Agri Land: 225437.64705882352, Total Barren Land: 33815.64705882353, Avg Yield: 1.55
+Uttar Pradesh,Sweet potato	Total Area: 277574.0, Total Agri Land: 326557.6470588235, Total Barren Land: 48983.64705882353, Avg Yield: 12.44
+Uttar Pradesh,Tobacco	Total Area: 519466.0, Total Agri Land: 611136.4705882353, Total Barren Land: 91670.4705882353, Avg Yield: 4.14
+Uttar Pradesh,Turmeric	Total Area: 28430.0, Total Agri Land: 33447.05882352941, Total Barren Land: 5017.058823529413, Avg Yield: 2.26
+Uttar Pradesh,Urad	Total Area: 10142547.0, Total Agri Land: 11932408.235294119, Total Barren Land: 1789861.2352941183, Avg Yield: 0.57
+Uttar Pradesh,Wheat	Total Area: 218762941.0, Total Agri Land: 257368165.88235292, Total Barren Land: 38605224.88235295, Avg Yield: 2.90
+Uttarakhand,Arhar/Tur	Total Area: 51634.0, Total Agri Land: 60745.88235294117, Total Barren Land: 9111.882352941177, Avg Yield: 0.71
+Uttarakhand,Bajra	Total Area: 142.0, Total Agri Land: 167.05882352941177, Total Barren Land: 25.058823529411764, Avg Yield: 1.07
+Uttarakhand,Barley	Total Area: 462019.0, Total Agri Land: 543551.7647058824, Total Barren Land: 81532.76470588235, Avg Yield: 1.26
+Uttarakhand,Dry chillies	Total Area: 5671.0, Total Agri Land: 6671.764705882353, Total Barren Land: 1000.764705882353, Avg Yield: 0.30
+Uttarakhand,Garlic	Total Area: 67466.0, Total Agri Land: 79371.76470588235, Total Barren Land: 11905.764705882355, Avg Yield: 6.23
+Uttarakhand,Gram	Total Area: 15924.0, Total Agri Land: 18734.11764705883, Total Barren Land: 2810.1176470588234, Avg Yield: 0.67
+Uttarakhand,Groundnut	Total Area: 25351.0, Total Agri Land: 29824.705882352944, Total Barren Land: 4473.7058823529405, Avg Yield: 1.07
+Uttarakhand,Horse-gram	Total Area: 216048.0, Total Agri Land: 254174.11764705883, Total Barren Land: 38126.11764705882, Avg Yield: 0.76
+Uttarakhand,Jowar	Total Area: 8.0, Total Agri Land: 9.411764705882353, Total Barren Land: 1.411764705882353, Avg Yield: 0.74
+Uttarakhand,Linseed	Total Area: 37660.0, Total Agri Land: 44305.88235294117, Total Barren Land: 6645.882352941176, Avg Yield: 0.41
+Uttarakhand,Maize	Total Area: 548879.0, Total Agri Land: 645740.0, Total Barren Land: 96861.00000000001, Avg Yield: 1.57
+Uttarakhand,Masoor	Total Area: 237755.0, Total Agri Land: 279711.7647058823, Total Barren Land: 41956.76470588236, Avg Yield: 0.65
+Uttarakhand,Moong(Green Gram)	Total Area: 35409.0, Total Agri Land: 41657.647058823524, Total Barren Land: 6248.64705882353, Avg Yield: 0.57
+Uttarakhand,Moth	Total Area: 16518.0, Total Agri Land: 19432.941176470587, Total Barren Land: 2914.9411764705887, Avg Yield: 0.44
+Uttarakhand,Onion	Total Area: 71553.0, Total Agri Land: 84180.0, Total Barren Land: 12627.000000000002, Avg Yield: 8.77
+Uttarakhand,Other  Rabi pulses	Total Area: 1950.0, Total Agri Land: 2294.1176470588234, Total Barren Land: 344.1176470588234, Avg Yield: 0.61
+Uttarakhand,Other Cereals	Total Area: 487800.0, Total Agri Land: 573882.3529411764, Total Barren Land: 86082.35294117648, Avg Yield: 0.84
+Uttarakhand,Other Kharif pulses	Total Area: 258639.0, Total Agri Land: 304281.17647058825, Total Barren Land: 45642.17647058824, Avg Yield: 0.85
+Uttarakhand,Other Summer Pulses	Total Area: 15.0, Total Agri Land: 17.647058823529413, Total Barren Land: 2.6470588235294117, Avg Yield: 0.62
+Uttarakhand,Peas & beans (Pulses)	Total Area: 101171.0, Total Agri Land: 119024.70588235295, Total Barren Land: 17853.705882352944, Avg Yield: 0.68
+Uttarakhand,Potato	Total Area: 287209.0, Total Agri Land: 337892.9411764706, Total Barren Land: 50683.941176470595, Avg Yield: 12.22
+Uttarakhand,Ragi	Total Area: 2401535.0, Total Agri Land: 2825335.2941176468, Total Barren Land: 423800.2941176471, Avg Yield: 1.43
+Uttarakhand,Rapeseed &Mustard	Total Area: 273023.0, Total Agri Land: 321203.5294117647, Total Barren Land: 48180.529411764706, Avg Yield: 0.64
+Uttarakhand,Rice	Total Area: 5743405.0, Total Agri Land: 6756947.058823529, Total Barren Land: 1013542.0588235295, Avg Yield: 2.47
+Uttarakhand,Sannhamp	Total Area: 4007.0, Total Agri Land: 4714.117647058823, Total Barren Land: 707.1176470588235, Avg Yield: 0.31
+Uttarakhand,Sesamum	Total Area: 41299.0, Total Agri Land: 48587.058823529405, Total Barren Land: 7288.058823529413, Avg Yield: 0.23
+Uttarakhand,Small millets	Total Area: 922603.0, Total Agri Land: 1085415.294117647, Total Barren Land: 162812.29411764708, Avg Yield: 1.21
+Uttarakhand,Soyabean	Total Area: 208070.0, Total Agri Land: 244788.2352941177, Total Barren Land: 36718.23529411765, Avg Yield: 1.01
+Uttarakhand,Sugarcane	Total Area: 2208474.0, Total Agri Land: 2598204.705882353, Total Barren Land: 389730.70588235295, Avg Yield: 63.06
+Uttarakhand,Sunflower	Total Area: 1477.0, Total Agri Land: 1737.6470588235295, Total Barren Land: 260.64705882352945, Avg Yield: 0.88
+Uttarakhand,Tobacco	Total Area: 1139.0, Total Agri Land: 1340.0, Total Barren Land: 201.00000000000003, Avg Yield: 3.23
+Uttarakhand,Turmeric	Total Area: 11454.0, Total Agri Land: 13475.294117647058, Total Barren Land: 2021.294117647059, Avg Yield: 2.80
+Uttarakhand,Urad	Total Area: 246761.0, Total Agri Land: 290307.05882352934, Total Barren Land: 43546.05882352941, Avg Yield: 0.62
+Uttarakhand,Wheat	Total Area: 7465058.0, Total Agri Land: 8782421.176470589, Total Barren Land: 1317363.1764705884, Avg Yield: 1.81
+Uttarakhand,other oilseeds	Total Area: 14765.0, Total Agri Land: 17370.58823529412, Total Barren Land: 2605.5882352941185, Avg Yield: 0.63
+West Bengal,Arecanut	Total Area: 115797.0, Total Agri Land: 136231.76470588235, Total Barren Land: 20434.764705882353, Avg Yield: 2.00
+West Bengal,Arhar/Tur	Total Area: 62252.0, Total Agri Land: 73237.64705882355, Total Barren Land: 10985.647058823526, Avg Yield: 1.05
+West Bengal,Bajra	Total Area: 3304.0, Total Agri Land: 3887.0588235294117, Total Barren Land: 583.0588235294117, Avg Yield: 0.51
+West Bengal,Barley	Total Area: 60968.0, Total Agri Land: 71727.0588235294, Total Barren Land: 10759.058823529414, Avg Yield: 1.32
+West Bengal,Cardamom	Total Area: 23042.874, Total Agri Land: 27109.263529411764, Total Barren Land: 4066.389529411764, Avg Yield: 0.48
+West Bengal,Castor seed	Total Area: 1803.0, Total Agri Land: 2121.176470588235, Total Barren Land: 318.17647058823536, Avg Yield: 0.72
+West Bengal,Coconut	Total Area: 643681.0, Total Agri Land: 757271.7647058824, Total Barren Land: 113590.7647058824, Avg Yield: 12503.39
+West Bengal,Cotton(lint)	Total Area: 56337.0, Total Agri Land: 66278.82352941178, Total Barren Land: 9941.823529411766, Avg Yield: 2.76
+West Bengal,Dry chillies	Total Area: 718201.0, Total Agri Land: 844942.3529411765, Total Barren Land: 126741.35294117649, Avg Yield: 1.03
+West Bengal,Garlic	Total Area: 3414.0, Total Agri Land: 4016.470588235294, Total Barren Land: 602.4705882352941, Avg Yield: 10.54
+West Bengal,Ginger	Total Area: 102093.0, Total Agri Land: 120109.41176470589, Total Barren Land: 18016.411764705885, Avg Yield: 1.67
+West Bengal,Gram	Total Area: 734899.0, Total Agri Land: 864587.0588235293, Total Barren Land: 129688.05882352941, Avg Yield: 0.97
+West Bengal,Groundnut	Total Area: 1287678.0, Total Agri Land: 1514915.2941176472, Total Barren Land: 227237.2941176471, Avg Yield: 1.52
+West Bengal,Horse-gram	Total Area: 65696.0, Total Agri Land: 77289.41176470587, Total Barren Land: 11593.411764705885, Avg Yield: 0.53
+West Bengal,Jowar	Total Area: 17147.0, Total Agri Land: 20172.941176470584, Total Barren Land: 3025.9411764705883, Avg Yield: 0.51
+West Bengal,Jute	Total Area: 13403803.0, Total Agri Land: 15769180.0, Total Barren Land: 2365377.0000000005, Avg Yield: 15.47
+West Bengal,Khesari	Total Area: 934994.0, Total Agri Land: 1099992.9411764706, Total Barren Land: 164998.94117647057, Avg Yield: 0.94
+West Bengal,Linseed	Total Area: 154376.0, Total Agri Land: 181618.82352941178, Total Barren Land: 27242.82352941177, Avg Yield: 0.33
+West Bengal,Maize	Total Area: 2542102.0, Total Agri Land: 2990708.2352941167, Total Barren Land: 448606.23529411765, Avg Yield: 2.98
+West Bengal,Masoor	Total Area: 1786558.0, Total Agri Land: 2101832.9411764704, Total Barren Land: 315274.9411764706, Avg Yield: 0.71
+West Bengal,Mesta	Total Area: 209592.0, Total Agri Land: 246578.82352941178, Total Barren Land: 36986.82352941176, Avg Yield: 9.77
+West Bengal,Moong(Green Gram)	Total Area: 590921.0, Total Agri Land: 695201.1764705883, Total Barren Land: 104280.17647058824, Avg Yield: 0.65
+West Bengal,Moth	Total Area: 63.0, Total Agri Land: 74.11764705882354, Total Barren Land: 11.11764705882353, Avg Yield: 0.89
+West Bengal,Niger seed	Total Area: 50918765.0, Total Agri Land: 59904429.4117647, Total Barren Land: 8985664.41176471, Avg Yield: 0.52
+West Bengal,Other  Rabi pulses	Total Area: 4247.0, Total Agri Land: 4996.470588235294, Total Barren Land: 749.4705882352941, Avg Yield: 0.55
+West Bengal,Other Kharif pulses	Total Area: 28804.0, Total Agri Land: 33887.05882352941, Total Barren Land: 5083.058823529413, Avg Yield: 0.55
+West Bengal,Peas & beans (Pulses)	Total Area: 272517.0, Total Agri Land: 320608.23529411765, Total Barren Land: 48091.23529411766, Avg Yield: 0.93
+West Bengal,Potato	Total Area: 8646952.0, Total Agri Land: 10172884.705882354, Total Barren Land: 1525932.7058823528, Avg Yield: 19.08
+West Bengal,Ragi	Total Area: 245970.0, Total Agri Land: 289376.4705882353, Total Barren Land: 43406.470588235294, Avg Yield: 0.80
+West Bengal,Rapeseed &Mustard	Total Area: 10208541.0, Total Agri Land: 12010048.235294119, Total Barren Land: 1801507.2352941176, Avg Yield: 0.83
+West Bengal,Rice	Total Area: 129455241.0, Total Agri Land: 152300283.5294118, Total Barren Land: 22845042.529411763, Avg Yield: 2.52
+West Bengal,Safflower	Total Area: 18834.0, Total Agri Land: 22157.647058823528, Total Barren Land: 3323.6470588235293, Avg Yield: 0.72
+West Bengal,Sannhamp	Total Area: 25042.0, Total Agri Land: 29461.176470588238, Total Barren Land: 4419.176470588236, Avg Yield: 4.79
+West Bengal,Sesamum	Total Area: 4124045.0, Total Agri Land: 4851817.647058822, Total Barren Land: 727772.6470588236, Avg Yield: 0.72
+West Bengal,Small millets	Total Area: 74849.0, Total Agri Land: 88057.64705882351, Total Barren Land: 13208.647058823528, Avg Yield: 0.87
+West Bengal,Soyabean	Total Area: 13046.0, Total Agri Land: 15348.235294117647, Total Barren Land: 2302.2352941176464, Avg Yield: 0.68
+West Bengal,Sugarcane	Total Area: 426114.0, Total Agri Land: 501310.5882352941, Total Barren Land: 75196.58823529414, Avg Yield: 83.14
+West Bengal,Sunflower	Total Area: 156694.0, Total Agri Land: 184345.88235294117, Total Barren Land: 27651.882352941182, Avg Yield: 1.08
+West Bengal,Tobacco	Total Area: 277473.0, Total Agri Land: 326438.8235294118, Total Barren Land: 48965.82352941177, Avg Yield: 0.97
+West Bengal,Turmeric	Total Area: 157547.0, Total Agri Land: 185349.4117647059, Total Barren Land: 27802.411764705885, Avg Yield: 1.78
+West Bengal,Urad	Total Area: 1526444.0, Total Agri Land: 1795816.4705882354, Total Barren Land: 269372.47058823536, Avg Yield: 0.67
+West Bengal,Wheat	Total Area: 7582418.0, Total Agri Land: 8920491.764705883, Total Barren Land: 1338073.7647058824, Avg Yield: 2.30
