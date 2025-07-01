@@ -39,7 +39,7 @@ Before you begin, make sure you have installed:
 ## 📥 **How to Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CropYieldMapReduce.git
+git clone https://github.com/SujaySAK777/CropYieldMapReduce.git
 cd CropYieldMapReduce
 ```
 
