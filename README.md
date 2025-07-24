@@ -149,7 +149,7 @@ Your browser will open with 3 sections:
 
 **b) Visualization Dashboard**
 
-- Explore plots and trends from `adjusted_land_utilization.csv`.
+- Explore plots and trends from `crop_analysis_output.csv`.
 - See state-wise land use, barren land %, yield trends, and more.
 
 **c) Hadoop Resource Monitoring**
@@ -192,7 +192,7 @@ Your browser will open with 3 sections:
 
 - Always launch **OpenHardwareMonitor** first to make CPU temperature available.
 - If your `spark-submit` is not in PATH, update `main.py` with the full absolute path to `spark-submit.cmd`.
-- Make sure your CSV (`adjusted_land_utilization.csv`) covers all States & Crops you want to select.
+- Make sure your CSV (`crop_analysis_output.csv`) covers all States & Crops you want to select.
 
 ---
 
